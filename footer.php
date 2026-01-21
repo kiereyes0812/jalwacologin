@@ -1,14 +1,27 @@
+<?php
+// Ensure $BASE_URL exists even if footer.php is used without header.php
+if (!isset($BASE_URL)) {
+    $host = $_SERVER['HTTP_HOST'] ?? 'localhost';
+    $scheme = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? 'https' : 'http';
+    $basePath = '';
+    if ($host === 'localhost' || $host === '127.0.0.1') {
+        $basePath = '/jalwaloginco';
+    }
+    $BASE_URL = $scheme . '://' . $host . $basePath;
+}
+?>
+
 <footer class="footer">
     <div class="footer-content">
         <div class="footer-section">
             <h3>Legal</h3>
             <ul>
-                <li><a href="/about-us/">About Us</a></li>
-                <li><a href="/responsible-gaming/">Responsible Gaming</a></li>
-                <li><a href="/privacy-policy/">Privacy Policy</a></li>
-                <li><a href="/terms-conditions/">Terms &amp; Conditions</a></li>
-                <li><a href="/disclaimer/">Disclaimer</a></li>
-                <li><a href="/contact-us/">Contact Us</a></li>
+                <li><a href="<?php echo $BASE_URL; ?>/about-us/">About Us</a></li>
+                <li><a href="<?php echo $BASE_URL; ?>/responsible-gaming/">Responsible Gaming</a></li>
+                <li><a href="<?php echo $BASE_URL; ?>/privacy-policy/">Privacy Policy</a></li>
+                <li><a href="<?php echo $BASE_URL; ?>/terms-conditions/">Terms &amp; Conditions</a></li>
+                <li><a href="<?php echo $BASE_URL; ?>/disclaimer/">Disclaimer</a></li>
+                <li><a href="<?php echo $BASE_URL; ?>/contact-us/">Contact Us</a></li>
             </ul>
         </div>
         <div class="footer-section">
@@ -28,7 +41,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="footer-bottom">
-                    <p class="copy-right">© 2025, <a href="https://jalwalogin.co/">Jalwa login</a> All rights
+                    <p class="copy-right">© 2025, <a href="<?php echo $BASE_URL; ?>/">Jalwa login</a> All rights
                         reserved.</p>
                 </div>
             </div>
