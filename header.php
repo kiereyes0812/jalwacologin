@@ -22,40 +22,40 @@ $BASE_URL = $scheme . '://' . $host . $basePath;
 
                 <div class="nav__menu" id="nav__menu">
                     <ul class="menu-list">
-                        <li class="menu-link actives"><a href="<?php echo $BASE_URL; ?>/">Home</a></li>
 
                         <li class="menu-link">
                             <a href="#" class="services-toggle">How to <i class="ri-arrow-down-s-fill"></i></a>
                             <ul class="sunmenu">
-                                <li class="sb-links"><a href="<?php echo $BASE_URL; ?>/deposit-money/">Deposit Money</a></li>
-                                <li class="sb-links"><a href="<?php echo $BASE_URL; ?>/withdraw-money/">Withdraw Money</a></li>
-                                <li class="sb-links"><a href="<?php echo $BASE_URL; ?>/change-bank-account/">Change Bank Account</a></li>
-                                <li class="sb-links"><a href="<?php echo $BASE_URL; ?>/remove-bank-account/">Remove Bank Account</a></li>
-                                <li class="sb-links"><a href="<?php echo $BASE_URL; ?>/reset-account-password/">Reset Account Password</a></li>
-                                <li class="sb-links"><a href="<?php echo $BASE_URL; ?>/unlock-account/">Unlock Account</a></li>
-                                <li class="sb-links"><a href="<?php echo $BASE_URL; ?>/change-language/">Change Language</a></li>
-                                <li class="sb-links"><a href="<?php echo $BASE_URL; ?>/find-game-id/">Find Game ID</a></li>
-                                <li class="sb-links"><a href="<?php echo $BASE_URL; ?>/free-recharge-guide/">Free Recharge Guide</a></li>
-                                <li class="sb-links"><a href="<?php echo $BASE_URL; ?>/vip-levels/">VIP Levels</a></li>
-                                <li class="sb-links"><a href="<?php echo $BASE_URL; ?>/winning-tricks/">Winning Tricks</a></li>
-                                <li class="sb-links"><a href="<?php echo $BASE_URL; ?>/mistakes-to-avoid/">Mistakes to Avoid</a></li>
-                                <li class="sb-links"><a href="<?php echo $BASE_URL; ?>/available-bonuses/">Available Bonuses</a></li>
-                                <li class="sb-links"><a href="<?php echo $BASE_URL; ?>/become-agent/">Become Agent</a></li>
-                                <li class="sb-links"><a href="<?php echo $BASE_URL; ?>/colour-prediction-games-guide/">Colour Prediction Guide</a></li>
-                                <li class="sb-links"><a href="<?php echo $BASE_URL; ?>/errors-and-solutions/">Errors and Solutions</a></li>
-                                <li class="sb-links"><a href="<?php echo $BASE_URL; ?>/play-responsibly-guide/">Play Responsibly Guide</a></li>
-                                <li class="sb-links"><a href="<?php echo $BASE_URL; ?>/about-us/">About Us</a></li>
+                                <li class="sb-links"><a href="<?php echo $BASE_URL; ?>/deposit-money/" target="_blank" rel="nofollow noopener noreferrer">Deposit Money</a></li>
+                                <li class="sb-links"><a href="<?php echo $BASE_URL; ?>/withdraw-money/" target="_blank" rel="nofollow noopener noreferrer">Withdraw Money</a></li>
+                                <li class="sb-links"><a href="<?php echo $BASE_URL; ?>/change-bank-account/" target="_blank" rel="nofollow noopener noreferrer">Change Bank Account</a></li>
+                                <li class="sb-links"><a href="<?php echo $BASE_URL; ?>/remove-bank-account/" target="_blank" rel="nofollow noopener noreferrer">Remove Bank Account</a></li>
+                                <li class="sb-links"><a href="<?php echo $BASE_URL; ?>/reset-account-password/" target="_blank" rel="nofollow noopener noreferrer">Reset Account Password</a></li>
+                                <li class="sb-links"><a href="<?php echo $BASE_URL; ?>/unlock-account/" target="_blank" rel="nofollow noopener noreferrer">Unlock Account</a></li>
+                                <li class="sb-links"><a href="<?php echo $BASE_URL; ?>/change-language/" target="_blank" rel="nofollow noopener noreferrer">Change Language</a></li>
+                                <li class="sb-links"><a href="<?php echo $BASE_URL; ?>/find-game-id/" target="_blank" rel="nofollow noopener noreferrer">Find Game ID</a></li>
+                                <li class="sb-links"><a href="<?php echo $BASE_URL; ?>/free-recharge-guide/" target="_blank" rel="nofollow noopener noreferrer">Free Recharge Guide</a></li>
+                                <li class="sb-links"><a href="<?php echo $BASE_URL; ?>/vip-levels/" target="_blank" rel="nofollow noopener noreferrer">VIP Levels</a></li>
+                                <li class="sb-links"><a href="<?php echo $BASE_URL; ?>/winning-tricks/" target="_blank" rel="nofollow noopener noreferrer">Winning Tricks</a></li>
+                                <li class="sb-links"><a href="<?php echo $BASE_URL; ?>/mistakes-to-avoid/" target="_blank" rel="nofollow noopener noreferrer">Mistakes to Avoid</a></li>
+                                <li class="sb-links"><a href="<?php echo $BASE_URL; ?>/available-bonuses/" target="_blank" rel="nofollow noopener noreferrer">Available Bonuses</a></li>
+                                <li class="sb-links"><a href="<?php echo $BASE_URL; ?>/become-agent/" target="_blank" rel="nofollow noopener noreferrer">Become Agent</a></li>
+                                <li class="sb-links"><a href="<?php echo $BASE_URL; ?>/colour-prediction-games-guide/" target="_blank" rel="nofollow noopener noreferrer">Colour Prediction Guide</a></li>
+                                <li class="sb-links"><a href="<?php echo $BASE_URL; ?>/errors-and-solutions/" target="_blank" rel="nofollow noopener noreferrer">Errors and Solutions</a></li>
+                                <li class="sb-links"><a href="<?php echo $BASE_URL; ?>/play-responsibly-guide/" target="_blank" rel="nofollow noopener noreferrer">Play Responsibly Guide</a></li>
+                                
                             </ul>
                         </li>
 
-                        <li class="menu-link"><a href="<?php echo $BASE_URL; ?>/responsible-gaming/">Responsible Gaming</a></li>
-                        <li class="menu-link"><a href="<?php echo $BASE_URL; ?>/contact-us/">Contact Us</a></li>
+                        <li class="menu-link"><a href="<?php echo $BASE_URL; ?>/responsible-gaming/" target="_blank" rel="nofollow noopener noreferrer">Responsible Gaming</a></li>
+                        <li class="menu-link"><a href="<?php echo $BASE_URL; ?>/contact-us/" target="_blank" rel="nofollow noopener noreferrer">Contact Us</a></li>
+                        <li class="menu-link"><a href="<?php echo $BASE_URL; ?>/about-us/" target="_blank" rel="nofollow noopener noreferrer">About Us</a></li>
                     </ul>
                 </div>
 
                 <div class="cta-buttonss">
-                    <a href="https://jalwaclub3.com/#/register?invitationCode=217876380398" class="btnshead register-btn">® Register</a>
-                    <a href="https://jalwaclub3.com/#/login" class="btnshead login-btn">🔒 Login</a>
+                    <a href="https://jalwaclub3.com/#/register?invitationCode=217876380398" class="btnshead register-btn" target="_blank" rel="nofollow noopener noreferrer">® Register</a>
+                    <a href="https://jalwaclub3.com/#/login" class="btnshead login-btn" target="_blank" rel="nofollow noopener noreferrer">🔒 Login</a>
                 </div>
 
                 <div class="nav__toggle" id="nav__toggle">

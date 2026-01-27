@@ -321,7 +321,7 @@
                     <p>If there is payment, deposit, or rewards involved in our game, your money is your responsibility.
                         We are not liable if you lose money because of bad judgment, misuse of your account, or
                         technical issues that are outside our control.
-                        We always advise you to play sensibly and never bet more than you can afford.\
+                        We always advise you to play sensibly and never bet more than you can afford.
                     </p>
                     <div class="all-h2-head">
                         <h2>Legal Compliance</h2>

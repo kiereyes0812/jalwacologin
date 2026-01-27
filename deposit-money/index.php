@@ -49,99 +49,141 @@
   <!-- BlogPosting + Breadcrumb + Organization schema -->
   <script type="application/ld+json">
   {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://jalwalogin.co/#organization",
+      "name": "Jalwa Game",
+      "url": "https://jalwalogin.co/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://jalwalogin.co/assets/image/Jalwa%20game%20login%20logo.webp"
+      },
+      "email": "info@jalwalogin.co"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://jalwalogin.co/#website",
+      "url": "https://jalwalogin.co/",
+      "name": "Jalwa Game",
+      "publisher": {
+        "@id": "https://jalwalogin.co/#organization"
+      },
+      "inLanguage": "en-IN"
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://jalwalogin.co/deposit-money/#blogpost",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://jalwalogin.co/deposit-money/"
+      },
+      "headline": "How to Deposit Money Safely in Your Jalwa Game Account",
+      "description": "Learn the safe and easy steps to deposit money in your Jalwa Game account securely using trusted payment methods and verified platforms.",
+      "image": "https://jalwalogin.co/assets/image/blog/deposit-money.webp",
+      "inLanguage": [
+        "en-IN"
+      ],
+      "publisher": {
+        "@id": "https://jalwalogin.co/#organization"
+      },
+      "author": {
         "@type": "Organization",
-        "@id": "https://jalwalogin.co/#organization",
         "name": "Jalwa Game",
-        "url": "https://jalwalogin.co/",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://jalwalogin.co/assets/image/Jalwa%20game%20login%20logo.webp"
-        },
-        "email": "info@jalwalogin.co"
-      },
-      {
-        "@type": "WebSite",
-        "@id": "https://jalwalogin.co/#website",
-        "url": "https://jalwalogin.co/",
-        "name": "Jalwa Game",
-        "publisher": { "@id": "https://jalwalogin.co/#organization" }
-      },
-      {
-        "@type": "BlogPosting",
-        "@id": "https://jalwalogin.co/deposit-money/#blogpost",
-        "mainEntityOfPage": {
-          "@type": "WebPage",
-          "@id": "https://jalwalogin.co/deposit-money/"
-        },
-        "headline": "How to Deposit Money Safely in Your Jalwa Game Account",
-        "description": "Learn the safe and easy steps to deposit money in your Jalwa Game account securely using trusted payment methods and verified platforms.",
-        "image": "https://jalwalogin.co/assets/image/blog/deposit-money.webp",
-        "inLanguage": ["en-IN"],
-        "publisher": { "@id": "https://jalwalogin.co/#organization" },
-        "author": {
-          "@type": "Organization",
-          "name": "Jalwa Game",
-          "url": "https://jalwalogin.co/"
-        }
-      },
-      {
-        "@type": "BreadcrumbList",
-        "@id": "https://jalwalogin.co/deposit-money/#breadcrumb",
-        "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://jalwalogin.co/" },
-          { "@type": "ListItem", "position": 2, "name": "Deposit Money", "item": "https://jalwalogin.co/deposit-money/" }
-        ]
+        "url": "https://jalwalogin.co/"
       }
-    ]
-  }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://jalwalogin.co/deposit-money/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://jalwalogin.co/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "How to Deposit Money Safely in Your Jalwa Game Account",
+          "item": "https://jalwalogin.co/deposit-money/"
+        }
+      ]
+    }
+  ]
+}
   </script>
 
   <!-- FAQ Schema -->
   <script type="application/ld+json">
   {
-    "@context":"https://schema.org",
-    "@type":"FAQPage",
-    "mainEntity":[
-      {
-        "@type":"Question",
-        "name":"How long does it take for the deposit to reflect?",
-        "acceptedAnswer":{"@type":"Answer","text":"Deposits are usually reflected in your game wallet within a few seconds. In rare cases, it may take up to 1 hour."}
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://jalwalogin.co/#organization",
+      "name": "Jalwa Game",
+      "url": "https://jalwalogin.co/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://jalwalogin.co/assets/image/Jalwa%20game%20login%20logo.webp"
       },
-      {
-        "@type":"Question",
-        "name":"Can I utilise multiple payment methods for deposit?",
-        "acceptedAnswer":{"@type":"Answer","text":"For each transaction, you must use a single method, but you can choose different options each time you deposit."}
+      "email": "info@jalwalogin.co"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://jalwalogin.co/#website",
+      "url": "https://jalwalogin.co/",
+      "name": "Jalwa Game Login",
+      "publisher": {
+        "@id": "https://jalwalogin.co/#organization"
       },
-      {
-        "@type":"Question",
-        "name":"Is there a minimum deposit amount for Jalwa Game?",
-        "acceptedAnswer":{"@type":"Answer","text":"Yes. The minimum deposit amount is ₹100 and it can go up to ₹50,000 depending on the payment method and limits."}
+      "inLanguage": "en-IN"
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://jalwalogin.co/deposit-money/#blogpost",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://jalwalogin.co/deposit-money/"
       },
-      {
-        "@type":"Question",
-        "name":"Can I cancel a deposit transaction in progress?",
-        "acceptedAnswer":{"@type":"Answer","text":"No. Once a deposit is approved, it cannot be cancelled. Always verify the amount and account details before confirming."}
+      "headline": "How to Deposit Money Safely in Your Jalwa Game Account",
+      "description": "Learn the safe and easy steps to deposit money in your Jalwa Game account securely using trusted payment methods and verified platforms.",
+      "image": "https://jalwalogin.co/assets/image/blog/deposit-money.webp",
+      "inLanguage": [
+        "en-IN"
+      ],
+      "publisher": {
+        "@id": "https://jalwalogin.co/#organization"
       },
-      {
-        "@type":"Question",
-        "name":"Are deposits in the Jalwa Game secure?",
-        "acceptedAnswer":{"@type":"Answer","text":"Yes. Deposits use encryption and trusted payment gateways when you deposit through the in-app Wallet or Account section."}
-      },
-      {
-        "@type":"Question",
-        "name":"What should I do if my deposit fails?",
-        "acceptedAnswer":{"@type":"Answer","text":"Check your UPI app or bank details, then contact customer support with your transaction ID if the issue continues."}
-      },
-      {
-        "@type":"Question",
-        "name":"Does Jalwa Game charge any transaction fees for deposits?",
-        "acceptedAnswer":{"@type":"Answer","text":"No. The platform does not charge extra fees with standard payment options."}
+      "author": {
+        "@type": "Organization",
+        "name": "Jalwa Game",
+        "url": "https://jalwalogin.co/"
       }
-    ]
-  }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://jalwalogin.co/deposit-money/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://jalwalogin.co/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "How to Deposit Money Safely in Your Jalwa Game Account",
+          "item": "https://jalwalogin.co/deposit-money/"
+        }
+      ]
+    }
+  ]
+}
   </script>
 </head>
 
@@ -547,22 +589,6 @@
 
   <script src="../js/custom.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"></script>
-
-  <!-- Fallback in case toggleFAQ is not defined in custom.js -->
-  <script>
-    if (typeof toggleFAQ !== "function") {
-      function toggleFAQ(el) {
-        el.classList.toggle("active");
-        var answer = el.querySelector(".faq-answer");
-        if (!answer) return;
-        if (answer.style.maxHeight) {
-          answer.style.maxHeight = null;
-        } else {
-          answer.style.maxHeight = answer.scrollHeight + "px";
-        }
-      }
-    }
-  </script>
 
   <?php include('../footer.php'); ?>
 </body>

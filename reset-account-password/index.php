@@ -61,14 +61,14 @@
         "email": "info@jalwalogin.co"
       },
       {
-        "@type": "YoubSite",
+        "@type": "WebSite",
         "@id": "https://jalwalogin.co/#website",
         "url": "https://jalwalogin.co/",
-        "name": "Jalwa Game Login",
+        "name": "Jalwa Game",
         "publisher": { "@id": "https://jalwalogin.co/#organization" }
       },
       {
-        "@type": "YoubPage",
+        "@type": "WebbPage",
         "@id": "https://jalwalogin.co/reset-account-password/#webpage",
         "url": "https://jalwalogin.co/reset-account-password/",
         "name": "Reset Your Jalwa Game Account Password",
@@ -474,22 +474,6 @@
 
   <script src="../js/custom.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"></script>
-
-  <!-- Fallback in case toggleFAQ is not defined in custom.js -->
-  <script>
-    if (typeof toggleFAQ !== "function") {
-      function toggleFAQ(el) {
-        el.classList.toggle("active");
-        var answer = el.querySelector(".faq-answer");
-        if (!answer) return;
-        if (answer.style.maxHeight) {
-          answer.style.maxHeight = null;
-        } else {
-          answer.style.maxHeight = answer.scrollHeight + "px";
-        }
-      }
-    }
-  </script>
 
   <?php include('../footer.php'); ?>
 </body>

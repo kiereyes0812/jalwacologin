@@ -64,7 +64,7 @@
         "@type": "WebSite",
         "@id": "https://jalwalogin.co/#website",
         "url": "https://jalwalogin.co/",
-        "name": "Jalwa Game Login",
+        "name": "Jalwa Game",
         "publisher": { "@id": "https://jalwalogin.co/#organization" }
       },
       {
@@ -81,6 +81,19 @@
         "publisher": { "@id": "https://jalwalogin.co/#organization" }
       },
       {
+        "@type": "BlogPosting",
+        "@id": "https://jalwalogin.co/play-responsibly-guide/#blogposting",
+        "mainEntityOfPage": { "@id": "https://jalwalogin.co/play-responsibly-guide/#webpage" },
+        "headline": "Play Responsibly on Jalwa Game: Tips for Safe Gaming",
+        "description": "Learn how to play responsibly on Jalwa Game with easy tips for safe and enjoyable gaming. Protect your account and enjoy a balanced gaming experience.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://jalwalogin.co/assets/image/blog/play-responsibly.webp"
+        },
+        "author": { "@id": "https://jalwalogin.co/#organization" },
+        "publisher": { "@id": "https://jalwalogin.co/#organization" }
+      },
+      {
         "@type": "BreadcrumbList",
         "@id": "https://jalwalogin.co/play-responsibly-guide/#breadcrumb",
         "itemListElement": [
@@ -91,6 +104,70 @@
     ]
   }
   </script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is considered responsible gaming in Jalwa Game?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Responsible gaming means playing for fun, setting limits on time and money, and not letting the game affect your daily life."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I set a spending limit on the Jalwa Game?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can use the in-game settings to set a deposit limit. This helps you control how much money you spend while playing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can Jalwa Game help me track my playtime?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Jalwa Game has reminders and notifications that tell you how long you’ve been playing so you can take breaks on time."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if I feel addicted to gaming?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Take a short break and talk to a family member or friend. You can also use the self-exclusion feature or contact Jalwa support for help."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there ways to pause or self-exclude from the Jalwa Game?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can choose to pause or stop playing for a while through the game settings. It helps when you need rest or want to control your play."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I balance gaming with other daily activities?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Fix a time for gaming each day and stop once the time is over. Give time to your work, family, and rest, that’s balance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does playing responsibly increase my chances of winning?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Playing responsibly keeps your mind calm and focused, which helps you make better choices. A calm player always plays smarter!"
+      }
+    }
+  ]
+}
+</script>
 </head>
 
 <body>
@@ -439,22 +516,6 @@
 
   <script src="../js/custom.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"></script>
-
-  <!-- Fallback in case toggleFAQ is not defined in custom.js -->
-  <script>
-    if (typeof toggleFAQ !== "function") {
-      function toggleFAQ(el) {
-        el.classList.toggle("active");
-        var answer = el.querySelector(".faq-answer");
-        if (!answer) return;
-        if (answer.style.maxHeight) {
-          answer.style.maxHeight = null;
-        } else {
-          answer.style.maxHeight = answer.scrollHeight + "px";
-        }
-      }
-    }
-  </script>
 
   <?php include('../footer.php'); ?>
 </body>

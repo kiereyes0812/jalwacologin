@@ -65,7 +65,7 @@
         "@type": "WebSite",
         "@id": "https://jalwalogin.co/#website",
         "url": "https://jalwalogin.co/",
-        "name": "Jalwa Game Login",
+        "name": "Jalwa Game",
         "publisher": { "@id": "https://jalwalogin.co/#organization" }
       },
       {
@@ -82,6 +82,19 @@
         "publisher": { "@id": "https://jalwalogin.co/#organization" }
       },
       {
+        "@type": "BlogPosting",
+        "@id": "https://jalwalogin.co/change-bank-account/#blogposting",
+        "mainEntityOfPage": { "@id": "https://jalwalogin.co/change-bank-account/#webpage" },
+        "headline": "How to Update or Change Bank Account in Jalwa Game",
+        "description": "Learn how to update your bank account in Jalwa Game safely. Follow simple steps to avoid issues and ensure smooth, secure, and hassle-free withdrawals.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://jalwalogin.co/assets/image/blog/update-change-bank-account.webp"
+        },
+        "author": { "@id": "https://jalwalogin.co/#organization" },
+        "publisher": { "@id": "https://jalwalogin.co/#organization" }
+      },
+      {
         "@type": "BreadcrumbList",
         "@id": "https://jalwalogin.co/change-bank-account/#breadcrumb",
         "itemListElement": [
@@ -92,6 +105,71 @@
     ]
   }
   </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "How long does it take for the new bank account to become active?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Usually it becomes active after verification, but during peak time it may take up to 24 hours."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I change my bank account more than once?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, you can update it whenever necessary. Frequent changes may require extra verification for security."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What if my withdrawal fails after updating the bank account?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Check that the new account is verified and supports online transfers. If the issue continues, contact customer service with your transaction details."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do I need to pay any charges for changing the bank account?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No, Jalwa Game does not charge any fee for updating or changing your bank details."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I use a joint bank account in Jalwa Game?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, as long as your name matches the account holder name and your KYC details."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What documents are needed to update my bank account?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Usually you need your bank details, your verified ID proof, and any information required by in-app customer service to confirm the update."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Who should I contact if I face issues while updating?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Use the customer service option in the Account section and share valid details to proceed with your query."
+        }
+      }
+    ]
+  }
+  </script>
+
 </head>
 
 <body>
@@ -433,22 +511,6 @@
 
   <script src="../js/custom.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"></script>
-
-  <!-- Fallback in case toggleFAQ is not defined in custom.js -->
-  <script>
-    if (typeof toggleFAQ !== "function") {
-      function toggleFAQ(el) {
-        el.classList.toggle("active");
-        var answer = el.querySelector(".faq-answer");
-        if (!answer) return;
-        if (answer.style.maxHeight) {
-          answer.style.maxHeight = null;
-        } else {
-          answer.style.maxHeight = answer.scrollHeight + "px";
-        }
-      }
-    }
-  </script>
 
   <?php include('../footer.php'); ?>
 </body>

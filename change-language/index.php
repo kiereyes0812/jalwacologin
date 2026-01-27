@@ -65,7 +65,7 @@
         "@type": "WebSite",
         "@id": "https://jalwalogin.co/#website",
         "url": "https://jalwalogin.co/",
-        "name": "Jalwa Game Login",
+        "name": "Jalwa Game",
         "publisher": { "@id": "https://jalwalogin.co/#organization" }
       },
       {
@@ -82,6 +82,19 @@
         "publisher": { "@id": "https://jalwalogin.co/#organization" }
       },
       {
+        "@type": "BlogPosting",
+        "@id": "https://jalwalogin.co/change-language/#blogposting",
+        "mainEntityOfPage": { "@id": "https://jalwalogin.co/change-language/#webpage" },
+        "headline": "How to Change the Language in the Jalwa Game App Easily",
+        "description": "Learn how to change the language in Jalwa Game with our simple step-by-step guide. Switch to your preferred language easily.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://jalwalogin.co/assets/image/blog/change-language.webp"
+        },
+        "author": { "@id": "https://jalwalogin.co/#organization" },
+        "publisher": { "@id": "https://jalwalogin.co/#organization" }
+      },
+      {
         "@type": "BreadcrumbList",
         "@id": "https://jalwalogin.co/change-language/#breadcrumb",
         "itemListElement": [
@@ -92,6 +105,71 @@
     ]
   }
   </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Is it possible to switch the language at any time?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, you can switch the language at any time in Jalwa Game."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Will language change have an impact on my progress in the game?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No, changing the language does not affect your game progress. The font style can slightly change the display."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How many languages are there in the Jalwa Game?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Jalwa Game supports multiple languages such as English, Hindi, Tamil, and Telugu."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is it necessary to update the app to change language settings?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No. The app offers language options inside settings. If your preferred option is missing, then update the app to the latest version."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Will changing the language influence notifications and alerts?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, notifications and alerts will appear in the selected language."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Will it have any impact on my User ID or Referral Code?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No. Your User ID and referral code stay the same. Language changes do not affect them."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I switch back to my original language easily?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Just open the Account tab again, select Language, and choose your previous language option."
+        }
+      }
+    ]
+  }
+  </script>
+
 </head>
 
 <body>
@@ -447,21 +525,6 @@
 
   <script src="../js/custom.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"></script>
-
-  <script>
-    if (typeof toggleFAQ !== "function") {
-      function toggleFAQ(el) {
-        el.classList.toggle("active");
-        var answer = el.querySelector(".faq-answer");
-        if (!answer) return;
-        if (answer.style.maxHeight) {
-          answer.style.maxHeight = null;
-        } else {
-          answer.style.maxHeight = answer.scrollHeight + "px";
-        }
-      }
-    }
-  </script>
 
   <?php include('../footer.php'); ?>
 </body>

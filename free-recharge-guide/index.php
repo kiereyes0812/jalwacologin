@@ -49,99 +49,141 @@
   <!-- BlogPosting + Breadcrumb + Organization schema -->
   <script type="application/ld+json">
   {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://jalwalogin.co/#organization",
+      "name": "Jalwa Game",
+      "url": "https://jalwalogin.co/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://jalwalogin.co/assets/image/Jalwa%20game%20login%20logo.webp"
+      },
+      "email": "info@jalwalogin.co"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://jalwalogin.co/#website",
+      "url": "https://jalwalogin.co/",
+      "name": "Jalwa Game Login",
+      "publisher": {
+        "@id": "https://jalwalogin.co/#organization"
+      },
+      "inLanguage": "en-IN"
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://jalwalogin.co/free-recharge-guide/#blogpost",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://jalwalogin.co/free-recharge-guide/"
+      },
+      "headline": "How to Get Free Recharge in Jalwa Game",
+      "description": "Learn how to get free recharge in Jalwa Game easily. Follow simple steps to earn rewards, recharge your balance, and enjoy uninterrupted gameplay.",
+      "image": "https://jalwalogin.co/assets/image/blog/get-free-recharge-2.webp",
+      "inLanguage": [
+        "en-IN"
+      ],
+      "publisher": {
+        "@id": "https://jalwalogin.co/#organization"
+      },
+      "author": {
         "@type": "Organization",
-        "@id": "https://jalwalogin.co/#organization",
         "name": "Jalwa Game",
-        "url": "https://jalwalogin.co/",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://jalwalogin.co/assets/image/Jalwa%20game%20login%20logo.webp"
-        },
-        "email": "info@jalwalogin.co"
-      },
-      {
-        "@type": "WebSite",
-        "@id": "https://jalwalogin.co/#website",
-        "url": "https://jalwalogin.co/",
-        "name": "Jalwa Game",
-        "publisher": { "@id": "https://jalwalogin.co/#organization" }
-      },
-      {
-        "@type": "BlogPosting",
-        "@id": "https://jalwalogin.co/free-recharge-guide/#blogpost",
-        "mainEntityOfPage": {
-          "@type": "WebPage",
-          "@id": "https://jalwalogin.co/free-recharge-guide/"
-        },
-        "headline": "How to Get Free Recharge in Jalwa Game: Earn and Play More",
-        "description": "Learn how to get free recharge in Jalwa Game easily. Follow simple steps to earn rewards, recharge your balance, and enjoy uninterrupted gameplay.",
-        "image": "https://jalwalogin.co/assets/image/blog/get-free-recharge-2.webp",
-        "inLanguage": ["en-IN"],
-        "publisher": { "@id": "https://jalwalogin.co/#organization" },
-        "author": {
-          "@type": "Organization",
-          "name": "Jalwa Game",
-          "url": "https://jalwalogin.co/"
-        }
-      },
-      {
-        "@type": "BreadcrumbList",
-        "@id": "https://jalwalogin.co/free-recharge-guide/#breadcrumb",
-        "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://jalwalogin.co/" },
-          { "@type": "ListItem", "position": 2, "name": "Free Recharge Guide", "item": "https://jalwalogin.co/free-recharge-guide/" }
-        ]
+        "url": "https://jalwalogin.co/"
       }
-    ]
-  }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://jalwalogin.co/free-recharge-guide/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://jalwalogin.co/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "How to Get Free Recharge in Jalwa Game",
+          "item": "https://jalwalogin.co/free-recharge-guide/"
+        }
+      ]
+    }
+  ]
+}
   </script>
 
   <!-- FAQ Schema -->
   <script type="application/ld+json">
   {
-    "@context":"https://schema.org",
-    "@type":"FAQPage",
-    "mainEntity":[
-      {
-        "@type":"Question",
-        "name":"Are the free recharge options in Jalwa Game completely free?",
-        "acceptedAnswer":{"@type":"Answer","text":"Yes. If you use only the official app or website and follow the in-app offers, the free recharge methods are safe and do not require direct payment."}
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://jalwalogin.co/#organization",
+      "name": "Jalwa Game",
+      "url": "https://jalwalogin.co/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://jalwalogin.co/assets/image/Jalwa%20game%20login%20logo.webp"
       },
-      {
-        "@type":"Question",
-        "name":"Is there any limit to using free recharge?",
-        "acceptedAnswer":{"@type":"Answer","text":"There is no fixed limit. Availability depends on current offers, rewards, and promotional activities in the app."}
+      "email": "info@jalwalogin.co"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://jalwalogin.co/#website",
+      "url": "https://jalwalogin.co/",
+      "name": "Jalwa Game Login",
+      "publisher": {
+        "@id": "https://jalwalogin.co/#organization"
       },
-      {
-        "@type":"Question",
-        "name":"Do I need a bank account for free recharge?",
-        "acceptedAnswer":{"@type":"Answer","text":"No. Free credits are added directly to your Jalwa wallet. Bank details are usually required only when you withdraw winnings."}
+      "inLanguage": "en-IN"
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://jalwalogin.co/free-recharge-guide/#blogpost",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://jalwalogin.co/free-recharge-guide/"
       },
-      {
-        "@type":"Question",
-        "name":"How long does it take for free recharge to reflect?",
-        "acceptedAnswer":{"@type":"Answer","text":"Most free recharge credits appear instantly or within a few minutes. In rare cases, it may take longer due to server delays."}
+      "headline": "How to Get Free Recharge in Jalwa Game",
+      "description": "Learn how to get free recharge in Jalwa Game easily. Follow simple steps to earn rewards, recharge your balance, and enjoy uninterrupted gameplay.",
+      "image": "https://jalwalogin.co/assets/image/blog/get-free-recharge-2.webp",
+      "inLanguage": [
+        "en-IN"
+      ],
+      "publisher": {
+        "@id": "https://jalwalogin.co/#organization"
       },
-      {
-        "@type":"Question",
-        "name":"What should I do if free recharge fails?",
-        "acceptedAnswer":{"@type":"Answer","text":"Check your internet connection, log out and log in again, then contact customer support with your registered details and a screenshot if the issue continues."}
-      },
-      {
-        "@type":"Question",
-        "name":"Are free recharge offers available for all users?",
-        "acceptedAnswer":{"@type":"Answer","text":"Most activities are available for all users, but some offers may require eligibility like account verification or specific activity completion."}
-      },
-      {
-        "@type":"Question",
-        "name":"Can I combine free recharge with other bonuses?",
-        "acceptedAnswer":{"@type":"Answer","text":"Sometimes yes, if the offer terms allow it. Always check the in-app rules before using combined credits."}
+      "author": {
+        "@type": "Organization",
+        "name": "Jalwa Game",
+        "url": "https://jalwalogin.co/"
       }
-    ]
-  }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://jalwalogin.co/free-recharge-guide/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://jalwalogin.co/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "How to Get Free Recharge in Jalwa Game",
+          "item": "https://jalwalogin.co/free-recharge-guide/"
+        }
+      ]
+    }
+  ]
+}
   </script>
 </head>
 
@@ -580,22 +622,6 @@
 
   <script src="../js/custom.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"></script>
-
-  <!-- Fallback in case toggleFAQ is not defined in custom.js -->
-  <script>
-    if (typeof toggleFAQ !== "function") {
-      function toggleFAQ(el) {
-        el.classList.toggle("active");
-        var answer = el.querySelector(".faq-answer");
-        if (!answer) return;
-        if (answer.style.maxHeight) {
-          answer.style.maxHeight = null;
-        } else {
-          answer.style.maxHeight = answer.scrollHeight + "px";
-        }
-      }
-    }
-  </script>
 
   <?php include('../footer.php'); ?>
 </body>

@@ -12,6 +12,10 @@ body p {
   font-size: 17px;
 }
 
+
+body li {
+  font-size: 17px;
+}
 h1 {
   color: #fff !important;
   font-size: 36px !important;
@@ -51,12 +55,6 @@ section#jalwa-gift-code {
   padding: 40px 0px 40px;
 }
 
-ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
 a {
   text-decoration: none;
 }
@@ -66,7 +64,10 @@ a {
 }
 
 ul.menu-list {
-  display: flex;
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+display: flex;
   align-items: center;
   justify-content: center;
   padding-top: 13px;
@@ -162,6 +163,9 @@ li.menu-link a:hover:before {
 
 /* Dropdown */
 .nav__menu ul.menu-list li.menu-link > ul.sunmenu {
+  list-style: none;
+  margin: 0;
+
   position: absolute;
   top: 100%;
   left: inherit;
@@ -944,4 +948,24 @@ h3 {
 
 .sticky + .site-content {
   padding-top: 102px;
+}
+
+
+/* Consistent content list styling */
+.jalwa-section ul:not(.menu-list):not(.sunmenu):not(.toc-list) {
+  list-style: disc;
+  list-style-position: outside;
+  padding-left: 1.25rem;
+  margin: 0.75rem 0 1rem;
+}
+
+.jalwa-section ol:not(.toc-list) {
+  list-style: decimal;
+  list-style-position: outside;
+  padding-left: 1.25rem;
+  margin: 0.75rem 0 1rem;
+}
+
+.jalwa-section li {
+  margin-bottom: 0.35rem;
 }

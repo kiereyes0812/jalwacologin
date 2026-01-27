@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
 
-  <title>Different Bonuses in Jalwa Game &amp; How to Claim Them</title>
+  <title>Different Bonuses in Jalwa Game & How to Claim Them</title>
   <meta name="description" content="Explore every available bonus in the Jalwa Game, from welcome rewards to festive offers. Learn how to claim and maximise the bonuses safely in this guide." />
   <link rel="canonical" href="https://jalwalogin.co/available-bonuses/" />
 
@@ -27,7 +27,7 @@
   <!-- Open Graph -->
   <meta property="og:site_name" content="Jalwa Game" />
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="Different Bonuses in Jalwa Game &amp; How to Claim Them" />
+  <meta property="og:title" content="Different Bonuses in Jalwa Game & How to Claim Them" />
   <meta property="og:description" content="Explore every available bonus in the Jalwa Game, from welcome rewards to festive offers. Learn how to claim and maximise the bonuses safely in this guide." />
   <meta property="og:url" content="https://jalwalogin.co/available-bonuses/" />
   <meta property="og:image" content="https://jalwalogin.co/assets/image/blog/discover-bonuses.webp" />
@@ -36,7 +36,7 @@
 
   <!-- Twitter Cards -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Different Bonuses in Jalwa Game &amp; How to Claim Them" />
+  <meta name="twitter:title" content="Different Bonuses in Jalwa Game & How to Claim Them" />
   <meta name="twitter:description" content="Explore every available bonus in the Jalwa Game, from welcome rewards to festive offers. Learn how to claim and maximise the bonuses safely in this guide." />
   <meta name="twitter:image" content="https://jalwalogin.co/assets/image/blog/discover-bonuses.webp" />
   <meta name="twitter:image:alt" content="Discover Different Bonuses in Jalwa Game" />
@@ -49,110 +49,138 @@
   <!-- Schema: Organization + Website + BlogPosting + Breadcrumb -->
   <script type="application/ld+json">
   {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Organization",
-        "@id": "https://jalwalogin.co/#organization",
-        "name": "Jalwa Game",
-        "url": "https://jalwalogin.co/",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://jalwalogin.co/assets/image/Jalwa%20game%20login%20logo.webp"
-        },
-        "email": "info@jalwalogin.co"
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://jalwalogin.co/#organization",
+      "name": "Jalwa Game",
+      "url": "https://jalwalogin.co/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://jalwalogin.co/assets/image/Jalwa%20game%20login%20logo.webp"
       },
-      {
-        "@type": "WebSite",
-        "@id": "https://jalwalogin.co/#website",
-        "url": "https://jalwalogin.co/",
-        "name": "Jalwa Game",
-        "publisher": { "@id": "https://jalwalogin.co/#organization" }
+      "email": "info@jalwalogin.co"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://jalwalogin.co/#website",
+      "url": "https://jalwalogin.co/",
+      "name": "Jalwa Game",
+      "publisher": {
+        "@id": "https://jalwalogin.co/#organization"
       },
-      {
+      "inLanguage": "en-IN"
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://jalwalogin.co/available-bonuses/#blogpost",
+      "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://jalwalogin.co/available-bonuses/#webpage",
-        "url": "https://jalwalogin.co/available-bonuses/",
-        "name": "Different Bonuses in Jalwa Game & How to Claim Them",
-        "description": "Explore every available bonus in the Jalwa Game, from welcome rewards to festive offers. Learn how to claim and maximise the bonuses safely in this guide.",
-        "isPartOf": { "@id": "https://jalwalogin.co/#website" },
-        "primaryImageOfPage": {
-          "@type": "ImageObject",
-          "url": "https://jalwalogin.co/assets/image/blog/discover-bonuses.webp"
-        },
-        "publisher": { "@id": "https://jalwalogin.co/#organization" }
+        "@id": "https://jalwalogin.co/available-bonuses/"
       },
-      {
-        "@type": "BlogPosting",
-        "@id": "https://jalwalogin.co/available-bonuses/#blogpost",
-        "mainEntityOfPage": { "@id": "https://jalwalogin.co/available-bonuses/#webpage" },
-        "headline": "Different Bonuses in Jalwa Game & How to Claim Them",
-        "description": "Explore every available bonus in the Jalwa Game, from welcome rewards to festive offers. Learn how to claim and maximise the bonuses safely in this guide.",
-        "image": "https://jalwalogin.co/assets/image/blog/discover-bonuses.webp",
-        "inLanguage": ["en-IN"],
-        "publisher": { "@id": "https://jalwalogin.co/#organization" },
-        "author": {
-          "@type": "Organization",
-          "name": "Jalwa Game",
-          "url": "https://jalwalogin.co/"
-        }
+      "headline": "Different Bonuses in Jalwa Game & How to Claim Them",
+      "description": "Explore every available bonus in the Jalwa Game, from welcome rewards to festive offers. Learn how to claim and maximise the bonuses safely in this guide.",
+      "image": "https://jalwalogin.co/assets/image/blog/discover-bonuses.webp",
+      "inLanguage": [
+        "en-IN"
+      ],
+      "publisher": {
+        "@id": "https://jalwalogin.co/#organization"
       },
-      {
-        "@type": "BreadcrumbList",
-        "@id": "https://jalwalogin.co/available-bonuses/#breadcrumb",
-        "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://jalwalogin.co/" },
-          { "@type": "ListItem", "position": 2, "name": "Available Bonuses", "item": "https://jalwalogin.co/available-bonuses/" }
-        ]
+      "author": {
+        "@type": "Organization",
+        "name": "Jalwa Game",
+        "url": "https://jalwalogin.co/"
       }
-    ]
-  }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://jalwalogin.co/available-bonuses/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://jalwalogin.co/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Different Bonuses in Jalwa Game & How to Claim Them",
+          "item": "https://jalwalogin.co/available-bonuses/"
+        }
+      ]
+    }
+  ]
+}
   </script>
 
   <!-- FAQ Schema -->
   <script type="application/ld+json">
-  {
-    "@context":"https://schema.org",
-    "@type":"FAQPage",
-    "mainEntity":[
-      {
-        "@type":"Question",
-        "name":"Can I claim multiple bonuses at the same time?",
-        "acceptedAnswer":{"@type":"Answer","text":"Yes. You can use different bonuses together if they are valid and you meet the conditions mentioned inside the Jalwa app."}
-      },
-      {
-        "@type":"Question",
-        "name":"Are there any play requirements for the bonuses?",
-        "acceptedAnswer":{"@type":"Answer","text":"Some promotions may require you to complete a certain amount of gameplay activity before you can withdraw. Always check the terms shown in the rewards section."}
-      },
-      {
-        "@type":"Question",
-        "name":"How long does it take for bonuses to be credited?",
-        "acceptedAnswer":{"@type":"Answer","text":"Many bonuses are credited instantly, while some special event bonuses can take up to 24 hours."}
-      },
-      {
-        "@type":"Question",
-        "name":"Can bonuses be withdrawn immediately?",
-        "acceptedAnswer":{"@type":"Answer","text":"It depends on the offer. Some bonuses are for gameplay only, while others like referral rewards may be withdrawable after you meet the offer rules."}
-      },
-      {
-        "@type":"Question",
-        "name":"Are bonuses available for all types of games on Jalwa Game?",
-        "acceptedAnswer":{"@type":"Answer","text":"Most bonuses apply across the colour prediction options available in the Jalwa app. Offer rules may vary, so check the terms for each bonus."}
-      },
-      {
-        "@type":"Question",
-        "name":"Is there a minimum deposit required to get the bonus?",
-        "acceptedAnswer":{"@type":"Answer","text":"For deposit or recharge bonuses, a minimum amount is usually mentioned inside the offer details. Check the activity section for the exact requirement."}
-      },
-      {
-        "@type":"Question",
-        "name":"Can I lose my bonus if I do not use it within a certain time?",
-        "acceptedAnswer":{"@type":"Answer","text":"Yes. Some bonuses expire after the stated validity period. Always check the expiry date before you claim or use the bonus."}
-      }
-    ]
-  }
-  </script>
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Can I claim multiple bonuses at the same time?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. You can use different bonuses together if they are valid and you meet the conditions mentioned inside the Jalwa app."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are there any play requirements for the bonuses?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Some promotions may require you to complete a certain amount of gameplay activity before you can withdraw. Always check the terms shown in the rewards section."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does it take for bonuses to be credited?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Many bonuses are credited instantly, while some special event bonuses can take up to 24 hours."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can bonuses be withdrawn immediately?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It depends on the offer. Some bonuses are for gameplay only, while others like referral rewards may be withdrawable after you meet the offer rules."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are bonuses available for all types of games on Jalwa Game?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Most bonuses apply across the colour prediction options available in the Jalwa app. Offer rules may vary, so check the terms for each bonus."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there a minimum deposit required to get the bonus?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For deposit or recharge bonuses, a minimum amount is usually mentioned inside the offer details. Check the activity section for the exact requirement."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I lose my bonus if I do not use it within a certain time?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Some bonuses expire after the stated validity period. Always check the expiry date before you claim or use the bonus."
+          }
+        }
+      ]
+    }
+    </script>
 </head>
 
 <body>
@@ -540,21 +568,7 @@
   <script src="../js/custom.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"></script>
 
-  <!-- Fallback if toggleFAQ is not defined in custom.js -->
-  <script>
-    if (typeof toggleFAQ !== "function") {
-      function toggleFAQ(el) {
-        el.classList.toggle("active");
-        var answer = el.querySelector(".faq-answer");
-        if (!answer) return;
-        if (answer.style.maxHeight) {
-          answer.style.maxHeight = null;
-        } else {
-          answer.style.maxHeight = answer.scrollHeight + "px";
-        }
-      }
-    }
-  </script>
+
 
   <?php include('../footer.php'); ?>
 </body>

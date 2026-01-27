@@ -166,10 +166,10 @@
                         </p>
                         <br>
                         <div class="cta-buttons">
-                            <a href="https://jalwaclub3.com/#/register?invitationCode=217876380398" class="btns register new-tab">® Register</a>
-                            <a href="https://jalwaclub3.com/#/login" class=" btns login new-tab">🔒
+                            <a href="https://jalwaclub3.com/#/register?invitationCode=217876380398" class="btns register new-tab" target="_blank" rel="nofollow noopener noreferrer">® Register</a>
+                            <a href="https://jalwaclub3.com/#/login" class=" btns login new-tab" target="_blank" rel="nofollow noopener noreferrer">🔒
                                 Login</a>
-                            <a href="https://jalwaclub3.com/download/ar077/full.apk" class="btns download new-tab">📥
+                            <a href="https://jalwaclub3.com/download/ar077/full.apk" class="btns download new-tab" target="_blank" rel="nofollow noopener noreferrer">📥
                                 Download</a>
                         </div>
                     </div>
@@ -181,7 +181,7 @@
         <div class="containers">
             <div class="row">
                 <div class="h2heading">
-                    <h2>Jalwa Game GIFT CODE [Daily Updated]</h2>
+                    <h2>Jalwa Game Gift Code [Daily Updated]</h2>
                 </div>
                 <div class="gift-code">925D27240H2A10C3A38442BSKLC05DPE</div>
             </div>
@@ -543,7 +543,7 @@
                         <ul>
                             <li>Tap on the Jalwa game download APK button provided here.</li>
                             <div class="cta-buttons">
-                                <a href="https://jalwaclub3.com/download/ar077/full.apk" class="btns download new-tab">📥
+                                <a href="https://jalwaclub3.com/download/ar077/full.apk" class="btns download new-tab" target="_blank" rel="nofollow noopener noreferrer">📥
                                     Download</a>
                             </div>
                             <li>The APK file will automatically start downloading.</li>
@@ -659,7 +659,7 @@
                         <h3 id="instal-saved-file" class="all-steps">Steps To Register On Jalwa Game</h3>
                         <p>1. Click on the Register button given below to open the register page.</p>
                         <div class="cta-buttons">
-                            <a href="https://jalwaclub3.com/#/register?invitationCode=217876380398" class="btns register new-tab">® Register</a>
+                            <a href="https://jalwaclub3.com/#/register?invitationCode=217876380398" class="btns register new-tab" target="_blank" rel="nofollow noopener noreferrer">® Register</a>
                         </div>
                         <div class="feature-imgs"><img src="assets/image/Jalwa game registration page.webp"
                                 alt="Jalwa game register page"></div>
@@ -731,7 +731,7 @@
                         <p>1. Click on the login button given below.</p>
                         <div class="cta-buttons">
 
-                            <a href="https://jalwaclub3.com/#/login" class=" btns login new-tab">🔒
+                            <a href="https://jalwaclub3.com/#/login" class=" btns login new-tab" target="_blank" rel="nofollow noopener noreferrer">🔒
                                 Login</a>
                         </div>
                         <p>2. The Jalwa game login page will open on the screen.

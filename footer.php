@@ -27,7 +27,7 @@ if (!isset($BASE_URL)) {
         <div class="footer-section">
             <h3>Support</h3>
             <p>24/7 Customer Support Available</p>
-            <p>Email: <a href="mailto:info@jalwalogin.co">info@jalwalogin.co</a></p>
+            <p class="para-txt"><strong>Email:</strong> info@jalwalogin.co</p>
         </div>
         <div class="footer-section">
             <h3>About Us</h3>

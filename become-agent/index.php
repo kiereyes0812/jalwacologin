@@ -64,7 +64,7 @@
         "@type": "WebSite",
         "@id": "https://jalwalogin.co/#website",
         "url": "https://jalwalogin.co/",
-        "name": "Jalwa Game Login",
+        "name": "Jalwa Game",
         "publisher": { "@id": "https://jalwalogin.co/#organization" }
       },
       {
@@ -81,6 +81,19 @@
         "publisher": { "@id": "https://jalwalogin.co/#organization" }
       },
       {
+        "@type": "BlogPosting",
+        "@id": "https://jalwalogin.co/become-agent/#blogposting",
+        "mainEntityOfPage": { "@id": "https://jalwalogin.co/become-agent/#webpage" },
+        "headline": "Become a Jalwa Game Agent and Enjoy Rewards",
+        "description": "Learn about Jalwa Game Agent registration, benefits, and support features. Understand how agents work and how they help players.",
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://jalwalogin.co/assets/image/blog/jalwa-game-agent.webp"
+        },
+        "author": { "@id": "https://jalwalogin.co/#organization" },
+        "publisher": { "@id": "https://jalwalogin.co/#organization" }
+      },
+      {
         "@type": "BreadcrumbList",
         "@id": "https://jalwalogin.co/become-agent/#breadcrumb",
         "itemListElement": [
@@ -91,6 +104,71 @@
     ]
   }
   </script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the minimum age to become a Jalwa Game agent?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Applicants must be at least 18 years old to apply for this program."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to get approved as an agent?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Jalwa Game, no approval is required to become an agent. Any user with a registered account can join the program."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I track my earnings as an agent?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can track your team's activity from the Promotions tab on the Jalwa Game app."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I have multiple Jalwa Game accounts as an agent?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, managing multiple accounts is generally not allowed and can often lead to account termination."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need to make any deposit to join the Jalwa Agent program?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, users do not need to make any investment to become a Jalwa Game agent."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I refer family and friends?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can refer family and friends. Just make sure they enter your invite code correctly during registration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there any support service for agents?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, Jalwa Game operates a 24/7 agent support line for its users."
+      }
+    }
+  ]
+}
+</script>
+
 </head>
 
 <body>
@@ -562,22 +640,6 @@
 
   <script src="../js/custom.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"></script>
-
-  <!-- Fallback in case toggleFAQ is not defined in custom.js -->
-  <script>
-    if (typeof toggleFAQ !== "function") {
-      function toggleFAQ(el) {
-        el.classList.toggle("active");
-        var answer = el.querySelector(".faq-answer");
-        if (!answer) return;
-        if (answer.style.maxHeight) {
-          answer.style.maxHeight = null;
-        } else {
-          answer.style.maxHeight = answer.scrollHeight + "px";
-        }
-      }
-    }
-  </script>
 
   <?php include('../footer.php'); ?>
 </body>
