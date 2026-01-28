@@ -46,51 +46,152 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
 
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Organization",
-        "@id": "https://jalwalogin.co/#organization",
-        "name": "Jalwa Game",
-        "url": "https://jalwalogin.co/",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://jalwalogin.co/assets/image/Jalwa%20game%20login%20logo.webp"
-        },
-        "email": "info@jalwalogin.co"
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://jalwalogin.co/#organization",
+      "name": "Jalwa Game",
+      "url": "https://jalwalogin.co/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://jalwalogin.co/assets/image/Jalwa%20game%20login%20logo.webp"
       },
-      {
-        "@type": "WebSite",
-        "@id": "https://jalwalogin.co/#website",
-        "url": "https://jalwalogin.co/",
-        "name": "Jalwa Game Login",
-        "publisher": { "@id": "https://jalwalogin.co/#organization" }
-      },
-      {
-        "@type": "WebPage",
-        "@id": "https://jalwalogin.co/errors-and-solutions/#webpage",
-        "url": "https://jalwalogin.co/errors-and-solutions/",
-        "name": "Jalwa Game Error Codes Explained with Easy Fixes",
-        "description": "Learn about common Jalwa Game error codes and their simple fixes. Follow this quick guide to resolve issues and enjoy smooth, uninterrupted gameplay.",
-        "isPartOf": { "@id": "https://jalwalogin.co/#website" },
-        "primaryImageOfPage": {
-          "@type": "ImageObject",
-          "url": "https://jalwalogin.co/assets/image/blog/error-codes-explained.webp"
-        },
-        "publisher": { "@id": "https://jalwalogin.co/#organization" }
-      },
-      {
-        "@type": "BreadcrumbList",
-        "@id": "https://jalwalogin.co/errors-and-solutions/#breadcrumb",
-        "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://jalwalogin.co/" },
-          { "@type": "ListItem", "position": 2, "name": "Errors and Solutions", "item": "https://jalwalogin.co/errors-and-solutions/" }
-        ]
+      "email": "info@jalwalogin.co"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://jalwalogin.co/#website",
+      "url": "https://jalwalogin.co/",
+      "name": "Jalwa Game Login",
+      "publisher": {
+        "@id": "https://jalwalogin.co/#organization"
       }
-    ]
-  }
-  </script>
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://jalwalogin.co/errors-and-solutions/#webpage",
+      "url": "https://jalwalogin.co/errors-and-solutions/",
+      "name": "Jalwa Game Error Codes Explained with Easy Fixes",
+      "description": "Learn about common Jalwa Game error codes and their simple fixes. Follow this quick guide to resolve issues and enjoy smooth, uninterrupted gameplay.",
+      "isPartOf": {
+        "@id": "https://jalwalogin.co/#website"
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://jalwalogin.co/assets/image/blog/error-codes-explained.webp"
+      },
+      "publisher": {
+        "@id": "https://jalwalogin.co/#organization"
+      },
+      "inLanguage": "en-IN"
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://jalwalogin.co/errors-and-solutions/#blogposting",
+      "mainEntityOfPage": {
+        "@id": "https://jalwalogin.co/errors-and-solutions/#webpage"
+      },
+      "headline": "Jalwa Game Error Codes Explained with Easy Fixes",
+      "description": "Learn about common Jalwa Game error codes and their simple fixes. Follow this quick guide to resolve issues and enjoy smooth, uninterrupted gameplay.",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://jalwalogin.co/assets/image/blog/error-codes-explained.webp"
+      },
+      "author": {
+        "@id": "https://jalwalogin.co/#organization"
+      },
+      "publisher": {
+        "@id": "https://jalwalogin.co/#organization"
+      },
+      "inLanguage": "en-IN"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://jalwalogin.co/errors-and-solutions/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://jalwalogin.co/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Errors and Solutions",
+          "item": "https://jalwalogin.co/errors-and-solutions/"
+        }
+      ]
+    }
+  ]
+}
+</script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does “account locked” mean in Jalwa Game?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It means your account is blocked for safety. Wait a few hours or reset your password to unlock it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is my deposit not showing in Jalwa Game?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sometimes deposits take time. Check your UPI or bank app. If money is deducted but not added, contact Jalwa Game Support."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I recover a lost game prediction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can’t recover missed predictions. It can happen due to slow internet or a timeout. Fix your connection and try the next round."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if the app keeps crashing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Close the app, clear the cache, or reinstall it. Make sure your phone has space and you are using the latest app version."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are error codes different on Android and iOS?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, they may look different, but they mean the same thing. Both platforms show similar issues like login, payment, or network errors."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does Jalwa Game Support take to fix issues?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Usually within a few hours. Some payment or account errors may take up to 24 to 48 hours to get solved."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I prevent errors by updating my app regularly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Regular updates fix bugs and improve app performance. Always keep your Jalwa Game app on the latest version."
+      }
+    }
+  ]
+}
+</script>
 </head>
 
 <body>
@@ -418,7 +519,7 @@
     </div>
   </section>
 
-  <!-- FAQs (your preferred format) -->
+  <!-- FAQs -->
   <section class="faq-section jalwa-section" id="faqs">
     <div class="container content-border">
       <div class="row">

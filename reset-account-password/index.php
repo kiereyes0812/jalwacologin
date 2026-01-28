@@ -46,51 +46,151 @@
   <link rel="stylesheet" href="../css/responsive.css">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Organization",
-        "@id": "https://jalwalogin.co/#organization",
-        "name": "Jalwa Game",
-        "url": "https://jalwalogin.co/",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://jalwalogin.co/assets/image/Jalwa%20game%20login%20logo.webp"
-        },
-        "email": "info@jalwalogin.co"
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://jalwalogin.co/#organization",
+      "name": "Jalwa Game",
+      "url": "https://jalwalogin.co/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://jalwalogin.co/assets/image/Jalwa%20game%20login%20logo.webp"
       },
-      {
-        "@type": "WebSite",
-        "@id": "https://jalwalogin.co/#website",
-        "url": "https://jalwalogin.co/",
-        "name": "Jalwa Game",
-        "publisher": { "@id": "https://jalwalogin.co/#organization" }
-      },
-      {
-        "@type": "WebbPage",
-        "@id": "https://jalwalogin.co/reset-account-password/#webpage",
-        "url": "https://jalwalogin.co/reset-account-password/",
-        "name": "Reset Your Jalwa Game Account Password",
-        "description": "Discover how to reset your Jalwa Game password securely with this straightforward guide. Secure your account and avoid common password mistakes.",
-        "isPartOf": { "@id": "https://jalwalogin.co/#website" },
-        "primaryImageOfPage": {
-          "@type": "ImageObject",
-          "url": "https://jalwalogin.co/assets/image/blog/reset-password.webp"
-        },
-        "publisher": { "@id": "https://jalwalogin.co/#organization" }
-      },
-      {
-        "@type": "BreadcrumbList",
-        "@id": "https://jalwalogin.co/reset-account-password/#breadcrumb",
-        "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://jalwalogin.co/" },
-          { "@type": "ListItem", "position": 2, "name": "Reset Account Password", "item": "https://jalwalogin.co/reset-account-password/" }
-        ]
+      "email": "info@jalwalogin.co"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://jalwalogin.co/#website",
+      "url": "https://jalwalogin.co/",
+      "name": "Jalwa Game",
+      "publisher": {
+        "@id": "https://jalwalogin.co/#organization"
       }
-    ]
-  }
-  </script>
+    },
+    {
+      "@type": "WebbPage",
+      "@id": "https://jalwalogin.co/reset-account-password/#webpage",
+      "url": "https://jalwalogin.co/reset-account-password/",
+      "name": "Reset Your Jalwa Game Account Password",
+      "description": "Discover how to reset your Jalwa Game password securely with this straightforward guide. Secure your account and avoid common password mistakes.",
+      "isPartOf": {
+        "@id": "https://jalwalogin.co/#website"
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://jalwalogin.co/assets/image/blog/reset-password.webp"
+      },
+      "publisher": {
+        "@id": "https://jalwalogin.co/#organization"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://jalwalogin.co/reset-account-password/#blogposting",
+      "mainEntityOfPage": {
+        "@id": "https://jalwalogin.co/reset-account-password/#webpage"
+      },
+      "headline": "Reset Your Jalwa Game Account Password",
+      "description": "Discover how to reset your Jalwa Game password securely with this straightforward guide. Secure your account and avoid common password mistakes.",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://jalwalogin.co/assets/image/blog/reset-password.webp"
+      },
+      "author": {
+        "@id": "https://jalwalogin.co/#organization"
+      },
+      "publisher": {
+        "@id": "https://jalwalogin.co/#organization"
+      },
+      "inLanguage": "en-IN"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://jalwalogin.co/reset-account-password/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://jalwalogin.co/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Reset Account Password",
+          "item": "https://jalwalogin.co/reset-account-password/"
+        }
+      ]
+    }
+  ]
+}
+</script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to reset my Jalwa Game account password?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Once you receive and verify the OTP, the reset usually completes in a couple of minutes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it possible to reset my password without my registered email?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. You can reset your password using your registered mobile number."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if I did not receive the OTP for password reset?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Check your mobile number, clear SMS storage, ensure internet is stable, and tap “Resend” to request OTP again."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I use the same old password after resetting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. For security reasons, it is better to set a new strong password."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it safe to reset my password on a shared device?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Avoid shared devices. If you must, log out completely after reset and do not save the password."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Will resetting my password affect my game progress or account data?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Resetting the password only changes login details. Your profile and other account data remain the same."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How frequently should I modify my Jalwa Game password?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Change it every 2 to 3 months for better security."
+      }
+    }
+  ]
+}
+</script>
 </head>
 
 <body>

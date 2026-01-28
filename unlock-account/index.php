@@ -47,51 +47,144 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
 
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Organization",
-        "@id": "https://jalwalogin.co/#organization",
-        "name": "Jalwa Game",
-        "url": "https://jalwalogin.co/",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://jalwalogin.co/assets/image/Jalwa%20game%20login%20logo.webp"
-        },
-        "email": "info@jalwalogin.co"
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://jalwalogin.co/#organization",
+      "name": "Jalwa Game",
+      "url": "https://jalwalogin.co/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://jalwalogin.co/assets/image/Jalwa%20game%20login%20logo.webp"
       },
-      {
-        "@type": "WebSite",
-        "@id": "https://jalwalogin.co/#website",
-        "url": "https://jalwalogin.co/",
-        "name": "Jalwa Game Login",
-        "publisher": { "@id": "https://jalwalogin.co/#organization" }
-      },
-      {
-        "@type": "WebPage",
-        "@id": "https://jalwalogin.co/unlock-account/#webpage",
-        "url": "https://jalwalogin.co/unlock-account/",
-        "name": "Step-by-Step Guide to Unlock Your Jalwa Game Account",
-        "description": "Understand how to unlock your Jalwa with simple steps. Learn how to prevent the lockout, common problems, and easy fixes.",
-        "isPartOf": { "@id": "https://jalwalogin.co/#website" },
-        "primaryImageOfPage": {
-          "@type": "ImageObject",
-          "url": "https://jalwalogin.co/assets/image/blog/guide-to-unlock-game-account.webp"
-        },
-        "publisher": { "@id": "https://jalwalogin.co/#organization" }
-      },
-      {
-        "@type": "BreadcrumbList",
-        "@id": "https://jalwalogin.co/unlock-account/#breadcrumb",
-        "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://jalwalogin.co/" },
-          { "@type": "ListItem", "position": 2, "name": "Unlock Account", "item": "https://jalwalogin.co/unlock-account/" }
-        ]
+      "email": "info@jalwalogin.co"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://jalwalogin.co/#website",
+      "url": "https://jalwalogin.co/",
+      "name": "Jalwa Game Login",
+      "publisher": {
+        "@id": "https://jalwalogin.co/#organization"
       }
-    ]
-  }
-  </script>
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://jalwalogin.co/unlock-account/#webpage",
+      "url": "https://jalwalogin.co/unlock-account/",
+      "name": "Step-by-Step Guide to Unlock Your Jalwa Game Account",
+      "description": "Understand how to unlock your Jalwa with simple steps. Learn how to prevent the lockout, common problems, and easy fixes.",
+      "isPartOf": {
+        "@id": "https://jalwalogin.co/#website"
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://jalwalogin.co/assets/image/blog/guide-to-unlock-game-account.webp"
+      },
+      "publisher": {
+        "@id": "https://jalwalogin.co/#organization"
+      },
+      "inLanguage": "en-IN"
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://jalwalogin.co/unlock-account/#blogposting",
+      "mainEntityOfPage": {
+        "@id": "https://jalwalogin.co/unlock-account/#webpage"
+      },
+      "headline": "Step-by-Step Guide to Unlock Your Jalwa Game Account",
+      "description": "Understand how to unlock your Jalwa with simple steps. Learn how to prevent the lockout, common problems, and easy fixes.",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://jalwalogin.co/assets/image/blog/guide-to-unlock-game-account.webp"
+      },
+      "author": {
+        "@id": "https://jalwalogin.co/#organization"
+      },
+      "publisher": {
+        "@id": "https://jalwalogin.co/#organization"
+      },
+      "inLanguage": "en-IN"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://jalwalogin.co/unlock-account/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://jalwalogin.co/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Unlock Account",
+          "item": "https://jalwalogin.co/unlock-account/"
+        }
+      ]
+    }
+  ]
+}
+</script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What if I lost my registered mobile number?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You have to inform your customer care with your identity proof."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I unlock my game account without email verification?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can verify your account by using OTP verification through your mobile number."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Will the unlocking process make any difference in my game?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, your game progress will not be affected by your account unlocking process."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I unlock my account through the Jalwa Game App?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can use your Jalwa Game App to unlock your account. Just remember to follow the right steps."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there any support hotline for urgent account unlock requests?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, all the requests are processed through the in-app support only."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the usual processing time to unlock a game account with Jalwa Game?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The general response time for account-related queries is 24 to 48 hours."
+      }
+    }
+  ]
+}
+</script>
 </head>
 
 <body>

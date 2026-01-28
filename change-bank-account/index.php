@@ -423,7 +423,7 @@
     </div>
   </section>
 
-  <!-- FAQs (required format + classes) -->
+  <!-- FAQs -->
   <section class="faq-section jalwa-section" id="faqs">
     <div class="container content-border">
       <div class="row">

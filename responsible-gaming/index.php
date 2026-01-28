@@ -15,9 +15,9 @@
     <meta name="googlebot" content="index,follow" />
 
     <!-- Favicons / PWA basics -->
-    <link rel="icon" type="image/webp" href="/assets/image/Jalwa game login favicon.webp" sizes="32x32">
-    <link rel="apple-touch-icon" href="assets/image/apple-touch-icon.webp" />
-    <link rel="manifest" href="/site.webmanifest" />
+    <link rel="icon" type="image/webp" href="../assets/image/Jalwa game login favicon.webp" sizes="32x32">
+    <link rel="apple-touch-icon" href="../assets/image/apple-touch-icon.webp" />
+    <link rel="manifest" href="../site.webmanifest" />
     <meta name="theme-color" content="#0f172a" />
     <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
     <link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
@@ -76,8 +76,8 @@
       "@type": "WebPage",
       "@id": "https://jalwalogin.co/responsible-gaming/#webpage",
       "url": "https://jalwalogin.co/responsible-gaming/",
-      "name": "Responsible Gaming",
-      "description": "Learn about responsible gaming practices on Jalwa Game. Play safely, manage your time and budget, and enjoy a secure gaming experience.",
+      "name": "Responsible Gaming - Jalwa Game",
+      "description": "Read Jalwa Game’s Responsible Gaming policy. Learn safe and healthy ways to enjoy online gaming while keeping a balance in your life.",
       "image": "https://jalwalogin.co/assets/image/Jalwa game login featured image.webp",
       "isPartOf": {
         "@id": "https://jalwalogin.co/#website"
@@ -87,6 +87,11 @@
       },
       "publisher": {
         "@id": "https://jalwalogin.co/#organization"
+      },
+      "inLanguage": "en-IN",
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://jalwalogin.co/assets/image/Jalwa game login featured image.webp"
       }
     },
     {

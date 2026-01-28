@@ -47,51 +47,152 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
 
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Organization",
-        "@id": "https://jalwalogin.co/#organization",
-        "name": "Jalwa Game",
-        "url": "https://jalwalogin.co/",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://jalwalogin.co/assets/image/Jalwa%20game%20login%20logo.webp"
-        },
-        "email": "info@jalwalogin.co"
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://jalwalogin.co/#organization",
+      "name": "Jalwa Game",
+      "url": "https://jalwalogin.co/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://jalwalogin.co/assets/image/Jalwa%20game%20login%20logo.webp"
       },
-      {
-        "@type": "WebSite",
-        "@id": "https://jalwalogin.co/#website",
-        "url": "https://jalwalogin.co/",
-        "name": "Jalwa Game Login",
-        "publisher": { "@id": "https://jalwalogin.co/#organization" }
-      },
-      {
-        "@type": "WebPage",
-        "@id": "https://jalwalogin.co/find-game-id/#webpage",
-        "url": "https://jalwalogin.co/find-game-id/",
-        "name": "How to Find Your Jalwa Game ID Easily and Securely",
-        "description": "Learn the easiest and safest way to find your Jalwa Game ID. Follow the quick steps to access your account securely without any hassle.",
-        "isPartOf": { "@id": "https://jalwalogin.co/#website" },
-        "primaryImageOfPage": {
-          "@type": "ImageObject",
-          "url": "https://jalwalogin.co/assets/image/blog/find-game-id.webp"
-        },
-        "publisher": { "@id": "https://jalwalogin.co/#organization" }
-      },
-      {
-        "@type": "BreadcrumbList",
-        "@id": "https://jalwalogin.co/find-game-id/#breadcrumb",
-        "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://jalwalogin.co/" },
-          { "@type": "ListItem", "position": 2, "name": "Find Game ID", "item": "https://jalwalogin.co/find-game-id/" }
-        ]
+      "email": "info@jalwalogin.co"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://jalwalogin.co/#website",
+      "url": "https://jalwalogin.co/",
+      "name": "Jalwa Game Login",
+      "publisher": {
+        "@id": "https://jalwalogin.co/#organization"
       }
-    ]
-  }
-  </script>
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://jalwalogin.co/find-game-id/#webpage",
+      "url": "https://jalwalogin.co/find-game-id/",
+      "name": "How to Find Your Jalwa Game ID Easily and Securely",
+      "description": "Learn the easiest and safest way to find your Jalwa Game ID. Follow the quick steps to access your account securely without any hassle.",
+      "isPartOf": {
+        "@id": "https://jalwalogin.co/#website"
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://jalwalogin.co/assets/image/blog/find-game-id.webp"
+      },
+      "publisher": {
+        "@id": "https://jalwalogin.co/#organization"
+      },
+      "inLanguage": "en-IN"
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://jalwalogin.co/find-game-id/#blogposting",
+      "mainEntityOfPage": {
+        "@id": "https://jalwalogin.co/find-game-id/#webpage"
+      },
+      "headline": "How to Find Your Jalwa Game ID Easily and Securely",
+      "description": "Learn the easiest and safest way to find your Jalwa Game ID. Follow the quick steps to access your account securely without any hassle.",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://jalwalogin.co/assets/image/blog/find-game-id.webp"
+      },
+      "author": {
+        "@id": "https://jalwalogin.co/#organization"
+      },
+      "publisher": {
+        "@id": "https://jalwalogin.co/#organization"
+      },
+      "inLanguage": "en-IN"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://jalwalogin.co/find-game-id/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://jalwalogin.co/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Find Game ID",
+          "item": "https://jalwalogin.co/find-game-id/"
+        }
+      ]
+    }
+  ]
+}
+</script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How are my Jalwa Game Name and Game ID different?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The main difference is that you can change your game name, but your Game ID is unique and cannot be changed."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need my Game ID for withdrawals?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. For withdrawals, you only need your verified bank account. If you face a transaction issue, support may ask for your Game ID."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I recover my Game ID if I forget it?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can retrieve it anytime from the Account section after logging in."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can someone else use my game ID?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Your Game ID is unique to you. Someone can only misuse it if they also get your login details."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where else can I find my Game ID besides the app?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Your Jalwa Game ID is usually available inside the app Account section."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my Game ID is not showing on the Account tab?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "This can happen due to crashes or an old app version. Update the app, clear cache, and ensure your internet is stable."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I have multiple Game IDs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Users are not allowed to have multiple accounts. Multiple IDs can lead to account restriction."
+      }
+    }
+  ]
+}
+</script>
 </head>
 
 <body>

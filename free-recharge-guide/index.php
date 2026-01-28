@@ -118,7 +118,7 @@
 
   <!-- FAQ Schema -->
   <script type="application/ld+json">
-  {
+{
   "@context": "https://schema.org",
   "@graph": [
     {
@@ -144,24 +144,22 @@
     },
     {
       "@type": "BlogPosting",
-      "@id": "https://jalwalogin.co/free-recharge-guide/#blogpost",
+      "@id": "https://jalwalogin.co/free-recharge-guide/#blogposting",
       "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://jalwalogin.co/free-recharge-guide/"
+        "@id": "https://jalwalogin.co/free-recharge-guide/#webpage"
       },
       "headline": "How to Get Free Recharge in Jalwa Game",
       "description": "Learn how to get free recharge in Jalwa Game easily. Follow simple steps to earn rewards, recharge your balance, and enjoy uninterrupted gameplay.",
-      "image": "https://jalwalogin.co/assets/image/blog/get-free-recharge-2.webp",
-      "inLanguage": [
-        "en-IN"
-      ],
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://jalwalogin.co/assets/image/blog/get-free-recharge-2.webp"
+      },
+      "inLanguage": "en-IN",
       "publisher": {
         "@id": "https://jalwalogin.co/#organization"
       },
       "author": {
-        "@type": "Organization",
-        "name": "Jalwa Game",
-        "url": "https://jalwalogin.co/"
+        "@id": "https://jalwalogin.co/#organization"
       }
     },
     {
@@ -184,7 +182,71 @@
     }
   ]
 }
-  </script>
+</script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are the free recharge options in Jalwa Game completely free?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. If you use only the official app or website and follow the in-app offers, the free recharge methods are safe and do not require direct payment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there any limit to using free recharge?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There is no fixed limit. Availability depends on current offers, rewards, and promotional activities in the app."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a bank account for free recharge?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Free credits are added directly to your Jalwa wallet. Bank details are usually required only when you withdraw winnings."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take for free recharge to reflect?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most free recharge credits appear instantly or within a few minutes. In rare cases, it may take longer due to server delays."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if free recharge fails?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Check your internet connection, log out and log in again, then contact customer support with your registered details and a screenshot if the issue continues."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are free recharge offers available for all users?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most activities are available for all users, but some offers may require eligibility like account verification or specific activity completion."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I combine free recharge with other bonuses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sometimes yes, if the offer terms allow it. Always check the in-app rules before using combined credits."
+      }
+    }
+  ]
+}
+</script>
 </head>
 
 <body>

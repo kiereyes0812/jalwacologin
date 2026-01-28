@@ -1,0 +1,16 @@
+{
+  "name": "Jalwa Game",
+  "short_name": "Jalwa Game",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "assets/image/apple-touch-icon.webp",
+      "sizes": "180x180",
+      "type": "image/webp"
+    }
+  ]
+}

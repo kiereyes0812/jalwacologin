@@ -15,9 +15,9 @@
     <meta name="googlebot" content="index,follow" />
 
     <!-- Favicons / PWA basics -->
-    <link rel="icon" type="image/webp" href="/assets/image/Jalwa game login favicon.webp" sizes="32x32">
-    <link rel="apple-touch-icon" href="assets/image/apple-touch-icon.webp" />
-    <link rel="manifest" href="/site.webmanifest" />
+    <link rel="icon" type="image/webp" href="../assets/image/Jalwa game login favicon.webp" sizes="32x32">
+    <link rel="apple-touch-icon" href="../assets/image/apple-touch-icon.webp" />
+    <link rel="manifest" href="../site.webmanifest" />
     <meta name="theme-color" content="#0f172a" />
     <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
     <link rel="preconnect" href="https://www.google-analytics.com" crossorigin>

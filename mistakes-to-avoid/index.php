@@ -46,51 +46,152 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
 
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Organization",
-        "@id": "https://jalwalogin.co/#organization",
-        "name": "Jalwa Game",
-        "url": "https://jalwalogin.co/",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://jalwalogin.co/assets/image/Jalwa%20game%20login%20logo.webp"
-        },
-        "email": "info@jalwalogin.co"
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://jalwalogin.co/#organization",
+      "name": "Jalwa Game",
+      "url": "https://jalwalogin.co/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://jalwalogin.co/assets/image/Jalwa%20game%20login%20logo.webp"
       },
-      {
-        "@type": "WebSite",
-        "@id": "https://jalwalogin.co/#website",
-        "url": "https://jalwalogin.co/",
-        "name": "Jalwa Game Login",
-        "publisher": { "@id": "https://jalwalogin.co/#organization" }
-      },
-      {
-        "@type": "WebPage",
-        "@id": "https://jalwalogin.co/mistakes-to-avoid/#webpage",
-        "url": "https://jalwalogin.co/mistakes-to-avoid/",
-        "name": "Top 10 Mistakes to Avoid in Jalwa Game",
-        "description": "Beat the Jalwa Game! Avoid 10 common mistakes players make and increase your chances of winning fast. Read now!",
-        "isPartOf": { "@id": "https://jalwalogin.co/#website" },
-        "primaryImageOfPage": {
-          "@type": "ImageObject",
-          "url": "https://jalwalogin.co/assets/image/blog/10-mistakes-to-avoid.webp"
-        },
-        "publisher": { "@id": "https://jalwalogin.co/#organization" }
-      },
-      {
-        "@type": "BreadcrumbList",
-        "@id": "https://jalwalogin.co/mistakes-to-avoid/#breadcrumb",
-        "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://jalwalogin.co/" },
-          { "@type": "ListItem", "position": 2, "name": "Mistakes to Avoid", "item": "https://jalwalogin.co/mistakes-to-avoid/" }
-        ]
+      "email": "info@jalwalogin.co"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://jalwalogin.co/#website",
+      "url": "https://jalwalogin.co/",
+      "name": "Jalwa Game Login",
+      "publisher": {
+        "@id": "https://jalwalogin.co/#organization"
       }
-    ]
-  }
-  </script>
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://jalwalogin.co/mistakes-to-avoid/#webpage",
+      "url": "https://jalwalogin.co/mistakes-to-avoid/",
+      "name": "Top 10 Mistakes to Avoid in Jalwa Game",
+      "description": "Beat the Jalwa Game! Avoid 10 common mistakes players make and increase your chances of winning fast. Read now!",
+      "isPartOf": {
+        "@id": "https://jalwalogin.co/#website"
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://jalwalogin.co/assets/image/blog/10-mistakes-to-avoid.webp"
+      },
+      "publisher": {
+        "@id": "https://jalwalogin.co/#organization"
+      },
+      "inLanguage": "en-IN"
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://jalwalogin.co/mistakes-to-avoid/#blogposting",
+      "mainEntityOfPage": {
+        "@id": "https://jalwalogin.co/mistakes-to-avoid/#webpage"
+      },
+      "headline": "Top 10 Mistakes to Avoid in Jalwa Game",
+      "description": "Beat the Jalwa Game! Avoid 10 common mistakes players make and increase your chances of winning fast. Read now!",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://jalwalogin.co/assets/image/blog/10-mistakes-to-avoid.webp"
+      },
+      "author": {
+        "@id": "https://jalwalogin.co/#organization"
+      },
+      "publisher": {
+        "@id": "https://jalwalogin.co/#organization"
+      },
+      "inLanguage": "en-IN"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://jalwalogin.co/mistakes-to-avoid/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://jalwalogin.co/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Mistakes to Avoid",
+          "item": "https://jalwalogin.co/mistakes-to-avoid/"
+        }
+      ]
+    }
+  ]
+}
+</script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the most common mistake new players make in the Jalwa Game?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most common mistake is ignoring the game rules. Many players start playing without understanding how rounds work or how results are determined. This leads to wrong moves and unnecessary losses. Taking a few minutes to read the guide can prevent this."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I avoid losing money while playing the Jalwa Game?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can avoid losses by managing your bankroll and setting clear session limits. Never deposit or spend more than you planned, and avoid chasing losses after a bad round. Keeping control of your money ensures longer, safer gameplay."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are there any tips to manage my game strategy effectively?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Always have a plan for how many rounds you will play, observe patterns in the game, and start with smaller predictions. A simple strategy helps you play calmly and make smarter decisions instead of guessing randomly."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can bonuses and free recharge help improve my chances?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Absolutely. Bonuses, free credits, and refer-and-earn rewards give extra chances to play without using your own balance. Using these offers wisely can stretch your gameplay and give more opportunities to win."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I know if I am playing responsibly?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Responsible play means setting time limits, controlling deposits, and taking breaks when needed. If you can stick to your plan without rushing or overspending, you are playing responsibly."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is it necessary to review my past games to improve?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, reviewing past rounds helps you learn from mistakes and track patterns. By analysing your moves, you can adjust your strategy and avoid repeating errors in future rounds."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I protect myself from fake tips or scams in the Jalwa Game?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Only follow tips from the official game guide or trusted sources. Avoid unverified websites, messages, or links promising easy wins. Never share personal information with strangers, and stick to safe strategies provided by the game."
+      }
+    }
+  ]
+}
+</script>
 </head>
 
 <body>

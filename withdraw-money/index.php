@@ -47,51 +47,144 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
 
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Organization",
-        "@id": "https://jalwalogin.co/#organization",
-        "name": "Jalwa Game",
-        "url": "https://jalwalogin.co/",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://jalwalogin.co/assets/image/Jalwa%20game%20login%20logo.webp"
-        },
-        "email": "info@jalwalogin.co"
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://jalwalogin.co/#organization",
+      "name": "Jalwa Game",
+      "url": "https://jalwalogin.co/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://jalwalogin.co/assets/image/Jalwa%20game%20login%20logo.webp"
       },
-      {
-        "@type": "WebSite",
-        "@id": "https://jalwalogin.co/#website",
-        "url": "https://jalwalogin.co/",
-        "name": "Jalwa Game Login",
-        "publisher": { "@id": "https://jalwalogin.co/#organization" }
-      },
-      {
-        "@type": "WebPage",
-        "@id": "https://jalwalogin.co/withdraw-money/#webpage",
-        "url": "https://jalwalogin.co/withdraw-money/",
-        "name": "How to Withdraw Money from Jalwa Game Account",
-        "description": "Learn the secure way to withdraw your winnings from Jalwa Game: step-wise instructions, common issues, and expert tips for seamless withdrawals.",
-        "isPartOf": { "@id": "https://jalwalogin.co/#website" },
-        "primaryImageOfPage": {
-          "@type": "ImageObject",
-          "url": "https://jalwalogin.co/assets/image/blog/withdraw-money-from-jalwa.webp"
-        },
-        "publisher": { "@id": "https://jalwalogin.co/#organization" }
-      },
-      {
-        "@type": "BreadcrumbList",
-        "@id": "https://jalwalogin.co/withdraw-money/#breadcrumb",
-        "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://jalwalogin.co/" },
-          { "@type": "ListItem", "position": 2, "name": "Withdraw Money", "item": "https://jalwalogin.co/withdraw-money/" }
-        ]
+      "email": "info@jalwalogin.co"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://jalwalogin.co/#website",
+      "url": "https://jalwalogin.co/",
+      "name": "Jalwa Game Login",
+      "publisher": {
+        "@id": "https://jalwalogin.co/#organization"
       }
-    ]
-  }
-  </script>
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://jalwalogin.co/withdraw-money/#webpage",
+      "url": "https://jalwalogin.co/withdraw-money/",
+      "name": "How to Withdraw Money from Jalwa Game Account",
+      "description": "Learn the secure way to withdraw your winnings from Jalwa Game: step-wise instructions, common issues, and expert tips for seamless withdrawals.",
+      "isPartOf": {
+        "@id": "https://jalwalogin.co/#website"
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://jalwalogin.co/assets/image/blog/withdraw-money-from-jalwa.webp"
+      },
+      "publisher": {
+        "@id": "https://jalwalogin.co/#organization"
+      },
+      "inLanguage": "en-IN"
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://jalwalogin.co/withdraw-money/#blogposting",
+      "mainEntityOfPage": {
+        "@id": "https://jalwalogin.co/withdraw-money/#webpage"
+      },
+      "headline": "How to Withdraw Money from Jalwa Game Account",
+      "description": "Learn the secure way to withdraw your winnings from Jalwa Game: step-wise instructions, common issues, and expert tips for seamless withdrawals.",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://jalwalogin.co/assets/image/blog/withdraw-money-from-jalwa.webp"
+      },
+      "author": {
+        "@id": "https://jalwalogin.co/#organization"
+      },
+      "publisher": {
+        "@id": "https://jalwalogin.co/#organization"
+      },
+      "inLanguage": "en-IN"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://jalwalogin.co/withdraw-money/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://jalwalogin.co/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Withdraw Money",
+          "item": "https://jalwalogin.co/withdraw-money/"
+        }
+      ]
+    }
+  ]
+}
+</script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is there any bank account allowed for withdrawal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, withdrawals can only be made to the verified bank account linked with your Jalwa Game account."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is my withdrawal request pending?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Network traffic, server load, and bank holidays may cause delays. Wait for some time and contact support if it is more than 24 to 48 hours."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the withdrawal limits in Jalwa Game?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The minimum withdrawal amount is typically ₹110, and you can withdraw up to ₹1000000 in a single request (as per in-app rules)."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does the platform charge any fee for withdrawals?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Jalwa Game typically does not charge a standard withdrawal fee, but some payment apps can apply processing charges. Check your payment method before withdrawing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to receive my withdrawal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Many withdrawals reflect within hours, but some bank transfers can take up to 24 to 48 hours depending on checks and holidays."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How often can I withdraw in a day?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can normally do one withdrawal at a time and up to three withdrawals in a day, depending on the app rules."
+      }
+    }
+  ]
+}
+</script>
 </head>
 
 <body>

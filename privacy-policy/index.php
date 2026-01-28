@@ -13,9 +13,9 @@
     <meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large,max-video-preview:-1" />
     <meta name="googlebot" content="index,follow" />
     <!-- Favicons / PWA basics -->
-    <link rel="icon" type="image/webp" href="/assets/image/Jalwa game login favicon.webp" sizes="32x32">
-    <link rel="apple-touch-icon" href="assets/image/apple-touch-icon.webp" />
-    <link rel="manifest" href="/site.webmanifest" />
+    <link rel="icon" type="image/webp" href="../assets/image/Jalwa game login favicon.webp" sizes="32x32">
+    <link rel="apple-touch-icon" href="../assets/image/apple-touch-icon.webp" />
+    <link rel="manifest" href="../site.webmanifest" />
     <meta name="theme-color" content="#0f172a" />
     <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
     <link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
@@ -70,8 +70,8 @@
       "@type": "WebPage",
       "@id": "https://jalwalogin.co/privacy-policy/#webpage",
       "url": "https://jalwalogin.co/privacy-policy/",
-      "name": "Privacy Policy",
-      "description": "Read the Jalwa Game Privacy Policy to learn how we collect, use, and protect your personal data while you use our gaming services.",
+      "name": "Privacy Policy - Jalwa Game",
+      "description": "Read how Jalwa Game collects, uses, and protects your personal information. Learn about your rights and our commitment to your privacy.",
       "image": "https://jalwalogin.co/assets/image/Jalwa game login featured image.webp",
       "isPartOf": {
         "@id": "https://jalwalogin.co/#website"
@@ -81,6 +81,11 @@
       },
       "publisher": {
         "@id": "https://jalwalogin.co/#organization"
+      },
+      "inLanguage": "en-IN",
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://jalwalogin.co/assets/image/Jalwa game login featured image.webp"
       }
     },
     {

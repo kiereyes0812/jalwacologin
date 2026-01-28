@@ -15,9 +15,9 @@
     <meta name="googlebot" content="index,follow" />
 
     <!-- Favicons / PWA basics -->
-    <link rel="icon" type="image/webp" href="/assets/image/Jalwa game login favicon.webp" sizes="32x32">
-    <link rel="apple-touch-icon" href="assets/image/apple-touch-icon.webp" />
-    <link rel="manifest" href="/site.webmanifest" />
+    <link rel="icon" type="image/webp" href="../assets/image/Jalwa game login favicon.webp" sizes="32x32">
+    <link rel="apple-touch-icon" href="../assets/image/apple-touch-icon.webp" />
+    <link rel="manifest" href="../site.webmanifest" />
     <meta name="theme-color" content="#0f172a" />
     <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
     <link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
@@ -75,7 +75,7 @@
       "@type": "WebPage",
       "@id": "https://jalwalogin.co/terms-conditions/#webpage",
       "url": "https://jalwalogin.co/terms-conditions/",
-      "name": "Terms and Conditions",
+      "name": "Terms & Conditions - Jalwa Game",
       "description": "Read the official terms and conditions of Jalwa Game. Learn the rules, responsibilities, and guidelines for safe and fair use of our website and games.",
       "image": "https://jalwalogin.co/assets/image/Jalwa game login featured image.webp",
       "isPartOf": {
@@ -86,6 +86,11 @@
       },
       "publisher": {
         "@id": "https://jalwalogin.co/#organization"
+      },
+      "inLanguage": "en-IN",
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://jalwalogin.co/assets/image/Jalwa game login featured image.webp"
       }
     },
     {

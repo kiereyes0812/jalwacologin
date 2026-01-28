@@ -46,64 +46,88 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
 
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Organization",
-        "@id": "https://jalwalogin.co/#organization",
-        "name": "Jalwa Game",
-        "url": "https://jalwalogin.co/",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://jalwalogin.co/assets/image/Jalwa%20game%20login%20logo.webp"
-        },
-        "email": "info@jalwalogin.co"
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://jalwalogin.co/#organization",
+      "name": "Jalwa Game",
+      "url": "https://jalwalogin.co/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://jalwalogin.co/assets/image/Jalwa%20game%20login%20logo.webp"
       },
-      {
-        "@type": "WebSite",
-        "@id": "https://jalwalogin.co/#website",
-        "url": "https://jalwalogin.co/",
-        "name": "Jalwa Game",
-        "publisher": { "@id": "https://jalwalogin.co/#organization" }
-      },
-      {
-        "@type": "WebPage",
-        "@id": "https://jalwalogin.co/play-responsibly-guide/#webpage",
-        "url": "https://jalwalogin.co/play-responsibly-guide/",
-        "name": "Play Responsibly on Jalwa Game: Tips for Safe Gaming",
-        "description": "Learn how to play responsibly on Jalwa Game with easy tips for safe and enjoyable gaming. Protect your account and enjoy a balanced gaming experience.",
-        "isPartOf": { "@id": "https://jalwalogin.co/#website" },
-        "primaryImageOfPage": {
-          "@type": "ImageObject",
-          "url": "https://jalwalogin.co/assets/image/blog/play-responsibly.webp"
-        },
-        "publisher": { "@id": "https://jalwalogin.co/#organization" }
-      },
-      {
-        "@type": "BlogPosting",
-        "@id": "https://jalwalogin.co/play-responsibly-guide/#blogposting",
-        "mainEntityOfPage": { "@id": "https://jalwalogin.co/play-responsibly-guide/#webpage" },
-        "headline": "Play Responsibly on Jalwa Game: Tips for Safe Gaming",
-        "description": "Learn how to play responsibly on Jalwa Game with easy tips for safe and enjoyable gaming. Protect your account and enjoy a balanced gaming experience.",
-        "image": {
-          "@type": "ImageObject",
-          "url": "https://jalwalogin.co/assets/image/blog/play-responsibly.webp"
-        },
-        "author": { "@id": "https://jalwalogin.co/#organization" },
-        "publisher": { "@id": "https://jalwalogin.co/#organization" }
-      },
-      {
-        "@type": "BreadcrumbList",
-        "@id": "https://jalwalogin.co/play-responsibly-guide/#breadcrumb",
-        "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://jalwalogin.co/" },
-          { "@type": "ListItem", "position": 2, "name": "Play Responsibly Guide", "item": "https://jalwalogin.co/play-responsibly-guide/" }
-        ]
+      "email": "info@jalwalogin.co"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://jalwalogin.co/#website",
+      "url": "https://jalwalogin.co/",
+      "name": "Jalwa Game",
+      "publisher": {
+        "@id": "https://jalwalogin.co/#organization"
       }
-    ]
-  }
-  </script>
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://jalwalogin.co/play-responsibly-guide/#webpage",
+      "url": "https://jalwalogin.co/play-responsibly-guide/",
+      "name": "Play Responsibly on Jalwa Game: Tips for Safe Gaming",
+      "description": "Learn how to play responsibly on Jalwa Game with easy tips for safe and enjoyable gaming. Protect your account and enjoy a balanced gaming experience.",
+      "isPartOf": {
+        "@id": "https://jalwalogin.co/#website"
+      },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://jalwalogin.co/assets/image/blog/play-responsibly.webp"
+      },
+      "publisher": {
+        "@id": "https://jalwalogin.co/#organization"
+      },
+      "inLanguage": "en-IN"
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://jalwalogin.co/play-responsibly-guide/#blogposting",
+      "mainEntityOfPage": {
+        "@id": "https://jalwalogin.co/play-responsibly-guide/#webpage"
+      },
+      "headline": "Play Responsibly on Jalwa Game: Tips for Safe Gaming",
+      "description": "Learn how to play responsibly on Jalwa Game with easy tips for safe and enjoyable gaming. Protect your account and enjoy a balanced gaming experience.",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://jalwalogin.co/assets/image/blog/play-responsibly.webp"
+      },
+      "author": {
+        "@id": "https://jalwalogin.co/#organization"
+      },
+      "publisher": {
+        "@id": "https://jalwalogin.co/#organization"
+      },
+      "inLanguage": "en-IN"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://jalwalogin.co/play-responsibly-guide/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://jalwalogin.co/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Play Responsibly Guide",
+          "item": "https://jalwalogin.co/play-responsibly-guide/"
+        }
+      ]
+    }
+  ]
+}
+</script>
   <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -428,7 +452,7 @@
     </div>
   </section>
 
-  <!-- FAQs (your preferred format) -->
+  <!-- FAQs -->
   <section class="faq-section jalwa-section" id="faqs">
     <div class="container content-border">
       <div class="row">

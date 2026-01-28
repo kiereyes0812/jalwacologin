@@ -118,7 +118,7 @@
 
   <!-- FAQ Schema -->
   <script type="application/ld+json">
-  {
+{
   "@context": "https://schema.org",
   "@graph": [
     {
@@ -144,24 +144,22 @@
     },
     {
       "@type": "BlogPosting",
-      "@id": "https://jalwalogin.co/deposit-money/#blogpost",
+      "@id": "https://jalwalogin.co/deposit-money/#blogposting",
       "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "https://jalwalogin.co/deposit-money/"
+        "@id": "https://jalwalogin.co/deposit-money/#webpage"
       },
       "headline": "How to Deposit Money Safely in Your Jalwa Game Account",
       "description": "Learn the safe and easy steps to deposit money in your Jalwa Game account securely using trusted payment methods and verified platforms.",
-      "image": "https://jalwalogin.co/assets/image/blog/deposit-money.webp",
-      "inLanguage": [
-        "en-IN"
-      ],
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://jalwalogin.co/assets/image/blog/deposit-money.webp"
+      },
+      "inLanguage": "en-IN",
       "publisher": {
         "@id": "https://jalwalogin.co/#organization"
       },
       "author": {
-        "@type": "Organization",
-        "name": "Jalwa Game",
-        "url": "https://jalwalogin.co/"
+        "@id": "https://jalwalogin.co/#organization"
       }
     },
     {
@@ -184,7 +182,71 @@
     }
   ]
 }
-  </script>
+</script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take for the deposit to reflect?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Deposits are usually reflected in your game wallet within a few seconds. In rare cases, it may take up to 1 hour."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I utilise multiple payment methods for deposit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For each transaction, you must use a single method, but you can choose different options each time you deposit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there a minimum deposit amount for Jalwa Game?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The minimum deposit amount is ₹100 and it can go up to ₹50,000 depending on the method and limits."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I cancel a deposit transaction in progress?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Once approved, a deposit transaction cannot be cancelled. Verify your amount and details before confirming."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are deposits in the Jalwa Game secure?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Deposits use encryption and trusted gateways when you deposit through the official in-app Wallet or Account section."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if my deposit fails?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Check your UPI app or bank details first. If the issue continues, contact customer support with your transaction ID."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Jalwa Game charge any transaction fees for deposits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. The platform does not charge extra fees with standard payment options."
+      }
+    }
+  ]
+}
+</script>
 </head>
 
 <body>
@@ -501,7 +563,7 @@
     </div>
   </section>
 
-  <!-- FAQs (required format + classes) -->
+  <!-- FAQs -->
   <section class="faq-section jalwa-section" id="faqs">
     <div class="container content-border">
       <div class="row">

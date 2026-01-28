@@ -15,7 +15,7 @@
     <!-- Favicons / PWA basics -->
     <link rel="icon" type="image/webp" href="assets/image/Jalwa game login favicon.webp" sizes="32x32">
     <link rel="apple-touch-icon" href="assets/image/apple-touch-icon.webp" />
-    <link rel="manifest" href="/site.webmanifest" />
+    <link rel="manifest" href="site.webmanifest" />
     <meta name="theme-color" content="#0f172a" />
     <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
     <link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
@@ -70,9 +70,9 @@
     {
       "@type": "WebPage",
       "@id": "https://jalwalogin.co/#webpage",
-      "url": "https://jalwalogin.co/",
+      "url": "https://jalwalogin.co",
       "name": "Jalwa Game Login",
-      "description": "Jalwa Game Login – Play colour prediction, casino, and lottery games online. Join Jalwa Game to enjoy fast withdrawals, secure gameplay, and daily rewards.",
+      "description": "Jalwa Game is people’s favourite platform to play games such as colour prediction games, Aviator, Slots, WinGo, etc. Join and enjoy safe and secure gaming.",
       "isPartOf": {
         "@id": "https://jalwalogin.co/#website"
       },
@@ -81,6 +81,11 @@
       },
       "publisher": {
         "@id": "https://jalwalogin.co/#organization"
+      },
+      "inLanguage": "en-IN",
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://jalwalogin.co/assets/image/Jalwa game login featured image.webp"
       }
     },
     {
@@ -125,20 +130,6 @@
       "publisher": {
         "@id": "https://jalwalogin.co/#organization"
       }
-    },
-    {
-      "@type": "BlogPosting",
-      "@id": "https://jalwalogin.co/#blogposting",
-      "headline": "Welcome to Jalwa Game Login – India’s Trusted Gaming Platform",
-      "image": "https://jalwalogin.co/assets/image/Jalwa%20game%20login%20featured%20image.webp",
-      "url": "https://jalwalogin.co/",
-      "author": {
-        "@id": "https://jalwalogin.co/#organization"
-      },
-      "publisher": {
-        "@id": "https://jalwalogin.co/#organization"
-      },
-      "description": "Join Jalwa Game Login to play colour prediction, casino, and lottery games online. Enjoy secure login, fast withdrawals, and daily rewards."
     }
   ]
 }
@@ -1608,7 +1599,7 @@
       "name": "What is a colour prediction game?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A colour prediction game is an online game where you have to predict the colour that will appear next in the sequence. If your prediction is correct, you earn money."
+        "text": "A colour prediction game is an online game where you have to predict the colour that will appear next in the sequence, and if you predict correctly, you earn money."
       }
     },
     {
@@ -1616,7 +1607,7 @@
       "name": "What is the minimum deposit amount for a Jalwa game?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "You need to deposit a minimum of Rs 100 for a bank transfer or UPI payment. For USDT, the minimum deposit is 10 USDT."
+        "text": "You need to deposit a minimum of Rs 100 while making a bank transfer or UPI payment, or if you are using USDT, you will have to deposit at least 10 USDT."
       }
     },
     {
@@ -1624,7 +1615,7 @@
       "name": "What payment methods are available on the Jalwa game app?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "You can deposit money using UPI, net banking, and e-wallets. To withdraw money, you must use USDT or bank transfers."
+        "text": "Payment methods like UPI, net banking, and e-wallets are available to deposit money, while to withdraw money, you will have to use payment methods like USDT and bank transfers."
       }
     },
     {
@@ -1632,7 +1623,7 @@
       "name": "Where can I download the Jalwa game app?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "You can download the app by clicking on the Jalwa game download APK button provided. Always use a trusted source when downloading."
+        "text": "To download the app, you can click on the Jalwa game download APK button provided, or if you use any other method, make sure to use a trusted link for it."
       }
     },
     {
@@ -1640,7 +1631,7 @@
       "name": "How to play the Aviator game on Jalwa game?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Log in to your account, add funds, select the Aviator game, place your bet, and make a prediction."
+        "text": "To play the Aviator game, first log in to your account, add funds to the account, and then choose the Aviator game. Place your bet and make a prediction."
       }
     },
     {
@@ -1648,7 +1639,7 @@
       "name": "Should I use a modded version of the Jalwa App?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No, using a modded version can lead to account suspension. Always use the official version of the app."
+        "text": "No, you should not use the modded version since using any modified app can lead to account suspension."
       }
     },
     {
@@ -1656,7 +1647,7 @@
       "name": "What is the minimum withdrawal limit on the Jalwa game?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The minimum withdrawal is Rs 110 via bank transfer or 10 USDT if you're using USDT."
+        "text": "You need to withdraw a minimum of Rs 110 if you are using Bank transfer and if you are using USDT, a minimum of 10 USDT is required."
       }
     },
     {
@@ -1664,7 +1655,7 @@
       "name": "Is it possible to play games for free on the Jalwa app?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No, you need to add funds before you can play games on the Jalwa platform."
+        "text": "No, you will have to add funds first before you can play games on the platform."
       }
     },
     {
@@ -1672,7 +1663,7 @@
       "name": "How to log in using my email ID?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "You cannot log in using your email ID. Login is only possible using your mobile number."
+        "text": "There is no way you can log in using your email ID. You can log in using your mobile number only."
       }
     },
     {
@@ -1680,7 +1671,7 @@
       "name": "Can I actually make money on the Jalwa game?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, you can earn money by making correct predictions and using bonuses wisely. However, the game is mostly luck-based, so earnings are not guaranteed."
+        "text": "Yes, you can make money if you make correct predictions and wisely use your bonuses. However, the game is majorly based on luck; therefore, there is no certainty that you will always be able to make money."
       }
     },
     {
@@ -1688,7 +1679,7 @@
       "name": "How much can I make on the Jalwa game?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Your earnings depend on how effectively you play, how many correct predictions you make, and how you manage your funds."
+        "text": "It completely depends on how you use your money on the platform or how many correct predictions you make."
       }
     },
     {
@@ -1704,7 +1695,7 @@
       "name": "How can I make more money on the Jalwa game?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Understand the game rules, use your bonuses wisely, and increase your spending gradually to improve your chances of earning more."
+        "text": "To make more money, spend your money wisely. Understand the rules of the games before playing, use your bonuses wisely, and increase spending gradually."
       }
     },
     {
@@ -1712,7 +1703,7 @@
       "name": "Can I play the Jalwa game on multiple devices at once?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No, playing on multiple devices simultaneously can violate the platform's policy."
+        "text": "No, you should not play the game on multiple devices since this can be a policy breach of the platform."
       }
     },
     {
@@ -1720,7 +1711,7 @@
       "name": "How to contact the Jalwa game customer support?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Click on the customer service option within the app, select the issue you're facing, submit your details, and connect with an agent for help."
+        "text": "To contact the support team, click on the customer service option and click on the issue you are facing. Submit your details and talk to the agent to resolve the issue."
       }
     }
   ]

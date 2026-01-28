@@ -48,142 +48,147 @@
 
   <!-- BlogPosting + Breadcrumb + Organization schema -->
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "Organization",
-        "@id": "https://jalwalogin.co/#organization",
-        "name": "Jalwa Game",
-        "url": "https://jalwalogin.co/",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://jalwalogin.co/assets/image/Jalwa%20game%20login%20logo.webp"
-        },
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://jalwalogin.co/#organization",
+      "name": "Jalwa Game",
+      "url": "https://jalwalogin.co/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://jalwalogin.co/assets/image/Jalwa%20game%20login%20logo.webp"
+      },
+      "email": "info@jalwalogin.co",
+      "description": "Jalwa Game is people’s favourite platform to play games such as colour prediction games, Aviator, Slots, WinGo, etc. Join and enjoy safe and secure gaming.",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "Customer Support",
         "email": "info@jalwalogin.co",
-        "description": "Jalwa Game is people’s favourite platform to play games such as colour prediction games, Aviator, Slots, WinGo, etc. Join and enjoy safe and secure gaming.",
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "contactType": "Customer Support",
-          "email": "info@jalwalogin.co",
-          "availableLanguage": ["en-IN", "hi-IN"]
-        }
-      },
-      {
-        "@type": "WebSite",
-        "@id": "https://jalwalogin.co/#website",
-        "url": "https://jalwalogin.co/",
-        "name": "Jalwa Game",
-        "description": "Play exciting colour prediction, Aviator, Slots, and WinGo games safely on Jalwa Game. Enjoy trusted gaming and instant rewards.",
-        "publisher": { "@id": "https://jalwalogin.co/#organization" }
-      },
-      {
-        "@type": "BlogPosting",
-        "@id": "https://jalwalogin.co/remove-bank-account/#blogpost",
-        "mainEntityOfPage": {
-          "@type": "WebPage",
-          "@id": "https://jalwalogin.co/remove-bank-account/"
-        },
-        "headline": "How to Remove a Bank Account from Jalwa Game",
-        "description": "Learn how to safely remove your bank account from Jalwa Game. Follow this simple step-by-step guide to avoid errors and manage your withdrawals easily.",
-        "image": "https://jalwalogin.co/assets/image/blog/remove-bank-account.webp",
-        "datePublished": "2025-11-07",
-        "dateModified": "2025-11-07",
-        "inLanguage": ["en-IN"],
-        "publisher": { "@id": "https://jalwalogin.co/#organization" },
-        "author": {
-          "@type": "Organization",
-          "name": "Jalwa Game",
-          "url": "https://jalwalogin.co/"
-        }
-      },
-      {
-        "@type": "BreadcrumbList",
-        "@id": "https://jalwalogin.co/remove-bank-account/#breadcrumb",
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "name": "Home",
-            "item": "https://jalwalogin.co/"
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "name": "Remove Bank Account",
-            "item": "https://jalwalogin.co/remove-bank-account/"
-          }
+        "availableLanguage": [
+          "en-IN",
+          "hi-IN"
         ]
       }
-    ]
-  }
-  </script>
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://jalwalogin.co/#website",
+      "url": "https://jalwalogin.co/",
+      "name": "Jalwa Game",
+      "description": "Play exciting colour prediction, Aviator, Slots, and WinGo games safely on Jalwa Game. Enjoy trusted gaming and instant rewards.",
+      "publisher": {
+        "@id": "https://jalwalogin.co/#organization"
+      }
+    },
+    {
+      "@type": "BlogPosting",
+      "@id": "https://jalwalogin.co/remove-bank-account/#blogposting",
+      "mainEntityOfPage": {
+        "@id": "https://jalwalogin.co/remove-bank-account/#webpage"
+      },
+      "headline": "How to Remove a Bank Account from Jalwa Game",
+      "description": "Learn how to safely remove your bank account from Jalwa Game. Follow this simple step-by-step guide to avoid errors and manage your withdrawals easily.",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://jalwalogin.co/assets/image/blog/remove-bank-account.webp"
+      },
+      "inLanguage": "en-IN",
+      "publisher": {
+        "@id": "https://jalwalogin.co/#organization"
+      },
+      "author": {
+        "@id": "https://jalwalogin.co/#organization"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://jalwalogin.co/remove-bank-account/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://jalwalogin.co/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Remove Bank Account",
+          "item": "https://jalwalogin.co/remove-bank-account/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 
   <!-- FAQ Schema -->
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "Can I remove my primary bank account from the Jalwa App?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes, but you must link a new verified bank account or UPI before removing the primary one."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Will removing my account affect pending withdrawals?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes, pending withdrawals that are linked to the primary account will fail if you remove your bank account. Clear all pending transactions before removing your account."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "How long does it take to remove the bank account?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Usually, the removal is instant in the Jalwa Game App; however, in some cases, it may take up to 24 hours."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Can I re-add the removed account later?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes, you can re-add the removed account if needed, as long as your bank account is verified."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "What should I do if I am not able to receive OTP during removal?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Check your mobile network, registered mobile number, or try again after some time. If the issue continues, contact Jalwa Customer Support."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Is there any limit on the number of bank accounts I can remove?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "No, in Jalwa Game, there are no specific limits on the number of bank account removals. However, frequent changes may require additional verification for security purposes."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Will removing the bank account affect my winnings or balance?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "No, your in-game balance and winnings will remain safe. You only need to add another verified bank account for withdrawals."
-        }
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I remove my primary bank account from the Jalwa App?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but you must link a new verified bank account or UPI before removing the primary one."
       }
-    ]
-  }
-  </script>
+    },
+    {
+      "@type": "Question",
+      "name": "Will removing my account affect pending withdrawals?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, pending withdrawals linked to the primary account may fail if you remove it. Clear all pending transactions before removing your account."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to remove the bank account?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Usually it is instant, but in some cases it may take up to 24 hours."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I re-add the removed account later?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you can re-add the removed account later as long as your bank account is verified."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I do if I am not able to receive OTP during removal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Check your mobile network and registered number, then try again after some time. If the issue continues, contact customer support."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there any limit on the number of bank accounts I can remove?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No specific limits, but frequent changes may require additional verification for security."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Will removing the bank account affect my winnings or balance?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, your balance and winnings remain safe. You just need another verified account for withdrawals."
+      }
+    }
+  ]
+}
+</script>
 </head>
 
 <body>
