@@ -212,26 +212,29 @@
         <div class="col-l2">
           <div class="content-box">
 
-            <img
+            <!-- <img
               src="../assets/image/blog/remove-bank-account.webp"
               alt="Remove a Bank Account from Jalwa Game"
               width="1200"
               height="628"
               class="img-fluid mb-3"
               loading="lazy"
-            />
+            /> -->
 
             <p class="tpara">
               Jalwa Game is a popular online gaming platform that provides exciting gaming options such as Lottery Games, Mini Games, Slot Games, PVC, Fishing, and more.
             </p>
 
             <p class="para-txt">
-              The platform gives you the opportunity to win real rewards by playing these games. So, it is important to manage your account details carefully to receive your rewards smoothly.
+              The platform provides you with the opportunity to win real rewards by playing these games. Hence, it is important to manage your account details carefully to acquire our winning rewards.
             </p>
 
             <p class="para-txt">
-              Sometimes you may need to remove your bank account for reasons like upgrading your UPI, switching to a new bank account, or improving account security.
-              In this guide, we explain the prerequisites, the step-by-step process to remove a bank account, and the common errors you can fix.
+              Sometimes users need to remove their bank account for reasons such as upgrading UPI, changing to a new bank account, or providing account security.
+            </p>
+
+            <p class="para-txt">
+              This detailed guide will cover the provisions, the step-by-step process of removing a bank account from Jalwa Game, and tips to fix common errors to assist you in removing your bank account safely.
             </p>
 
           </div>
@@ -268,30 +271,26 @@
         <div class="col-12">
 
           <div class="all-h2-head">
-            <h2>What Are the Prerequisites Before Removing a Bank Account?</h2>
+            <h2>Prerequisites Before Removing Bank Account</h2>
           </div>
 
           <p class="para-txt">
-            Before you start the bank account removal process in Jalwa Game, make sure the conditions below are met.
+            Before you start the bank account removal process in Jalwa Game, make sure the following conditions are met:
           </p>
 
-          <div class="all-h3-head"><h3>Are You Using the Latest App Version?</h3></div>
+          <div class="all-h3-head"><h3>App Version Requirements</h3></div>
           <p class="para-txt">
-            Use the latest version of the Jalwa Game app. New versions often include bug fixes that improve account management.
+            Ensure that you are using the latest version of the Jalwa Game App. Sometimes, new versions can provide better bug fixes, which can provide better account management. Also, don’t forget to use your <a href="<?php echo $BASE_URL; ?>/invite-code/">Jalwa Game Invite Code</a> to unlock extra rewards when registering or updating your account.
           </p>
 
-          <div class="all-h3-head"><h3>Is Your Account Verified and Logged In?</h3></div>
+          <div class="all-h3-head"><h3>Account Verification & Login Status</h3></div>
           <p class="para-txt">
-            Your account should be fully verified (KYC completed). You must complete your login with your registered mobile number and password.
-            If you face login problems, you can first try:
-            <a href="<?php echo $BASE_URL; ?>/reset-account-password/">reset account password</a>.
+            Your Jalwa account needs to be fully verified (KYC completed). You must complete your Jalwa Game Login with your registered mobile number and password.</a>.
           </p>
 
-          <div class="all-h3-head"><h3>Do You Have Any Pending Transactions?</h3></div>
+          <div class="all-h3-head"><h3>Pending Transaction Check</h3></div>
           <p class="para-txt">
-            If you have pending withdrawals or deposits, you might not be able to remove your bank account until all transactions are cleared.
-            For withdrawal-related details, you can also read:
-            <a href="<?php echo $BASE_URL; ?>/withdraw-money/">withdraw money</a>.
+            If you have pending withdrawals or deposits, you may not be able to remove your account until all of your transactions are cleared.
           </p>
 
         </div>
@@ -306,51 +305,39 @@
         <div class="col-12">
 
           <div class="all-h2-head">
-            <h2>How Can You Remove Your Bank Account Step by Step?</h2>
+            <h2>Step-by-Step Guide to Remove Your Bank Account in Jalwa Game</h2>
           </div>
 
           <p class="para-txt">
-            Follow the steps below to remove your bank account from Jalwa Game successfully.
+            Follow the steps described below to remove your bank account from Jalwa Game successfully:
           </p>
 
-          <div class="all-h3-head"><h3>Step 1: How Can You Log In to Your Account?</h3></div>
-          <ul>
-            <li>Open the official app and log in using your mobile number and password.</li>
-            <li>If you are locked out, follow:
-              <a href="<?php echo $BASE_URL; ?>/reset-account-password/">reset account password</a>.
-            </li>
-          </ul>
+          <div class="all-h3-head"><h3>Step 1: Log in to Your Account</h3></div>
+          <p class="para-txt">
+            Complete your Jalwa Game Register process with your valid mobile number and password.
+          </p>
+          <div class="all-h3-head"><h3>Step 2: Navigate Account Tab</h3></div>
+          <p class="para-txt">
+            From your app home screen tab on the “Account” section.
+          </p>
 
-          <div class="all-h3-head"><h3>Step 2: How Can You Open the Account Tab?</h3></div>
-          <ul>
-            <li>From your app home screen, tap on the “Account” section.</li>
-            <li>Your profile detail page should open.</li>
-          </ul>
+          <div class="all-h3-head"><h3>Step 3: Visit Customer Service to Process the Query</h3></div>
+          <p class="para-txt">
+            Your profile detail page will appear on your home screen, then from the Service Centre section, visit the “Jalwa Game Customer Service” to process your account removal query.
+          </p>
 
-          <div class="all-h3-head"><h3>Step 3: How Can You Visit Customer Service to Process the Query?</h3></div>
-          <ul>
-            <li>From the “Service Centre” section, open the customer service option.</li>
-            <li>If you need help, you can also use:
-              <a href="<?php echo $BASE_URL; ?>/contact-us/">customer support</a>.
-            </li>
-          </ul>
+          <div class="all-h3-head"><h3>Step 4: Provide the Required information to confirm</h3></div>
+          <p class="para-txt">
+            From the given query options, select the “Delete Withdraw Bank Account and Rebind” option.
+          </p>
 
-          <div class="all-h3-head"><h3>Step 4: Which Option Should You Select to Remove the Bank Account?</h3></div>
-          <ul>
-            <li>From the query options, select: <strong>Delete Withdraw Bank Account and Rebind</strong>.</li>
-          </ul>
-
-          <div class="all-h3-head"><h3>Step 5: What Information Do You Need to Provide for Confirmation?</h3></div>
-          <ul>
-            <li>Provide the required details such as bank account information.</li>
-            <li>Upload a selfie holding your ID card, an old bank passbook, and the latest deposit receipt proof.</li>
-            <li>Press “Confirm” to submit the request.</li>
-          </ul>
+          <div class="all-h3-head"><h3>Step 5: Provide Required Information</h3></div>
+         <p class="para-txt">
+            In the designated field, provide the required information, such as Bank Account, a selfie holding your ID card, an old bank passbook, and the latest deposit receipt proof. Then press confirm to process the query.
+          </p>
 
           <p class="para-txt">
-            After submitting, you should receive a notification from the app once the request is processed.
-            If your goal is to switch to a new account (not fully remove access), you can follow:
-            <a href="<?php echo $BASE_URL; ?>/change-bank-account/">change bank account</a>.
+            Once you have completed all the steps, which are discussed in the above write-up, you will receive a notification from the app. If you’re planning to change your bank account in the Jalwa Game, you can easily do that anytime through the app.
           </p>
 
         </div>
@@ -365,38 +352,33 @@
         <div class="col-12">
 
           <div class="all-h2-head">
-            <h2>What Are the Common Errors While Removing a Bank Account?</h2>
+            <h2>Common Errors While Removing a Bank Account</h2>
           </div>
-
-          <div class="all-h3-head"><h3>Why Does Bank Account Removal Fail?</h3></div>
           <p class="para-txt">
-            This can happen if your app is outdated, or if you try to remove your primary linked account without adding an alternative method first.
+            Players can face some issues while trying to remove their accounts. Here are common errors and their fixes:
           </p>
 
-          <div class="all-h3-head"><h3>What If There Is Server Downtime or an App Glitch?</h3></div>
+          <div class="all-h3-head"><h3>Bank Account Removal Fails</h3></div>
           <p class="para-txt">
-            Sometimes the process fails due to temporary technical issues. Try again later. If the issue continues, contact
-            <a href="<?php echo $BASE_URL; ?>/contact-us/">support</a>.
+            Usually occurs if the app is outdated or if you are trying to remove your primary linked account without replacing it with an alternative.
           </p>
 
-          <div class="all-h3-head"><h3>What If You Face OTP or Verification Issues?</h3></div>
+          <div class="all-h3-head"><h3>Server Downtime or App Glitch</h3></div>
           <p class="para-txt">
-            Weak mobile network or incorrect registered details can block OTP delivery. Confirm your registered number, improve network, and try again.
+            Sometimes, the bank account removal may fail due to technical glitches. This is one of the common errors in Jalwa Game, and it can usually be fixed by retrying later or contacting support.
           </p>
 
-          <div class="all-h3-head"><h3>Why Can Transactions Block Bank Removal?</h3></div>
+          <div class="all-h3-head"><h3>OTP or Verification Issues</h3></div>
           <p class="para-txt">
-            If withdrawals are in progress, you cannot remove the bank account until they are settled. Clear pending transactions first.
+            A weak mobile network or an incorrect mobile number can block the OTP delivery. Enter the correct details while verifying.
           </p>
 
-          <div class="all-h3-head"><h3>What If Incorrect Bank Details Were Saved?</h3></div>
+          <div class="all-h3-head"><h3>Transaction Blocking</h3></div>
           <p class="para-txt">
-            If the account was added with wrong details, the system may not allow removal until corrected. Update the details via customer service.
+            If winnings or withdrawals are in progress, you can not remove the bank account until they are settled. If you find it difficult to understand the information in the default language, you can easily <a href="<?php echo $BASE_URL; ?>/change-language/">change the language in the Jalwa Game app</a>.
           </p>
-
           <p class="para-txt">
-            If language is making it hard to understand the app options, follow:
-            <a href="<?php echo $BASE_URL; ?>/change-language/">change language</a>.
+            Incorrect Bank Details Saved; If the account was added with wrong details, the system may not allow the removal until corrected.
           </p>
 
         </div>
@@ -411,21 +393,19 @@
         <div class="col-12">
 
           <div class="all-h2-head">
-            <h2>What Tips Can Help You Remove a Bank Account Smoothly?</h2>
+            <h2>Tips to Ensure Seamless Removal</h2>
           </div>
+          <p>
+            For hassle-free bank account removal with the Jalwa Game App, you can follow the tips described below:
+          </p>
 
           <ul>
-            <li><strong>Clear pending transactions:</strong> Ensure there are no active withdrawal requests before removing your account.</li>
-            <li><strong>Add a replacement method:</strong> Add a new bank account or UPI first to avoid payout interruptions.</li>
-            <li><strong>Keep a backup:</strong> Save deposit and withdrawal receipts for future reference.</li>
-            <li><strong>Use stable internet:</strong> A strong connection reduces verification failure.</li>
-            <li><strong>Complete KYC first:</strong> A verified profile helps faster approval for account changes.</li>
+            <li><strong>Clear pending transactions:</strong> Ensure there are no active withdrawal requests before processing your removal.</li>
+            <li><strong>Update Linked Payment Methods:</strong> Make sure to add a new bank account or UPI while replacing the old one, so that you can avoid payout interruptions.</li>
+            <li><strong>Keep a Backup of Your Old Account Transactions:</strong> Save your old account details, like the deposit and withdrawal receipts, in case of any future needs.</li>
+            <li><strong>Check Internet Stability:</strong> Use a strong internet connection to avoid failed verification attempts.</li>
+            <li><strong>Complete KYC beforehand:</strong> verified profile ensures faster approval while making account changes. Using a <a href="<?php echo $BASE_URL; ?>/gift-code/">Jalwa Game Gift Code</a> can also help to unlock extra benefits on your account.</li>
           </ul>
-
-          <p class="para-txt">
-            For safer usage habits, follow:
-            <a href="<?php echo $BASE_URL; ?>/play-responsibly-guide/">play responsibly guide</a>.
-          </p>
 
         </div>
       </div>
@@ -443,12 +423,15 @@
           </div>
 
           <p class="para-txt">
-            Removing your bank account from Jalwa Game is simple if you follow the right steps.
-            Clear pending withdrawals, use the official customer service option, and submit the required proof carefully.
+            Removing your bank account from the Jalwa Game is a simple process if you follow all the right steps carefully. Saving your deposit and withdrawal history can help you if you face any transaction issues.
           </p>
 
           <p class="para-txt">
-            Your in-game balance remains safe. After removing your old account, add a new verified bank account so you can continue withdrawals without interruption.
+            While removing your old bank account, clear all your pending withdrawals. The steps and tips that are described above can help you manage your Jalwa Game account seamlessly.
+          </p>
+
+          <p class="para-txt">
+            Updating your new account details after removing the old one can ensure effortless future transactions.
           </p>
 
         </div>
@@ -482,7 +465,7 @@
                 <h3>Will removing my account affect pending withdrawals?</h3>
               </div>
               <div class="faq-answer">
-                <p>Yes, pending withdrawals linked to the primary account may fail if you remove it. Clear all pending transactions before removing your account.</p>
+                <p>Yes, pending withdrawals that are linked to the primary account will fail if you remove your bank account. Clear all your pending transactions before removing your account.</p>
               </div>
             </div>
 
@@ -492,7 +475,7 @@
                 <h3>How long does it take to remove the bank account?</h3>
               </div>
               <div class="faq-answer">
-                <p>Usually it is instant, but in some cases it may take up to 24 hours.</p>
+                <p>Usually, the removal is instant in the Jalwa Game App; however, in some cases, it may take up to 24 hours.</p>
               </div>
             </div>
 
@@ -502,7 +485,7 @@
                 <h3>Can I re-add the removed account later?</h3>
               </div>
               <div class="faq-answer">
-                <p>Yes, you can re-add the removed account later as long as your bank account is verified.</p>
+                <p>Yes, you can re-add the removed account if needed, as long as your bank account is verified.</p>
               </div>
             </div>
 
@@ -512,7 +495,7 @@
                 <h3>What should I do if I am not able to receive OTP during removal?</h3>
               </div>
               <div class="faq-answer">
-                <p>Check your mobile network and registered number, then try again after some time. If the issue continues, contact customer support.</p>
+                <p>Check your mobile network, registered mobile number, or retry again after some time. If the issue continues, contact Customer Support.</p>
               </div>
             </div>
 
@@ -522,7 +505,7 @@
                 <h3>Is there any limit on the number of bank accounts I can remove?</h3>
               </div>
               <div class="faq-answer">
-                <p>No specific limits, but frequent changes may require additional verification for security.</p>
+                <p>No, in Jalwa Game, there are no specific limits on the number of bank account removals. However, frequent changes may require additional verification for security purposes.</p>
               </div>
             </div>
 
@@ -532,7 +515,7 @@
                 <h3>Will removing the bank account affect my winnings or balance?</h3>
               </div>
               <div class="faq-answer">
-                <p>No, your balance and winnings remain safe. You just need another verified account for withdrawals.</p>
+                <p>No, your in-game balance and winnings will remain safe. You only need to add another verified bank account for withdrawals.</p>
               </div>
             </div>
 

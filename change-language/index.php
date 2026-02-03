@@ -187,20 +187,20 @@
     <div class="container for-bg-clr">
       <div class="row">
         <div class="h1heading center">
-          <h1>How Can You Change the Language in the Jalwa Game App?</h1>
+          <h1>How to Change the Language in the Jalwa Game App</h1>
         </div>
 
         <div class="col-l2">
           <div class="content-box">
 
-            <img
+            <!-- <img
               src="../assets/image/blog/change-language.webp"
               alt="Change the Language in the Jalwa Game App"
               width="1200"
               height="628"
               class="img-fluid mb-3"
               loading="lazy"
-            />
+            /> -->
 
             <p class="tpara">
               When you can play games in your language, everything becomes easy and fun. When you are playing Jalwa Game in your own language, you understand the rules of the game, instructions, and features properly.
@@ -211,7 +211,7 @@
             </p>
 
             <p class="para-txt">
-              This guide will help you change to your preferred language to make your games more enjoyable.
+              This study will guide you on how you can change to your preferred language to make your games more enjoyable.
             </p>
 
           </div>
@@ -248,7 +248,7 @@
         <div class="col-12">
 
           <div class="all-h2-head">
-            <h2>Why Is Language Setting Important?</h2>
+            <h2>Why is Language Setting Important?</h2>
           </div>
 
           <p class="para-txt">
@@ -273,34 +273,34 @@
         <div class="col-12">
 
           <div class="all-h2-head">
-            <h2>How Can You Change Languages in the Jalwa Game Step by Step?</h2>
+            <h2>Instructions to Change Languages in the Jalwa Game</h2>
           </div>
 
           <p class="para-txt">
             Changing your language in Jalwa Game is a simple process. You can follow the steps which are described below to switch to your preferred language:
           </p>
 
-          <div class="all-h3-head"><h3>Step 1: How Can You Open the Jalwa Game App or Website?</h3></div>
+          <div class="all-h3-head"><h3>Step 1: Open the Jalwa Game App or Website</h3></div>
           <p class="para-txt">
             Firstly, open the Jalwa Game app or the official website on your device.
           </p>
 
-          <div class="all-h3-head"><h3>Step 2: How Can You Complete Your Login?</h3></div>
+          <div class="all-h3-head"><h3>Step 2: Complete Login</h3></div>
           <p class="para-txt">
             Complete your Jalwa Game Login with your registered phone number and password.
           </p>
 
-          <div class="all-h3-head"><h3>Step 3: How Can You Navigate to “Account”?</h3></div>
+          <div class="all-h3-head"><h3>Step 3: Navigate to “Account”</h3></div>
           <p class="para-txt">
             In your game dashboard, navigate to the “Account” tab.
           </p>
 
-          <div class="all-h3-head"><h3>Step 4: How Can You Find the Language Option?</h3></div>
+          <div class="all-h3-head"><h3>Step 4: Navigate Language</h3></div>
           <p class="para-txt">
             Scroll down on the Account tab, and you will find the “Language” option.
           </p>
 
-          <div class="all-h3-head"><h3>Step 5: How Can You Select Your Preferred Language?</h3></div>
+          <div class="all-h3-head"><h3>Step 5: Select Your Language</h3></div>
           <p class="para-txt">
             Once you click on the Language option, you will be able to see four different language options on the app: Hindi, English, Tamil, and Telugu.
           </p>
@@ -317,40 +317,31 @@
         <div class="col-12">
 
           <div class="all-h2-head">
-            <h2>How Can You Choose the Right Language for You?</h2>
+            <h2>Tips to Choose the Right Language</h2>
           </div>
 
           <p class="para-txt">
-            Most players, particularly those with knowledge of various languages, get confused about which language option to use. Players are advised to avoid mistakes in the Jalwa Game.
+            Most players, particularly those with knowledge of various languages, get confused about which language option to use. Players are advised to <a href="<?php echo $BASE_URL; ?>/mistakes-to-avoid/">avoid mistakes in the Jalwa Game</a>. The following are some of the tips that may be helpful:
           </p>
 
-          <div class="all-h3-head"><h3>How Can Regional Familiarity Help You Choose?</h3></div>
+          <div class="all-h3-head"><h3>Take into account Regional Fimilarity</h3></div>
           <p class="para-txt">
-            In case you are a part of a particular region, you can use your regional language to navigate more conveniently.
-            For example, if you are from Tamil Nadu, you can select Tamil as your game language.
-            If you need help changing language settings, you can contact
-            <a href="<?php echo $BASE_URL; ?>/contact-us/">Jalwa Game Support</a>
-            for assistance.
+            In case you are a part of a particular region, you can use your regional language to navigate more conveniently. For example, if you are from Tamil Nadu, you can select Tamil as your game language. If you need help changing language settings, you can contact <a href="<?php echo $BASE_URL; ?>/support/">Jalwa Game Support</a> for assistance.
           </p>
 
-          <div class="all-h3-head"><h3>Why Should You Select Your Native Language?</h3></div>
+          <div class="all-h3-head"><h3>Select Your Native Language</h3></div>
           <p class="para-txt">
             You should always select a language that you are most comfortable reading and comprehending. This will assist you in understanding the game rules, instructions, and features easily.
           </p>
 
-          <div class="all-h3-head"><h3>Why Do Some Players Prefer English?</h3></div>
+          <div class="all-h3-head"><h3>English as the technical language</h3></div>
           <p class="para-txt">
             Certain players use English as the majority of gaming terms are available in English. In case you have selected regional languages, the technical terms may look different in your game app.
           </p>
 
-          <div class="all-h3-head"><h3>How Can You Change Language Based on Your Need?</h3></div>
+          <div class="all-h3-head"><h3>Change As Per Your Need</h3></div>
           <p class="para-txt">
             You can change the language at any time in the Jalwa Game. You can also experiment with various options to find which one works better.
-          </p>
-
-          <p class="para-txt">
-            If you want to learn how to play more safely, read:
-            <a href="<?php echo $BASE_URL; ?>/play-responsibly-guide/">play responsibly on Jalwa Game</a>.
           </p>
 
         </div>
@@ -365,42 +356,33 @@
         <div class="col-12">
 
           <div class="all-h2-head">
-            <h2>What Common Issues Can You Face While Changing Language?</h2>
+            <h2>Common Issues Users Can Face While Changing Language</h2>
           </div>
+          <p class="all-h3-head">
+            The following are some general problems players can face while changing language on the Jalwa Game App, along with the solutions:
+          </p>
 
-          <div class="all-h3-head"><h3>What Should You Do If the Language Option Is Not Visible?</h3></div>
+          <div class="all-h3-head"><h3>Language Option Not Visible</h3></div>
           <p class="para-txt">
             In case the language option is not visible in the “Account” tab, ensure that you have updated the app to the latest version.
           </p>
 
-          <div class="all-h3-head"><h3>What If the Changes Are Not Functioning?</h3></div>
+          <div class="all-h3-head"><h3>Changes Are Not Functioning</h3></div>
           <p class="para-txt">
-            If you have changed your language setting, but the application still appears in the old language option, refresh the app.
+            If you have changed your language setting, but the application still appears in the old language option, refresh the app. App Glitches or Freezing: In case of problems with app freezing, clear the cache from your phone settings. A <a href="<?php echo $BASE_URL; ?>/teacher/">Jalwa Game Teacher</a> can also guide you on fixing common app-related issues.
           </p>
 
-          <div class="all-h3-head"><h3>What Can You Do If the App Freezes or Glitches?</h3></div>
-          <p class="para-txt">
-            In case of problems with app freezing, clear the cache from your phone settings.
-            A <a href="<?php echo $BASE_URL; ?>/contact-teacher/">Jalwa Game Teacher</a>
-            can also guide you on fixing common app-related issues.
-          </p>
-
-          <div class="all-h3-head"><h3>What If You Do Not See Enough Language Choices?</h3></div>
+          <div class="all-h3-head"><h3>Inadequate Language Choices</h3></div>
           <p class="para-txt">
             In case your local language is not among the list of available languages, choose among the standard ones, such as English or Hindi.
           </p>
-
-          <div class="all-h3-head"><h3>Why Can Text Display Look Different After Changing Language?</h3></div>
           <p class="para-txt">
-            Sometimes, when you change the language, the display might appear different. This happens due to font problems.
-            By unlocking your Jalwa Game account, you can easily access the settings to select and change your preferred base language.
-            If needed, follow: <a href="<?php echo $BASE_URL; ?>/unlock-account/">unlock your Jalwa Game account</a>.
+            Text Display Problems: Sometimes, when you change the language, the display might appear different. This happens due to font problems. By <a href="<?php echo $BASE_URL; ?>/unlock-account/">unlocking your Jalwa Game account</a>, you can easily access the settings to select and change your preferred base language.
           </p>
 
-          <div class="all-h3-head"><h3>What If You Face Login Problems After Changing Language?</h3></div>
+          <div class="all-h3-head"><h3>Login Problems</h3></div>
           <p class="para-txt">
             Sometimes, the app logs out automatically if there is no activity for a long time. Log in again with your registered credentials.
-            If you forgot your password, use: <a href="<?php echo $BASE_URL; ?>/reset-account-password/">reset your Jalwa Game account password</a>.
           </p>
 
         </div>
@@ -419,17 +401,11 @@
           </div>
 
           <p class="para-txt">
-            It is very easy to change the language of the Jalwa Game if you follow the simple steps that are described in the above guide.
-            Changing language does not impact your game progress and rewards.
+            It is very easy to change the language of the Jalwa Game if you follow the simple steps that are described in the above guide. Changing language does not impact your game progress and rewards.
           </p>
 
           <p class="para-txt">
             Select a language in which you are comfortable reading and writing. If you face frequent app crashes or technical glitches, try to update your app to the latest available version.
-          </p>
-
-          <p class="para-txt">
-            If you want to avoid common gameplay errors, read:
-            <a href="<?php echo $BASE_URL; ?>/mistakes-to-avoid/">Top 10 mistakes to avoid</a>.
           </p>
 
         </div>
@@ -493,7 +469,7 @@
                 <h3>Will changing the language influence notifications and alerts?</h3>
               </div>
               <div class="faq-answer">
-                <p>Yes, if you have modified the language of the app, all the notifications and alerts will appear in the selected language.</p>
+                <p>Yes, in case you have modified the language of the apps, all the notifications and alerts will appear in the selected language.</p>
               </div>
             </div>
 
@@ -503,17 +479,7 @@
                 <h3>Will it have any impact on my User ID or Referral Code?</h3>
               </div>
               <div class="faq-answer">
-                <p>No, User ID and Referral Codes are unique to each user, and language changes do not affect them.</p>
-              </div>
-            </div>
-
-            <div class="faq-item" onclick="toggleFAQ(this)">
-              <div class="faq-question">
-                <span class="arrow"></span>
-                <h3>Can I switch back to my original language easily?</h3>
-              </div>
-              <div class="faq-answer">
-                <p>Yes. Just open the Account tab again, select Language, and choose your previous language option.</p>
+                <p>No, User ID and Referral Codes are unique to each user, and language changes don't affect them.</p>
               </div>
             </div>
 

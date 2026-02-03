@@ -209,27 +209,29 @@
     <div class="container for-bg-clr">
       <div class="row">
         <div class="h1heading center">
-          <h1>How Can You Reset Your Jalwa Game Account Password Securely?</h1>
+          <h1>How to Reset Your Jalwa Game Account Password Securely</h1>
         </div>
 
         <div class="col-l2">
           <div class="content-box">
 
-            <img
+            <!-- <img
               src="../assets/image/blog/reset-password.webp"
               alt="Reset Your Jalwa Game Account Password"
               width="1200"
               height="628"
               class="img-fluid mb-3"
               loading="lazy"
-            />
+            /> -->
 
             <p class="tpara">
-              Our password is the key to our account. If you forget it, or if you feel something is not right, resetting the password is the safest way to protect our account and continue using the app smoothly.
+              Among online gaming platforms, Jalwa Game is the best one in India because of the games, bonuses, and daily rewards it offers. Your Jalwa Game password is an important element without which you cannot access your account.
             </p>
-
             <p class="para-txt">
-              In this guide, you will explain when you should reset the password, how you can reset it step-by-step, and what you can do to keep our account safe after the reset.
+              If you have forgotten your password, then resetting your password is the most secure way to get back to your account.
+            </p>
+            <p class="para-txt">
+              This guide will assist you with different issues players face when they try to reset their accounts and will instruct you in the process of changing your password.
             </p>
 
           </div>
@@ -267,38 +269,31 @@
         <div class="col-12">
 
           <div class="all-h2-head">
-            <h2>When Should You Reset Your Jalwa Game Account Password?</h2>
+            <h2>When to Reset Your Jalwa Game Account Password?</h2>
           </div>
 
           <p class="para-txt">
-            You should change our password when you face these situations:
+            It is important to change your password in case you encounter the following troubles:
           </p>
 
-          <div class="all-h3-head"><h3>What Should You Do If You Forgot Your Password?</h3></div>
+          <div class="all-h3-head"><h3>Forgotten Password</h3></div>
           <p class="para-txt">
-            If you cannot access our account because you forgot the password, the only secure way is to reset it. After resetting, you can log in again normally.
+            In a situation where you are unable to access your Jalwa Game account due to a forgotten password, the only method to retrieve it is by changing the password. You can <a href="<?php echo $BASE_URL; ?>/change-language/">change the language of the Jalwa Game</a> app anytime to enjoy a smoother and more convenient user experience.
           </p>
 
-          <div class="all-h3-head"><h3>What If You See Suspicious Activity on Your Account?</h3></div>
+          <div class="all-h3-head"><h3>Suspicious Account Activity</h3></div>
           <p class="para-txt">
-            If you notice unauthorised login attempts, strange withdrawals, or unusual activity, you should reset the password immediately and contact
-            <a href="<?php echo $BASE_URL; ?>/contact-us/">Jalwa Game Support</a>.
+            If you face issues like unauthorised transactions, login attempts, or withdrawals in your account.
           </p>
 
-          <div class="all-h3-head"><h3>Why Should You Reset Your Password for Regular Security Maintenance?</h3></div>
+          <div class="all-h3-head"><h3>Regular Security Maintenance</h3></div>
           <p class="para-txt">
-            Even if nothing is wrong, changing the password every 3 to 4 months helps keep our account safer and makes it harder for anyone to access it.
+            Even if you are not experiencing any problem, it is still recommended to change your password every three to four months. Hence, the hackers will find it tough to get access to your account.
           </p>
 
-          <div class="all-h3-head"><h3>What Happens If You Enter the Wrong Password Many Times?</h3></div>
+          <div class="all-h3-head"><h3>Multiple Failed Attempts</h3></div>
           <p class="para-txt">
-            If you try the wrong password multiple times, the app may ask us to reset the password. In that case, resetting is the correct step.
-          </p>
-
-          <p class="para-txt">
-            Tip: If you want a smoother experience inside the app, you can also
-            <a href="<?php echo $BASE_URL; ?>/change-language/">change the language</a>
-            anytime.
+            If you have entered the wrong password several times, you will be asked to reset your password.
           </p>
 
         </div>
@@ -313,45 +308,46 @@
         <div class="col-12">
 
           <div class="all-h2-head">
-            <h2>How Can You Reset Your Password Step by Step?</h2>
+            <h2>Step-by-Step Guide to Reset Jalwa Game Account Password</h2>
           </div>
 
           <p class="para-txt">
-            Resetting the password is easy if you follow these steps carefully:
+            The process of resetting your password for the <a href="<?php echo $BASE_URL; ?>">Jalwa Win</a> is easy if you follow the steps shown below:
           </p>
 
-          <div class="all-h3-head"><h3>Step 1: How Can You Open the App or Website?</h3></div>
+          <div class="all-h3-head"><h3>Step 1: Open the Jalwa Game App or Website</h3></div>
           <ul class="para-txt">
-            <li>Open the Jalwa Game app or the official website page.</li>
-            <li>Go to the login screen.</li>
+            <li>The first step in the process of resetting your Jalwa Game password is to open the Jalwa Game App or official web page.</li>
+            <li>Click on the “Sign Up” button.</li>
           </ul>
 
-          <div class="all-h3-head"><h3>Step 2: How Can You Click on “Forgot Password”?</h3></div>
-          <p class="para-txt">
-            On the login page, scroll down and select the “Forgot Password” option.
-          </p>
-
-          <div class="all-h3-head"><h3>Step 3: How Can You Enter Your Phone Number?</h3></div>
-          <p class="para-txt">
-            Enter your registered phone number correctly in the given box.
-          </p>
-
-          <div class="all-h3-head"><h3>Step 4: How Can You Create a New Strong Password?</h3></div>
+          <div class="all-h3-head"><h3>Step 2: Click on Forget Password</h3></div>
           <ul class="para-txt">
-            <li>Set a new password using letters, numbers, and symbols.</li>
-            <li>Confirm the same password one more time.</li>
+            <li>After the Login page opens on your device, scroll down until you can see Forget Password option.</li>
           </ul>
 
-          <div class="all-h3-head"><h3>Step 5: How Can You Complete OTP Verification?</h3></div>
+          <div class="all-h3-head"><h3>Step 3: Enter Your Phone Number</h3></div>
           <ul class="para-txt">
-            <li>Tap “Send” to receive an OTP.</li>
-            <li>Enter the OTP to verify.</li>
+            <li>Please enter your phone number correctly in the box provided.</li>
           </ul>
 
-          <div class="all-h3-head"><h3>Step 6: How Can You Press Reset to Finish?</h3></div>
-          <p class="para-txt">
-            After verification, click “Reset”. Once confirmed, you can log in using your new password.
-          </p>
+          <div class="all-h3-head"><h3>Step 4: Create a Strong Password</h3></div>
+          <ul class="para-txt">
+            <li>Set a new password that includes numbers, letters, and symbols.</li>
+            <li>Confirm your new password by typing it a second time in the specified box.</li>
+          </ul>
+
+          <div class="all-h3-head"><h3>Step 5: Complete OTP Verification</h3></div>
+          <ul class="para-txt">
+            <li>Step five is OTP verification.</li>
+            <li>Click the "Send" option, and the Jalwa Game will send you a verification code that you will need to enter to complete the verification process.</li>
+          </ul>
+
+          <div class="all-h3-head"><h3>Step 6: Press Reset to Finish the Process</h3></div>
+          <ul class="para-txt">
+            <li>Once you have finished all the other Steps above, click the "Reset" button to complete the process.</li>
+            <li>Once confirmed, you will be able to access your Jalwa Account with your new password.</li>
+          </ul>
 
         </div>
       </div>
@@ -365,32 +361,31 @@
         <div class="col-12">
 
           <div class="all-h2-head">
-            <h2>How Can You Create a Strong Password?</h2>
+            <h2>How to Create a Strong Password?</h2>
           </div>
 
           <p class="para-txt">
-            A strong password helps protect our account. Here are simple tips:
+            Creating a strong password can help keep your Jalwa Game account secure. Here are some tips on how to create a strong password for your Jalwa account:
           </p>
 
-          <div class="all-h3-head"><h3>What Length and Characters Should You Use?</h3></div>
+          <div class="all-h3-head"><h3>Use Minimum Length & Character</h3></div>
           <p class="para-txt">
-            Keep it 8 to 12 characters, with a mix of uppercase, lowercase, numbers, and symbols.
+            Have it 8-12 characters max using lowercase, uppercase, numbers, and symbols.
           </p>
 
-          <div class="all-h3-head"><h3>Should You Use a Password Manager?</h3></div>
+          <div class="all-h3-head"><h3>Use a Password Manager</h3></div>
           <p class="para-txt">
-            Yes. Tools like LastPass or Bitwarden can generate and store strong passwords.
+            Programs such as "LastPass" or "Bitwarden" are great because they will generate and store strong passwords.
           </p>
 
-          <div class="all-h3-head"><h3>Which Common Passwords Should You Avoid?</h3></div>
+          <div class="all-h3-head"><h3>Don’t Use Common Passwords?</h3></div>
           <p class="para-txt">
-            Avoid easy passwords like 123456, 11111111, or your name.
+            Don't use easily identifiable passwords, like 123456, 11111111, or your name, etc.
           </p>
 
-          <div class="all-h3-head"><h3>Why Should You Keep a Unique Password?</h3></div>
+          <div class="all-h3-head"><h3>Use a Unique Password</h3></div>
           <p class="para-txt">
-            Do not use the same password as email or social apps. If you need help, contact
-            <a href="<?php echo $BASE_URL; ?>/contact-us/">Jalwa Game Support</a>.
+            Do not use the same password as your social media account or email account for your Jalwa Game Registration. If you need help securing your account, you can contact <a href="<?php echo $BASE_URL; ?>/support/">Jalwa Game Support</a> for assistance.
           </p>
 
           <p class="para-txt">
@@ -411,22 +406,21 @@
         <div class="col-12">
 
           <div class="all-h2-head">
-            <h2>What Common Issues Can Happen and How Can You Fix Them?</h2>
+            <h2>Common Issues and How to Fix Them</h2>
           </div>
-
+          
+          <p class="para-txt">
+            While changing your password, users may face the following issues:
+          </p>
           <ul class="para-txt">
-            <li><strong>Not getting OTP:</strong> Check internet, free SMS storage, and confirm your mobile number.</li>
-            <li><strong>Account not found:</strong> Use only your registered mobile number for login.</li>
-            <li><strong>Code expired:</strong> OTP can expire fast (often within a few minutes). Request a new OTP and try again.</li>
-            <li><strong>App bugs:</strong> Update to the latest version of the app.</li>
+            <li><strong>Not getting OTP:</strong> Please check your internet connection, free up your SMS space, and check your mobile number.</li>
+            <li><strong>Account not found:</strong> This issue occurs when you use the wrong ID. You can log in with your registered mobile number only.</li>
+            <li><strong>Code expired:</strong> The password reset code expires in 3 minutes. If you are not able to put the password reset code within the period of time, you may have to try again with a new code.</li>
+            <li><strong>App bugs:</strong> Download the latest version of your Jalwa Game App.</li>
           </ul>
 
           <p class="para-txt">
-            If problems continue, contact
-            <a href="<?php echo $BASE_URL; ?>/contact-us/">Jalwa Game Customer Service</a>.
-            For account management convenience, you can also
-            <a href="<?php echo $BASE_URL; ?>/remove-bank-account/">remove your bank account</a>
-            whenever needed.
+            If the issue persists, please feel free to reach out to Jalwa Game Customer Service. You can also easily <a href="<?php echo $BASE_URL; ?>/remove-bank-account/">remove your bank account from the Jalwa Game app</a> whenever needed for better convenience and account management.
           </p>
 
         </div>
@@ -441,21 +435,18 @@
         <div class="col-12">
 
           <div class="all-h2-head">
-            <h2>How Can You Keep Your Account Secure After Reset?</h2>
+            <h2>How to Keep Your Account Secure After a Password Reset</h2>
           </div>
+          <p>
+            The first thing to secure your account is to update your password. It works as a measure for securing your Make sure your account is registered using a valid Jalwa Game Invite Code to access all features securely. Jalwa Account in the long run. You can follow the steps below when setting a new password:
+          </p>
 
           <ul class="para-txt">
-            <li><strong>How can you use 2FA?</strong> Keep OTP protection enabled for extra security.</li>
-            <li><strong>How often should you change your password?</strong> Update it every 3 to 6 months.</li>
-            <li><strong>Should you share login details?</strong> No. Never share your password with any third party.</li>
-            <li><strong>How can you monitor your account?</strong> Regularly check wallet and transaction history and report issues quickly.</li>
+            <li><strong>Activate 2FA (Two-Factor Authentication):</strong> You need to activate 2FA through OTP protection for increased security.</li>
+            <li><strong>Change Your Password Periodically:</strong> Change your password at an interval of 3-6 months to lessen the risk of a hack.</li>
+            <li><strong>Do Not Provide Your Login Information:</strong> NUnder no circumstances should you share your password with any third-party sources, as this includes the threat of fraud.</li>
+            <li><strong>Watch Your Account Activity:</strong> Keep on Jalwa Game wallet check and review your transaction details. If you come across any issue, contact Jalwa Game Customer Support.</li>
           </ul>
-
-          <p class="para-txt">
-            Also, make sure your account is created using a valid
-            <a href="<?php echo $BASE_URL; ?>/invite-code/">Jalwa Game Invite Code</a>
-            so you can access features securely.
-          </p>
 
         </div>
       </div>
@@ -473,12 +464,11 @@
           </div>
 
           <p class="para-txt">
-            Resetting our password helps us regain access if you forget it and protects our account if you see suspicious activity. After resetting, keep OTP security on, avoid sharing login details, and do not use public WiFi for important account actions.
+            In case the password is forgotten or if an unauthorised use is detected, resetting your password will save the account from being lost or hacked. As an extra security measure, enable Two-Factor Authentication after the password has been changed.
           </p>
 
           <p class="para-txt">
-            If you face any trouble, contact
-            <a href="<?php echo $BASE_URL; ?>/contact-us/">Jalwa Game Support</a>.
+            Do not share the login details with others, and avoid using a public WiFi while accessing the app.
           </p>
 
         </div>
@@ -502,7 +492,7 @@
                 <h3>How long does it take to reset my Jalwa Game account password?</h3>
               </div>
               <div class="faq-answer">
-                <p>Once you receive and verify the OTP, the reset usually completes in a couple of minutes.</p>
+                <p>You just need to authenticate your OTP sent via the app, and it won't take more than a couple of minutes.</p>
               </div>
             </div>
 
@@ -512,27 +502,27 @@
                 <h3>Is it possible to reset my password without my registered email?</h3>
               </div>
               <div class="faq-answer">
-                <p>Yes. You can reset your password using your registered mobile number.</p>
+                <p>Yes, you can reset your password with your registered mobile number.</p>
               </div>
             </div>
 
             <div class="faq-item" onclick="toggleFAQ(this)">
               <div class="faq-question">
                 <span class="arrow"></span>
-                <h3>What should I do if I did not receive the OTP for password reset?</h3>
+                <h3>What to do if I did not receive the OTP for password reset?</h3>
               </div>
               <div class="faq-answer">
-                <p>Check your mobile number, clear SMS storage, ensure internet is stable, and tap “Resend” to request OTP again.</p>
+                <p>If you are not able to receive your OTP, please check your mobile number, free up your SMS space, and request “Resend.”</p>
               </div>
             </div>
 
             <div class="faq-item" onclick="toggleFAQ(this)">
               <div class="faq-question">
                 <span class="arrow"></span>
-                <h3>Can I use the same old password after resetting?</h3>
+                <h3>Can I use the same old password to access the app after resetting?</h3>
               </div>
               <div class="faq-answer">
-                <p>No. For security reasons, it is better to set a new strong password.</p>
+                <p>No, the app will not allow your old password for security reasons.</p>
               </div>
             </div>
 
@@ -542,17 +532,17 @@
                 <h3>Is it safe to reset my password on a shared device?</h3>
               </div>
               <div class="faq-answer">
-                <p>No. Avoid shared devices. If you must, log out completely after reset and do not save the password.</p>
+                <p>No, this is not suggested, as this can lead to a scam. Make sure that you have logged out of all the shared devices and WiFi while resetting your password.</p>
               </div>
             </div>
 
             <div class="faq-item" onclick="toggleFAQ(this)">
               <div class="faq-question">
                 <span class="arrow"></span>
-                <h3>Will resetting my password affect my game progress or account data?</h3>
+                <h3>Will my game progress/account information be affected if I reset my password?</h3>
               </div>
               <div class="faq-answer">
-                <p>No. Resetting the password only changes login details. Your profile and other account data remain the same.</p>
+                <p>No, your password reset will only alter your login information. Your winnings, your profile, and other information will remain unaffected.</p>
               </div>
             </div>
 
@@ -562,7 +552,7 @@
                 <h3>How frequently should I modify my Jalwa Game password?</h3>
               </div>
               <div class="faq-answer">
-                <p>Change it every 2 to 3 months for better security.</p>
+                <p>Change your password every two to three months to avoid any kind of unauthorised access.</p>
               </div>
             </div>
 

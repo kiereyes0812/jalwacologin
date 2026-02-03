@@ -193,14 +193,14 @@
         <div class="col-l2">
           <div class="content-box">
 
-            <img
+            <!-- <img
               src="../assets/image/blog/update-change-bank-account.webp"
               alt="Update or Change Bank Account in Jalwa Game"
               width="1200"
               height="628"
               class="img-fluid mb-3"
               loading="lazy"
-            />
+            /> -->
 
             <p class="tpara">
               Managing your bank account information correctly is important for easy withdrawals and deposits in Jalwa Game. If you have opened a new bank account or have modified your UPI ID, it is necessary to update your account information.
@@ -249,7 +249,7 @@
           </div>
 
           <p class="para-txt">
-            There are several practical reasons why you might need to update your bank account details in Jalwa Game:
+            There are several practical reasons why you might need to update your bank account details in the <a href="<?php echo $BASE_URL; ?>/">Jalwa Win Game</a>:
           </p>
 
           <ul>
@@ -260,8 +260,7 @@
           </ul>
 
           <p class="para-txt">
-            Having your bank information accurate can avoid delays, unsuccessful withdrawals, or security problems when making a deposit or withdrawal. If you want to avoid common mistakes while playing, read:
-            <a href="<?php echo $BASE_URL; ?>/mistakes-to-avoid/">mistakes to avoid</a>.
+            Having your bank information accurate can avoid delays, unsuccessful withdrawals, or security problems when making a <a href="<?php echo $BASE_URL; ?>/deposit-money/">Jalwa Game Deposit</a>.
           </p>
 
         </div>
@@ -287,14 +286,8 @@
             <li><strong>KYC Verified Jalwa Account:</strong> Ensure your Jalwa Game account is verified with valid ID proof (Aadhaar, PAN, or Voter ID).</li>
             <li><strong>New Bank Details:</strong> Keep your new account number, IFSC code, and registered mobile number ready.</li>
             <li><strong>Linked Mobile Banking or UPI:</strong> Confirm that your new account has been activated for UPI or online banking.</li>
-            <li><strong>Stable Internet Connection:</strong> A reliable network prevents session timeouts during updates.</li>
+            <li><strong>Stable Internet Connection:</strong> A reliable network prevents session timeouts during updates. A <a href="<?php echo $BASE_URL; ?>/teacher/">Jalwa Game Teacher</a> can also guide you on how to maintain smooth gameplay and avoid connectivity issues.</li>
           </ul>
-
-          <p class="para-txt">
-            If you often face connectivity issues, follow:
-            <a href="<?php echo $BASE_URL; ?>/play-responsibly-guide/">play responsibly guide</a>
-            for tips that help you stay safe and avoid rushed actions.
-          </p>
 
         </div>
       </div>
@@ -317,8 +310,7 @@
 
           <div class="all-h3-head"><h3>Step 1: Log in to Your Jalwa Game Account</h3></div>
           <p class="para-txt">
-            Open the official Jalwa Game app or website and complete your login with your registered mobile number and password. If you forgot your password, use:
-            <a href="<?php echo $BASE_URL; ?>/reset-account-password/">reset account password</a>.
+            Open the official Jalwa Game app or website and complete your Jalwa Game Login with your registered mobile number and password.
           </p>
 
           <div class="all-h3-head"><h3>Step 2: Navigate to the Account Section</h3></div>
@@ -333,17 +325,17 @@
 
           <div class="all-h3-head"><h3>Step 4: Change Bank Name</h3></div>
           <p class="para-txt">
-            From the options in customer service, choose “Change Bank Name”. After selecting this option, enter your correct bank name and bank account number.
+            From the given options in customer service, next, you have to choose “Change Bank Name”. After selecting this option, enter your correct bank name and bank number.
           </p>
 
           <div class="all-h3-head"><h3>Step 5: IFSC Modification</h3></div>
           <p class="para-txt">
-            Next, select “IFSC Modification”. In this option, enter the correct IFSC code, then enter your bank account number carefully.
+            In customer service, the next option that you have to select is “IFSC Modification”. In this option, you have to enter the correct IFSC code, and then you have to enter your bank account number.
           </p>
 
           <div class="all-h3-head"><h3>Step 6: Confirmation of Successful Update</h3></div>
           <p class="para-txt">
-            After completing all steps, tap on the “Confirm” button to proceed with the query. Once verified, customer service will notify you about your account update.
+            Once you have completed all the steps, tap on the “Confirm” button to proceed with the query. Once verified, the Jalwa Game Customer Service will notify you about your account update. You can securely save your <a href="<?php echo $BASE_URL; ?>/find-game-id/">Jalwa Game ID and login credentials</a> to ensure quick and safe access to your account in the future.
           </p>
 
         </div>
@@ -362,15 +354,15 @@
           </div>
 
           <ol>
-            <li><strong>Bank Account Not Accepted:</strong> Some local banks might not support online transfers. Try another bank account or another supported method.</li>
-            <li><strong>Verification Failures:</strong> If you face OTP issues, check your mobile number and your network connection.</li>
-            <li><strong>Delayed Updates:</strong> Updates during peak hours can be slower. Refreshing or re-login can help.</li>
-            <li><strong>KYC Details Don’t Match:</strong> If the bank account holder name does not match your KYC name, the update can get rejected.</li>
-            <li><strong>Technical Glitches:</strong> Sometimes server errors can interrupt the process. Wait and try again after some time.</li>
+            <li><strong>Bank Account Not Accepted:</strong> A few cooperative or local banks might not accept UPI or Online Transactions. Try with another bank account or payment method.</li>
+            <li><strong>Verification Failures:</strong> If you face OTP verification failure, check your mobile number and internet connection.</li>
+            <li><strong>Delayed Updates:</strong> Account updates that are processed during peak hours tend to be slower. Refreshing or relogging can fix this issue in such cases.</li>
+            <li><strong>KYC Details Don’t Match:</strong> If the name of the account holder differs from the name verified during KYC, the update will get rejected.</li>
+            <li><strong>Technical Glitches:</strong> Sometimes, the server errors interfere with the transaction process. Waiting or retrying can resolve this problem.</li>
           </ol>
 
           <p class="para-txt">
-            If you face repeated errors, use the in-app customer service from Account and share valid details to proceed.
+            Being aware of these issues in advance can prevent transaction errors or delays once the bank information is changed. If you’ve joined the refer and earn program, updating your password regularly helps keep your account and transactions more secure. For any concerns or assistance, you can contact <a href="<?php echo $BASE_URL; ?>/support/">Jalwa Game Customer Support</a>.
           </p>
 
         </div>
@@ -387,12 +379,15 @@
           <div class="all-h2-head">
             <h2>Tips to Avoid Problems When Updating Bank Details</h2>
           </div>
+          <p class="para-txt">
+            The following are some guidelines to make sure the transaction is completed successfully after updating bank details:
+          </p>
 
           <ul>
-            <li><strong>Double-check account details:</strong> Use the correct account number and IFSC code to prevent failed withdrawals.</li>
-            <li><strong>Use a verified bank account only:</strong> Update with a bank account that matches your KYC name to get faster approval.</li>
-            <li><strong>Use stable internet:</strong> Update your details with a reliable connection to avoid session timeouts.</li>
-            <li><strong>Contact support:</strong> If your update does not reflect even after 24 hours, contact customer service from the Account section.</li>
+            <li><strong>Double-check account details:</strong> Use the right account number and IFSC code to prevent failed withdrawals.</li>
+            <li><strong>Use a verified bank account only:</strong> Update only with a bank account that has the same KYC name to ensure quicker approval.</li>
+            <li><strong>Use stable internet:</strong> Update your account details in the presence of an effective internet connection.</li>
+            <li><strong>Contact support:</strong> If your update does not reflect even after 24 hours and the issue persists, contact Jalwa Game Customer Support for quick resolution.</li>
           </ul>
 
         </div>
@@ -411,11 +406,7 @@
           </div>
 
           <p class="para-txt">
-            Updating or changing your bank account in Jalwa Game is easy if you follow the right steps. Start by ensuring your account is verified, then gather your new bank details, such as IFSC code, account number, and bank name.
-          </p>
-
-          <p class="para-txt">
-            Recheck everything before confirming, and use verified bank accounts only. Keeping your bank details updated helps you continue your game experience without interruptions.
+            Updating or changing your bank account in the Jalwa Game is easy if you follow the right steps. Start by ensuring that your account is KYC verified, and gather your new bank details, such as IFSC code, account numbers, and bank name. Recheck all your account details before confirming your inquiry, and use verified bank accounts only. Updating your bank account information will allow you to have an uninterrupted gaming experience with Jalwa Game.
           </p>
 
         </div>
@@ -439,7 +430,7 @@
                 <h3>How long does it take for the new bank account to become active?</h3>
               </div>
               <div class="faq-answer">
-                <p>Usually it becomes active after verification, but during peak time it may take up to 24 hours.</p>
+                <p>Usually, it becomes active immediately after verification, but it may take up to 24 hours during peak time.</p>
               </div>
             </div>
 
@@ -449,7 +440,7 @@
                 <h3>Can I change my bank account more than once?</h3>
               </div>
               <div class="faq-answer">
-                <p>Yes, you can update it whenever necessary. Frequent changes may require extra verification for security.</p>
+                <p>Yes, you can update it whenever necessary; however, frequent changes might require additional verification for security.</p>
               </div>
             </div>
 
@@ -459,7 +450,7 @@
                 <h3>What if my withdrawal fails after updating the bank account?</h3>
               </div>
               <div class="faq-answer">
-                <p>Check that the new account is verified and supports online transfers. If the issue continues, contact customer service with your transaction details.</p>
+                <p>Check if the new account is correctly verified and supports UPI or online transfers. If the problem continues, contact customer support with the transaction ID.</p>
               </div>
             </div>
 
@@ -469,7 +460,7 @@
                 <h3>Do I need to pay any charges for changing the bank account?</h3>
               </div>
               <div class="faq-answer">
-                <p>No, Jalwa Game does not charge any fee for updating or changing your bank details.</p>
+                <p>No, the Jalwa Game does not charge any fee for updating or changing your bank details.</p>
               </div>
             </div>
 
@@ -479,7 +470,7 @@
                 <h3>Can I use a joint bank account in Jalwa Game?</h3>
               </div>
               <div class="faq-answer">
-                <p>Yes, as long as your name matches the account holder name and your KYC details.</p>
+                <p>Yes, as long as your name matches the account holder's name and KYC details.</p>
               </div>
             </div>
 
@@ -489,7 +480,7 @@
                 <h3>What documents are needed to update my bank account?</h3>
               </div>
               <div class="faq-answer">
-                <p>Usually you need your bank details, your verified ID proof, and any information required by in-app customer service to confirm the update.</p>
+                <p>Usually, you need your current and old bank account names, numbers, ID proof, Jalwa deposit receipts of the old account, and bank passbook photos.</p>
               </div>
             </div>
 
@@ -499,7 +490,7 @@
                 <h3>Who should I contact if I face issues while updating?</h3>
               </div>
               <div class="faq-answer">
-                <p>Use the customer service option in the Account section and share valid details to proceed with your query.</p>
+                <p>Use the customer service option from the “Account” section to contact the support team. Provide valid information to proceed with your query.</p>
               </div>
             </div>
 

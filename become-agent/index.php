@@ -193,14 +193,14 @@
         <div class="col-l2">
           <div class="content-box">
 
-            <img
+            <!-- <img
               src="../assets/image/blog/jalwa-game-agent.webp"
               alt="Jalwa Game Agent"
               width="1200"
               height="628"
               class="img-fluid mb-3"
               loading="lazy"
-            />
+            /> -->
 
             <p class="tpara">
               Jalwa Game is a popular online gaming platform where you can play quick prediction games and win prizes.
@@ -336,7 +336,7 @@
           <p class="para-txt">The agent registration process is easy and user-friendly:</p>
 
           <div class="all-h3-head"><h3>Complete Your Jalwa Game Login</h3></div>
-          <p class="para-txt">Complete your <a href="<?php echo $BASE_URL; ?>">Jalwa Game Login</a> to access your Jalwa account.</p>
+          <p class="para-txt">Complete your Jalwa Game Login to access your Jalwa account.</p>
 
           <div class="all-h3-head"><h3>Go to the Promotions Tab</h3></div>
           <p class="para-txt">From your game dashboard, go to the “Promotion” tab.</p>
@@ -354,7 +354,7 @@
 
           <div class="all-h3-head"><h3>Ensure They Complete Their First Deposit</h3></div>
           <p class="para-txt">
-            Make sure your referrals complete their first <a href="<?php echo $BASE_URL; ?>/deposit/">Jalwa Game Deposit</a>.
+            Make sure your referrals complete their first Jalwa Game Deposit.
           </p>
 
           <div class="all-h3-head"><h3>Check Your Agent Dashboard</h3></div>

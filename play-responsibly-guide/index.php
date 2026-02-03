@@ -215,17 +215,17 @@
         <div class="col-l2">
           <div class="content-box">
 
-            <img
+            <!-- <img
               src="../assets/image/blog/play-responsibly.webp"
               alt="Play Responsibly on Jalwa Game"
               width="1200"
               height="628"
               class="img-fluid mb-3"
               loading="lazy"
-            />
+            /> -->
 
             <p class="tpara">
-              It’s easy to get drifted away on <a href="<?php echo $BASE_URL; ?>">Jalwa Game</a> as you’re too excited to play and keep guessing one round after another.
+              It’s easy to get drifted away on Jalwa Game as you’re too excited to play and keep guessing one round after another.
               Responsible gaming does not mean that you can’t have fun; it means that you are having fun without having to stress about it later.
               And there are many ways to do it.
             </p>
@@ -412,7 +412,7 @@
 
           <p class="para-txt">
             Sometimes, when you’re playing on Jalwa Game, you can run into problems, like issues with transactions, games, or other processes of the game.
-            In these cases, you can always reach out to the <a href="<?php echo $BASE_URL; ?>/contact-us/">Jalwa Game customer support</a> to ask for help and get it resolved as soon as possible.
+            In these cases, you can always reach out to the Jalwa Game customer support to ask for help and get it resolved as soon as possible.
             Additionally, you can <a href="<?php echo $BASE_URL; ?>/remove-bank-account/">remove your bank account from the Jalwa Game</a> app if needed, with support guidance.
           </p>
 

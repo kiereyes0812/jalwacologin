@@ -204,30 +204,25 @@
         <div class="col-l2">
           <div class="content-box">
 
-            <img
+            <!-- <img
               src="../assets/image/blog/discover-bonuses.webp"
               alt="Discover Different Bonuses in Jalwa Game"
               width="1200"
               height="628"
               class="img-fluid mb-3"
               loading="lazy"
-            />
+            /> -->
 
             <p class="tpara">
-              The Jalwa Game is one of the most popular online colour prediction platforms. It is known for simple gameplay and exciting rewards.
-              A major reason many players enjoy the app is the bonus system that gives extra value.
+              The Jalwa Game is one of the most popular online colour prediction platforms. The platform is famous for its simple gameplay and exciting rewards. Among its most prominent appeals are the bonuses that offer rewards.
             </p>
 
             <p class="para-txt">
-              You can get bonuses such as extra credits, cashback, and referral rewards. This helps you explore more of the app without spending too much money.
-              In this guide, we explain the main bonus types and how you can claim them safely.
+              You can also get bonuses such as free plays, extra coins, or cash back. This allows you to check out more of the game's selection without spending much of your money.
             </p>
 
             <p class="para-txt">
-              If you want to add balance directly, follow:
-              <a href="<?php echo $BASE_URL; ?>/deposit-money/">deposit money</a>.
-              If you want to learn safe gameplay habits, read:
-              <a href="<?php echo $BASE_URL; ?>/play-responsibly-guide/">play responsibly guide</a>.
+              From welcome bonuses available to new players, to festive promotions and loyalty bonuses, there is always something extra for all at the Jalwa App. Let's discuss each of these bonuses and learn how to claim them securely.
             </p>
 
           </div>
@@ -244,8 +239,7 @@
           <details class="toc-container">
             <summary class="toc-title">Table of Contents</summary>
             <ul>
-              <li><a href="#bonuses-intro">Why Do Bonuses Matter on Jalwa Game?</a></li>
-              <li><a href="#types">What Types of Bonuses Are Available on Jalwa Game?</a></li>
+              <li><a href="#types">Types of Bonuses Available on Jalwa Game</a></li>
               <li><a href="#claim">How Can You Claim Bonuses on Jalwa Game?</a></li>
               <li><a href="#maximise">How Can You Maximise Your Bonuses Safely?</a></li>
               <li><a href="#mistakes">What Common Mistakes Should You Avoid While Claiming Bonuses?</a></li>
@@ -258,31 +252,6 @@
     </div>
   </section>
 
-  <!-- Intro to bonuses -->
-  <section class="jalwa-section" id="bonuses-intro">
-    <div class="container method-boxs">
-      <div class="row">
-        <div class="col-12">
-
-          <div class="all-h2-head">
-            <h2>Why Do Bonuses Matter on Jalwa Game?</h2>
-          </div>
-
-          <p class="para-txt">
-            Bonuses are designed to give you extra value while you play. Some bonuses help new users start smoothly,
-            while others reward daily activity or referrals. If you use bonuses the right way, you can extend gameplay
-            and reduce pressure on your wallet.
-          </p>
-
-          <p class="para-txt">
-            If you ever face confusion while claiming an offer, you can contact:
-            <a href="<?php echo $BASE_URL; ?>/contact-us/">Jalwa Game Customer Support</a>.
-          </p>
-
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- Types -->
   <section class="jalwa-section" id="types">
@@ -291,36 +260,31 @@
         <div class="col-12">
 
           <div class="all-h2-head">
-            <h2>What Types of Bonuses Are Available on Jalwa Game?</h2>
+            <h2>Types of Bonuses Available on Jalwa Game</h2>
           </div>
 
           <p class="para-txt">
-            The Jalwa bonus system is designed for beginners and regular players. Below are common bonus types you may see inside the app.
-            Bonus names, amounts, and rules can change, so always read the in-app terms before claiming.
+            The Jalwa Game Bonuses are designed to suit all levels of players. Here are some main types you can enjoy here:
           </p>
 
-          <div class="all-h3-head"><h3>What Is a First Deposit Bonus and How Does It Work?</h3></div>
+          <div class="all-h3-head"><h3>First Deposit Bonus</h3></div>
           <p class="para-txt">
-            Some users receive a small bonus on the first time they add balance. For example, if you add ₹100 as your first deposit, you may receive an extra reward amount based on the offer.
-            You can also apply a <a href="<?php echo $BASE_URL; ?>/gift-code/">Jalwa Game Gift Code</a> if the app shows one during promotions.
+            When players make their first deposit with Jalwa Game receive a small welcome bonus. If you recharge ₹100 as your first deposit, you can get ₹18 as a first deposit bonus. The bonus amount depends on your deposit amount. You can also apply a <a href="<?php echo $BASE_URL; ?>/gift-code/">Jalwa Game Gift Code</a> to unlock extra rewards, if available.
           </p>
 
-          <div class="all-h3-head"><h3>What Is the 35% Compensation Offer and When Can You Get It?</h3></div>
+          <div class="all-h3-head"><h3>Extra 35% Compensation</h3></div>
           <p class="para-txt">
-            Many new players take time to understand rules in the first few rounds. Some offers provide compensation credit linked to your first deposit activity.
-            A limit may apply, such as a maximum bonus cap shown in the offer.
+            Many new players face problems in understanding the game's rules in their initial game rounds. Keeping this in mind, Jalwa Games offers 35% compensation on your 1st deposit lost. However, there is a ₹150 bonus limit in this bonus system.
           </p>
 
-          <div class="all-h3-head"><h3>What Is an 8% Cashback Bonus and Who Can Claim It?</h3></div>
+          <div class="all-h3-head"><h3>8% Cashback</h3></div>
           <p class="para-txt">
-            Cashback offers can be available for new and existing users. In some offers, you may receive a cashback percentage on a recharge if you meet the minimum amount requirement.
-            Cashback may appear in your wallet the next day.
+            This bonus is available for both new and existing players. In this event, you can enjoy 8% cashback on your recharge. The minimum amount of recharges under this event is ₹300. You can avail this bonus on your wallet the next day of your deposit. You can avail this bonus in your wallet the next day of your deposit, and then use it easily during <a href="<?php echo $BASE_URL; ?>/withdraw-money/">Jalwa Game Withdraw</a>.
           </p>
 
-          <div class="all-h3-head"><h3>What Is the Chicken Road 2 Daily Reward System?</h3></div>
+          <div class="all-h3-head"><h3>Chicken Road 2</h3></div>
           <p class="para-txt">
-            Some activities inside the app offer rewards based on daily gameplay activity. If you are eligible, rewards may be credited automatically after a scheduled time.
-            The example below shows a typical reward ladder that may appear in the activity section.
+            If you play Chicken Road 2 on Jalwa Games, you can win exciting bonuses with your total turnover. Here's how it works:
           </p>
 
           <div class="table-responsive">
@@ -341,31 +305,27 @@
               </tbody>
             </table>
           </div>
-
-          <div class="all-h3-head"><h3>What Is a Recharge Bonus for New Players?</h3></div>
           <p class="para-txt">
-            Some new-player offers provide bonus credits on your first, second, and third deposits. In many cases, the first bonus is credited instantly,
-            while the next bonuses may take up to a day to appear.
+            If you are eligible to claim these rewards, all the bonuses will be automatically credited to you after 2:00 AM.
+          </p>
+
+          <div class="all-h3-head"><h3>Recharge Bonus for New Players</h3></div>
+          <p class="para-txt">
+            In this bonus system, the players can win bonuses with their first, second, and third deposits. In this bonus, the first bonus can be automatically claimed through the Jalwa Game application instantly, and the 2nd and third bonuses require a day to be credited.
           </p>
 
           <p class="para-txt">
-            The app may also provide free recharge style rewards. If you want a full guide, read:
-            <a href="<?php echo $BASE_URL; ?>/free-recharge-guide/">free recharge guide</a>.
+            The Jalwa Game also offers <a href="<?php echo $BASE_URL; ?>/free-recharge-guide/">free recharge</a>, which you can use to play more games and win extra rewards without spending your own money.
           </p>
 
-          <div class="all-h3-head"><h3>What Is a Referral Bonus and How Can You Earn It?</h3></div>
+          <div class="all-h3-head"><h3>Referral Bonus</h3></div>
           <p class="para-txt">
-            Referral bonuses allow you to earn by inviting friends. You may get rewards when your friend joins and completes the required steps shown in the offer.
-            To invite someone, you can share your:
-            <a href="<?php echo $BASE_URL; ?>/jalwa-game-agent/">Jalwa Invite Code</a>
-            or follow the:
-            <a href="<?php echo $BASE_URL; ?>/refer-and-earn-program/">refer and earn program</a>.
+            This bonus helps you earn simply by inviting your friends. Both the inviter and invitee will win rewards. With this bonus, if your friend makes a ₹300 deposit, you can get ₹38 as a referral bonus.
           </p>
 
-          <div class="all-h3-head"><h3>What Is an Attendance Bonus and How Can You Keep a Streak?</h3></div>
+          <div class="all-h3-head"><h3>Attendance Bonus</h3></div>
           <p class="para-txt">
-            Attendance bonuses reward users who log in daily. The bonus may start small on day one and increase when you maintain consecutive days.
-            Some <a href="<?php echo $BASE_URL; ?>/jalwa-game-agent/">Jalwa Game Agents</a> also motivate their team members to stay active and claim daily rewards.
+            This bonus is exclusively for active members. Only players who are active daily can claim it. The bonus starts at ₹5 on the first day and can go up to ₹7000 over 7 days. The more consecutive days you log in, the higher your rewards will be. <a href="<?php echo $BASE_URL; ?>/become-agent/">Jalwa Game Agents</a> can also encourage their team members to stay active and claim these daily bonuses.
           </p>
 
         </div>
@@ -380,23 +340,22 @@
         <div class="col-12">
 
           <div class="all-h2-head">
-            <h2>How Can You Claim Bonuses on Jalwa Game?</h2>
+            <h2>How to Claim Bonuses on Jalwa Game</h2>
           </div>
 
           <p class="para-txt">
-            Claiming bonuses is simple when you follow the in-app steps. Here is a clean process you can use.
+            Claiming your Jalwa Bonuses is simple if you follow the steps described below:
           </p>
 
           <ul>
-            <li><strong>How can you download and log in?</strong> Install the app and complete your <a href="<?php echo $BASE_URL; ?>/">Jalwa Game Login</a> using your registered number and password.</li>
-            <li><strong>How can you check available bonuses?</strong> Open the “Activity” tab and review the bonus list. Always check the expiry date.</li>
-            <li><strong>How can you review terms?</strong> Some bonuses require a minimum deposit or specific conditions. Read the offer rules before claiming.</li>
-            <li><strong>How can you confirm your rewards?</strong> Open the wallet section and verify the bonus credit after you claim.</li>
+            <li><strong>Download & Login:</strong> Install the Jalwa Game App or visit the official website. Complete your <a href="<?php echo $BASE_URL; ?>/">Jalwa Login</a> with your registration number and password.</li>
+            <li><strong>Check the Available Bonuses:</strong> Visit the “Activity” tab for the available bonuses. Read the expiry date of the bonus to check the availability.</li>
+            <li><strong>Review the Terms and Conditions:</strong> Review the Terms and Conditions:</li>
+            <li><strong>Track Your Rewrads:</strong> Visit your “Wallet” section to track if your rewards get credited or not.</li>
           </ul>
 
           <p class="para-txt">
-            Tip: If you need help, contact:
-            <a href="<?php echo $BASE_URL; ?>/contact-us/">customer support</a>.
+            <strong>Tip:</strong> Always read the in-app instructions carefully to get clear guidance about the bonuses, or you can contact Jalwa Game Customer Support to avoid any kind of confusion.
           </p>
 
         </div>
@@ -411,16 +370,16 @@
         <div class="col-12">
 
           <div class="all-h2-head">
-            <h2>How Can You Maximise Your Bonuses Safely?</h2>
+            <h2>Tips to Maximise Your Bonuses</h2>
           </div>
+          <p class="para-txt">Want to get the most from your Jalwa Game Bonuses? Follow these practical steps:</p>
 
           <ul>
-            <li><strong>How can you benefit from daily login?</strong> Many offers are daily or streak-based, so staying active helps.</li>
-            <li><strong>How can you refer effectively?</strong> Share your invite code with people you know, and follow the in-app rules.</li>
-            <li><strong>How can you watch for seasonal offers?</strong> Check notifications during festivals because special rewards often appear then.</li>
-            <li><strong>How can you use bonuses wisely?</strong> Use credits calmly and avoid rushing decisions just to unlock a reward.</li>
-            <li><strong>How can you stay responsible?</strong> Follow:
-              <a href="<?php echo $BASE_URL; ?>/play-responsibly-guide/">play responsibly guide</a>.
+            <li><strong>Login Daily:</strong> Many bonuses appear as daily rewards or streak offers.</li>
+            <li><strong>Refer Actively:</strong> Share your Jalwa Invite Code on social media groups to increase your referral bonuses.</li>
+            <li><strong>Watch for Festival Offers:</strong> Check notifications during the holiday to get special rewards.</li>
+            <li><strong>Play Within Limits:</strong> Use bonuses wisely, do not chase losses, or overspend just to unlock a reward.</li>
+            <li><strong>Read Rules Carefully:</strong> Some bonuses might have conditions such as limited validity or playthrough requirements.
             </li>
           </ul>
 
@@ -436,18 +395,17 @@
         <div class="col-12">
 
           <div class="all-h2-head">
-            <h2>What Common Mistakes Should You Avoid While Claiming Bonuses?</h2>
+            <h2>Common Mistakes to Avoid</h2>
           </div>
 
           <ul>
-            <li><strong>Why should you avoid ignoring expiry dates?</strong> Unused bonuses can expire quickly.</li>
-            <li><strong>Why should you avoid multiple accounts?</strong> Creating extra accounts to claim more rewards can lead to suspension.</li>
-            <li><strong>Why should you avoid skipping terms?</strong> If you do not read the rules, you may miss the full benefit or lose eligibility.</li>
+            <li><strong>Ignoring the Expiry Dates:</strong> Unused bonuses may expire quickly.</li>
+            <li><strong>Multiple Accounts:</strong> Creating fake accounts for extra rewards can lead to suspension.</li>
+            <li><strong>Skipping Terms:</strong> Not checking the terms clearly might mean you miss out on the full potential of the binus.</li>
           </ul>
 
           <p class="para-txt">
-            Read the full guide here:
-            <a href="<?php echo $BASE_URL; ?>/mistakes-to-avoid/">mistakes to avoid</a>.
+            By staying alert and following these strategies, you can enjoy every reward offer by Jalwa Games without any issues.
           </p>
 
         </div>
@@ -466,12 +424,14 @@
           </div>
 
           <p class="para-txt">
-            Bonuses make the Jalwa Game experience more rewarding. If you claim bonuses on time, follow the platform rules, and play responsibly,
-            you can enjoy extra value without confusion.
+            Bonuses make your experience with the Jalwa Game more rewarding. Bonuses provide added value to the game experience! Just remember to claim your bonuses on time, follow the platform's fair play rules, and follow responsible gaming.
           </p>
 
           <p class="para-txt">
-            Always use official offers, read the terms, and contact support when needed. There is usually something extra for everyone inside the app.
+            Use these bonuses as a part of enjoyment, as the winning is not guaranteed with the RNG system, nor is it a guaranteed source of income.
+          </p>
+          <p class="para-txt">
+            Enjoy playing and explore bonuses of all sorts that are aligned with your gaming style. Jalwa Game assures there is always something special for everyone.
           </p>
 
         </div>
@@ -495,17 +455,17 @@
                 <h3>Can I claim multiple bonuses at the same time?</h3>
               </div>
               <div class="faq-answer">
-                <p>Yes. You can use different bonuses together if they are valid and you meet the conditions mentioned inside the Jalwa app.</p>
+                <p>Yes, you can enjoy different bonuses together if they are valid and meet the conditions mentioned in the Jalwa App.</p>
               </div>
             </div>
 
             <div class="faq-item" onclick="toggleFAQ(this)">
               <div class="faq-question">
                 <span class="arrow"></span>
-                <h3>Are there any play requirements for the bonuses?</h3>
+                <h3>Are there any wagering requirements for the bonuses?</h3>
               </div>
               <div class="faq-answer">
-                <p>Some promotions may require you to complete a certain amount of gameplay activity before you can withdraw. Always check the terms shown in the rewards section.</p>
+                <p>Some promotions may require you to play a certain number of rounds before withdrawal. Check the terms in the rewards section.</p>
               </div>
             </div>
 
@@ -515,7 +475,7 @@
                 <h3>How long does it take for bonuses to be credited?</h3>
               </div>
               <div class="faq-answer">
-                <p>Many bonuses are credited instantly, while some special event bonuses can take up to 24 hours.</p>
+                <p>Most bonuses are instant, but some special event bonuses may require time up to 24 hours.</p>
               </div>
             </div>
 
@@ -525,17 +485,17 @@
                 <h3>Can bonuses be withdrawn immediately?</h3>
               </div>
               <div class="faq-answer">
-                <p>It depends on the offer. Some bonuses are for gameplay only, while others like referral rewards may be withdrawable after you meet the offer rules.</p>
+                <p>Some bonuses are for the gameplay only, while others, like referral rewards, can be directly withdrawn to UPI or Bank Accounts.</p>
               </div>
             </div>
 
             <div class="faq-item" onclick="toggleFAQ(this)">
               <div class="faq-question">
                 <span class="arrow"></span>
-                <h3>Are bonuses available for all types of games on Jalwa Game?</h3>
+                <h3>Are the bonuses available for all types of games on Jalwa Game?</h3>
               </div>
               <div class="faq-answer">
-                <p>Most bonuses apply across the colour prediction options available in the Jalwa app. Offer rules may vary, so check the terms for each bonus.</p>
+                <p>Yes, most bonuses are applicable across the various colour prediction options in the Jalwa Colour Prediction App.</p>
               </div>
             </div>
 
@@ -545,7 +505,7 @@
                 <h3>Is there a minimum deposit required to get the bonus?</h3>
               </div>
               <div class="faq-answer">
-                <p>For deposit or recharge bonuses, a minimum amount is usually mentioned inside the offer details. Check the activity section for the exact requirement.</p>
+                <p>For deposit or recharge bonuses, a minimum amount is usually mentioned in the offer details.</p>
               </div>
             </div>
 
@@ -555,7 +515,7 @@
                 <h3>Can I lose my bonus if I do not use it within a certain time?</h3>
               </div>
               <div class="faq-answer">
-                <p>Yes. Some bonuses expire after the stated validity period. Always check the expiry date before you claim or use the bonus.</p>
+                <p>Yes, unused bonuses may expire after the stated validity period. Always check the expiry date.</p>
               </div>
             </div>
 

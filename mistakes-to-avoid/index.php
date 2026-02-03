@@ -215,14 +215,14 @@
         <div class="col-l2">
           <div class="content-box">
 
-            <img
+            <!-- <img
               src="../assets/image/blog/10-mistakes-to-avoid.webp"
               alt="Top 10 Mistakes to Avoid in Jalwa Game"
               width="1200"
               height="628"
               class="img-fluid mb-3"
               loading="lazy"
-            />
+            /> -->
 
             <p class="tpara">
               In Jalwa Game, small mistakes can cost big. Many players lose not because the game is hard, but because they ignore simple things. From missing rules to rushing moves, these errors stop you from winning more.

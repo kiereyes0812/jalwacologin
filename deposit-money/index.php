@@ -270,18 +270,17 @@
         <div class="col-l2">
           <div class="content-box">
 
-            <img
+            <!-- <img
               src="../assets/image/blog/deposit-money.webp"
               alt="Deposit Money Safely in Your Jalwa Game Account"
               width="1200"
               height="628"
               class="img-fluid mb-3"
               loading="lazy"
-            />
+            /> -->
 
             <p class="tpara">
-              The Jalwa Game is a popular colour prediction platform enjoyed by thousands of players online.
-              Along with colour prediction games, you can also get game options like Fishing games, Slot games, Sports, PVC, and more.
+              The Jalwa Game is a popular colour prediction platform enjoyed by thousands of players online. Along with colour prediction games, you can also get game options like - Fishing games, Slot games, Sports, PVC, and more.
             </p>
 
             <p class="para-txt">
@@ -290,8 +289,6 @@
 
             <p class="para-txt">
               This beginner-friendly guide explains every step, supported payment methods, and security tips so you can deposit money without confusion.
-              If you also want to avoid common beginner errors, you can read:
-              <a href="<?php echo $BASE_URL; ?>/mistakes-to-avoid/">mistakes to avoid</a>.
             </p>
 
           </div>
@@ -308,11 +305,11 @@
           <details class="toc-container">
             <summary class="toc-title">Table of Contents</summary>
             <ul>
-              <li><a href="#steps">How Can You Deposit Money in Jalwa Game Step by Step?</a></li>
-              <li><a href="#methods">Which Payment Methods Are Available in Jalwa Game?</a></li>
-              <li><a href="#issues">What Common Deposit Issues Can Happen and How Can You Fix Them?</a></li>
-              <li><a href="#tips">What Tips Help You Deposit Smoothly?</a></li>
-              <li><a href="#security">How Can You Keep Deposits Safe and Secure?</a></li>
+              <li><a href="#steps">Steps to Deposit in Jalwa Game</a></li>
+              <li><a href="#methods">Payment Methods Available in the Jalwa Game</a></li>
+              <li><a href="#issues">Common Deposit Issues and How to Fix Them</a></li>
+              <li><a href="#tips">Tips for a Seamless Deposit Experience</a></li>
+              <li><a href="#security">Security Measures for Deposits</a></li>
               <li><a href="#conclusion">Conclusion</a></li>
               <li><a href="#faqs">Frequently Asked Questions</a></li>
             </ul>
@@ -329,44 +326,41 @@
         <div class="col-12">
 
           <div class="all-h2-head">
-            <h2>How Can You Deposit Money in Jalwa Game Step by Step?</h2>
+            <h2>Steps to Deposit in Jalwa Game</h2>
           </div>
 
           <p class="para-txt">
-            Follow these easy steps to deposit money safely into your Jalwa Game wallet:
+            These are some easy steps to follow you deposit money safely into your Jalwa Game Wallet:
           </p>
 
-          <div class="all-h3-head"><h3>Step 1: How Can You Log In to Your Jalwa Game Account?</h3></div>
+          <div class="all-h3-head"><h3>Step 1: Log in to Your Jalwa Game Account</h3></div>
           <ul>
-            <li>Open the official app or website and log in using your registered phone number and password.</li>
-            <li>Use a stable network connection because slow internet can cause deposit errors or delays.</li>
-            <li>If you forgot your password, you can use:
-              <a href="<?php echo $BASE_URL; ?>/reset-account-password/">reset account password</a>.
-            </li>
+            <li>Open the official app or website and make your <a href="<?php echo $BASE_URL; ?>/">Jalwa Game login</a> using your registered phone number and password.</li>
+            <li>Verify your network connection, as slow internet may cause transaction errors or delays.</li>
           </ul>
 
-          <div class="all-h3-head"><h3>Step 2: How Can You Visit the Deposit Section?</h3></div>
+          <div class="all-h3-head"><h3>Step 2: Visit the Deposit Section</h3></div>
           <ul>
-            <li>In your dashboard, open the “Wallet” or “Account” tab.</li>
-            <li>Tap the “Deposit” option to continue.</li>
+            <li>In your game dashboard, go to the "Wallet" or "Account" Tab.</li>
+            <li>Click on the “Deposit” option.</li>
           </ul>
 
-          <div class="all-h3-head"><h3>Step 3: How Can You Choose Your Preferred Payment Method?</h3></div>
+          <div class="all-h3-head"><h3>Step 3: Choose Your Preferred Payment Method</h3></div>
           <ul>
-            <li>Select one option such as UPI, USDT, ARPay, or Paytm based on what you use daily.</li>
-            <li>Choose the deposit channel shown inside the app.</li>
+            <li>The Jalwa Game supports multiple transaction options such as UPI, USTD, ARPay, and Paytm; click on your preferred option.</li>
+            <li>Select your deposit channel from the options given.</li>
           </ul>
 
-          <div class="all-h3-head"><h3>Step 4: How Can You Enter the Amount for Deposit?</h3></div>
+          <div class="all-h3-head"><h3>Step 4: Enter the Amount for Deposit</h3></div>
           <ul>
-            <li>Enter the amount you want to add in the amount box.</li>
-            <li>Check the minimum and maximum deposit limits shown on the deposit screen.</li>
+            <li>Enter the amount you want to deposit in the designated box.</li>
+            <li>You will need to check the minimum and maximum deposit limits.</li>
           </ul>
 
-          <div class="all-h3-head"><h3>Step 5: How Can You Confirm the Transaction?</h3></div>
+          <div class="all-h3-head"><h3>Step 5: Confirm Transaction</h3></div>
           <ul>
-            <li>Review details like payment mode and amount, then tap the “Deposit” button.</li>
-            <li>Once successful, you will receive a confirmation notification in the app.</li>
+            <li>Review all details such as payment mode, amount and then tap the “Deposit” button to confirm.</li>
+            <li>You will receive a confirmation notification when your deposit is successful.</li>
           </ul>
 
         </div>
@@ -381,47 +375,45 @@
         <div class="col-12">
 
           <div class="all-h2-head">
-            <h2>Which Payment Methods Are Available in Jalwa Game?</h2>
+            <h2>Payment Methods Available in the Jalwa Game</h2>
           </div>
 
           <p class="para-txt">
-            Jalwa Game provides multiple secure deposit methods so you can choose what is easiest for you.
-            If you ever need to update details later, you can also follow:
-            <a href="<?php echo $BASE_URL; ?>/change-bank-account/">update or change bank account</a>.
+            The platform offers multiple secure options so that players can select the most convenient option for them and easily <a href="<?php echo $BASE_URL; ?>/change-bank-account/">change their bank account in Jalwa Game</a> when needed.
           </p>
 
-          <div class="all-h3-head"><h3>How Does Innate UPI QR Work?</h3></div>
+          <div class="all-h3-head"><h3>Innate UPI QR</h3></div>
           <ul>
-            <li>Scan the Innate UPI QR code inside the app.</li>
-            <li>Approve the request from your UPI app for an instant transfer.</li>
+            <li>Scan the Innate UPI QR code within the app.</li>
+            <li>Approve the payment request from your UPI app for an instant transaction.</li>
           </ul>
 
-          <div class="all-h3-head"><h3>How Can You Deposit Using Paytm?</h3></div>
+          <div class="all-h3-head"><h3>Paytm</h3></div>
           <ul>
             <li>Use your Paytm wallet or Paytm UPI to add funds quickly.</li>
-            <li>This method works well for both small and large deposits.</li>
+            <li>Works well for both small and large deposits.</li>
           </ul>
 
-          <div class="all-h3-head"><h3>How Does Expert UPI QR Work?</h3></div>
+          <div class="all-h3-head"><h3>Expert UPI QR</h3></div>
           <ul>
-            <li>Open any UPI app, scan the Expert UPI QR, and confirm payment.</li>
-            <li>This is also a quick option for most users.</li>
+            <li>Another fast UPI QR method.</li>
+            <li>Simply open any UPI app, scan the Expert QR code, and confirm the payment.</li>
           </ul>
 
-          <div class="all-h3-head"><h3>How Can You Deposit Using USDT?</h3></div>
+          <div class="all-h3-head"><h3>USDT</h3></div>
           <ul>
-            <li>This method is for users who prefer crypto transactions.</li>
-            <li>Follow the in-app instructions carefully to transfer USDT securely.</li>
+            <li>Ideal for players who prefer transactions in cryptocurrency.</li>
+            <li>Follow the in-app instructions to transfer USTD securely.</li>
           </ul>
 
-          <div class="all-h3-head"><h3>How Can ARPay Help You Deposit?</h3></div>
+          <div class="all-h3-head"><h3>ARPay</h3></div>
           <ul>
-            <li>ARPay is a digital payment gateway available inside the app.</li>
-            <li>It supports multiple banks and wallets for seamless deposits.</li>
+            <li>A trusted digital payment gateway.</li>
+            <li>Supports multiple bank accounts and wallets for seamless deposits.</li>
           </ul>
 
           <p class="para-txt">
-            These payment methods are designed to keep deposits fast and secure when used directly inside the app.
+            All these methods are encrypted, ensuring that your transactions on the Jalwa Game remain quick and safe.
           </p>
 
         </div>
@@ -436,42 +428,40 @@
         <div class="col-12">
 
           <div class="all-h2-head">
-            <h2>What Common Deposit Issues Can Happen and How Can You Fix Them?</h2>
+            <h2>Common Deposit Issues and How to Fix Them</h2>
           </div>
-
-          <div class="all-h3-head"><h3>What Should You Do If You Enter Incorrect Payment Details?</h3></div>
           <p class="para-txt">
-            Always double-check your UPI ID, wallet details, or selected channel before confirming your deposit.
+            Here are some common deposit issues that players face, along with their quick fixes:
           </p>
 
-          <div class="all-h3-head"><h3>What If the Transaction Fails?</h3></div>
+          <div class="all-h3-head"><h3>Incorrect Payment Details</h3></div>
+          <p class="para-txt">
+            Always recheck your UPI ID, card number, or wallet details before confirming your deposit.
+          </p>
+
+          <div class="all-h3-head"><h3>Failed Transactions</h3></div>
           <ul>
-            <li>Refresh the app and check your bank status.</li>
-            <li>If money is debited but not credited to your wallet, contact:
-              <a href="<?php echo $BASE_URL; ?>/contact-us/">Jalwa Game customer service</a>.
+            <li>Refresh the app and check your bank status to see if the deduction is reflected.</li>
+            <li>If the money is debited but not reflected in your game wallet, then contact Jalwa Game Customer Service.
             </li>
           </ul>
 
-          <div class="all-h3-head"><h3>What If Your Deposit Is Delayed?</h3></div>
+          <div class="all-h3-head"><h3>Delayed Deposits</h3></div>
           <ul>
-            <li>High traffic can cause a short delay.</li>
-            <li>Wait 10 to 15 minutes, then contact support if it still does not reflect.</li>
+            <li>High network traffic can cause a short delay.</li>
+            <li>Wait for 10-15 minutes; if the issue remains unresolved, contact support.</li>
           </ul>
 
-          <div class="all-h3-head"><h3>How Does Network Connectivity Affect Deposits?</h3></div>
-          <p class="para-txt">
-            A weak network can interrupt the payment process. Use stable mobile data or trusted Wi-Fi.
-            If language is confusing in the app, use:
-            <a href="<?php echo $BASE_URL; ?>/change-language/">change language</a>.
-          </p>
-
-          <div class="all-h3-head"><h3>What If You Exceed Your Daily Transaction Limit?</h3></div>
+          <div class="all-h3-head"><h3>Network Connectivity</h3></div>
           <ul>
-            <li>Some banks and UPI apps have a daily limit. Check your bank limit before requesting a withdrawal.</li>
-            <li>For the withdrawal process, follow:
-              <a href="<?php echo $BASE_URL; ?>/withdraw-money/">withdraw money</a>.
-            </li>
-            <li>If you reach your limit, wait for the next day or use an alternate method like ARPay or USDT.</li>
+            <li>A slow or unstable network can interrupt the payment process.</li>
+            <li>Ensure that you have a stable mobile data or Wi-Fi connection..</li>
+          </ul>
+
+          <div class="all-h3-head"><h3>Exceeded Daily Transaction Limit</h3></div>
+          <ul>
+            <li>Some wallets and UPI apps have a daily transfer limit, so always check your bank or UPI limit before requesting a <a href="<?php echo $BASE_URL; ?>/withdraw-money/">Jalwa Game Withdraw</a>.</li>
+            <li>If you reached your transaction limit, wait for the next day or use an alternative method such as ARPay, USTD, etc.</li>
           </ul>
 
         </div>
@@ -486,18 +476,20 @@
         <div class="col-12">
 
           <div class="all-h2-head">
-            <h2>What Tips Help You Deposit Smoothly?</h2>
+            <h2>Tips for a Seamless Deposit Experience</h2>
           </div>
+          <p class="para-txt">
+            To process a seamless deposit, here are some tips you can follow:
+          </p>
 
           <ul>
-            <li>Ensure your bank account or wallet has enough balance.</li>
-            <li>Use private, stable internet and avoid public Wi-Fi during transactions.</li>
-            <li>Save transaction screenshots for reference if any issue happens.</li>
-            <li>Keep your Jalwa app updated to access the latest payment gateways.</li>
-            <li>Keep your UPI and wallet apps updated as well.</li>
-            <li>Make sure your bank details are updated before you deposit or withdraw.</li>
-            <li>For safe play habits, follow:
-              <a href="<?php echo $BASE_URL; ?>/play-responsibly-guide/">play responsibly guide</a>.
+            <li>Ensure that your bank account and UPI have enough balance.</li>
+            <li>Utilise a private and stable internet connection and do not use public Wi-Fi.</li>
+            <li>Save the screenshots of your transactions for easy reference in case of any inconvenience.</li>
+            <li>Keep your Jalwa App updated to use the latest safe payment gateways.</li>
+            <li>Make sure that you keep your Jalwa App and wallet apps updated with the latest version.</li>
+            <li>Make sure your Jalwa Game bank account details are updated before making any transactions.</li>
+            <li>You can contact <a href="<?php echo $BASE_URL; ?>/support/">Jalwa Game Support</a> anytime if you face issues or have questions related to your account or bonuses.</li>
             </li>
           </ul>
 
@@ -513,25 +505,24 @@
         <div class="col-12">
 
           <div class="all-h2-head">
-            <h2>How Can You Keep Deposits Safe and Secure?</h2>
+            <h2>Security Measures for Deposits</h2>
           </div>
 
           <p class="para-txt">
-            Jalwa Game uses trusted payment gateways, but you should also follow these safety rules when transferring money online:
+            The Jalwa Game protects every transaction with trusted payment gateways and encryption, but with online money transferring, security measures are a must. Here's how you can stay safe:
           </p>
 
           <ul>
-            <li><strong>Encrypted transactions:</strong> Payment apps supported by Jalwa Game use SSL-based security.</li>
+            <li><strong>Encrypted transactions:</strong> All payment apps supported by Jalwa Game use secure SSL technology.</li>
             <li><strong>Never share account details:</strong> Keep your OTP, password, and UPI PIN private.</li>
-            <li><strong>Use official gateways only:</strong> Deposit only from the in-app “Wallet” or “Account” section and avoid third-party links.</li>
-            <li><strong>Set a strong password:</strong> Use a secure password to reduce unauthorised access. If needed, use:
-              <a href="<?php echo $BASE_URL; ?>/reset-account-password/">reset account password</a>.
-            </li>
+            <li><strong>Official Gateways Only:</strong> Deposit only through the in-app “Wallet” or “Account” tab and avoid third-party links.</li>
+            <li><strong>Set Strong Passwords:</strong> Set a Strong Password and UPI pin to avoid any kind of risk and unauthorised access.</li>
+            <li><strong>2FA Protection:</strong> Activate Two-Factor Authentication for an extra layer of protection.</li>
+            
           </ul>
 
           <p class="para-txt">
-            If you have doubts or want guidance, you can contact:
-            <a href="<?php echo $BASE_URL; ?>/contact-teacher/">Jalwa Game teacher</a>.
+            If you have any doubts about depositing money, you can contact the <a href="<?php echo $BASE_URL; ?>/teacher/">Jalwa Game teacher</a> for guidance.
           </p>
 
         </div>
@@ -550,12 +541,14 @@
           </div>
 
           <p class="para-txt">
-            Depositing money in the Jalwa Game app is simple when you follow the correct steps.
-            Log in, choose a payment method, enter the amount, and confirm the deposit.
+            Adding funds to the Jalwa App is secure if the right steps are followed. At first, complete your Login, select your preferred payment method, enter the amount, and press confirm.
           </p>
 
           <p class="para-txt">
-            Your wallet usually updates instantly. For safety, always deposit through official sections, double-check transaction details, and never share OTP or PIN.
+            Your Jalwa Game wallet will be updated instantly. When transacting, you can follow measures such as using official sources, rechecking transaction information, and avoiding public networks.
+          </p>
+          <p class="para-txt">
+            Avoid sharing your bank and game account details, and protect your account with a strong password.
           </p>
 
         </div>
@@ -579,7 +572,7 @@
                 <h3>How long does it take for the deposit to reflect?</h3>
               </div>
               <div class="faq-answer">
-                <p>Deposits are usually reflected in your game wallet within a few seconds. In rare cases, it may take up to 1 hour.</p>
+                <p>Deposits are usually reflected in your game wallet within a few seconds. In some rare cases, it may take up to 1 hour.</p>
               </div>
             </div>
 
@@ -589,7 +582,7 @@
                 <h3>Can I utilise multiple payment methods for deposit?</h3>
               </div>
               <div class="faq-answer">
-                <p>For each transaction, you must use a single method, but you can choose different options each time you deposit.</p>
+                <p>For each of your transactions, you must use a single method, but you can choose different options every single time.</p>
               </div>
             </div>
 
@@ -599,7 +592,7 @@
                 <h3>Is there a minimum deposit amount for Jalwa Game?</h3>
               </div>
               <div class="faq-answer">
-                <p>Yes. The minimum deposit amount is ₹100 and it can go up to ₹50,000 depending on the method and limits.</p>
+                <p>Yes, the minimum deposit amount in Jalwa Game is: ₹100 and goes up to ₹50k.</p>
               </div>
             </div>
 
@@ -609,7 +602,7 @@
                 <h3>Can I cancel a deposit transaction in progress?</h3>
               </div>
               <div class="faq-answer">
-                <p>No. Once approved, a deposit transaction cannot be cancelled. Verify your amount and details before confirming.</p>
+                <p>No, once approved, a transaction can not be cancelled. Review our deposit amount and account details before proceeding. Contact support if the money is deducted but not credited.</p>
               </div>
             </div>
 
@@ -619,7 +612,7 @@
                 <h3>Are deposits in the Jalwa Game secure?</h3>
               </div>
               <div class="faq-answer">
-                <p>Yes. Deposits use encryption and trusted gateways when you deposit through the official in-app Wallet or Account section.</p>
+                <p>Yes, all transactions use encryption and trusted gateways.</p>
               </div>
             </div>
 
@@ -629,7 +622,7 @@
                 <h3>What should I do if my deposit fails?</h3>
               </div>
               <div class="faq-answer">
-                <p>Check your UPI app or bank details first. If the issue continues, contact customer support with your transaction ID.</p>
+                <p>Check your UPI App or bank details, then contact customer support with your transaction ID.</p>
               </div>
             </div>
 
@@ -639,7 +632,7 @@
                 <h3>Does Jalwa Game charge any transaction fees for deposits?</h3>
               </div>
               <div class="faq-answer">
-                <p>No. The platform does not charge extra fees with standard payment options.</p>
+                <p>No, the platform does not charge extra fees with the standard payment options.</p>
               </div>
             </div>
 

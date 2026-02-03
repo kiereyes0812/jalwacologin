@@ -186,23 +186,24 @@
 
         <div class="col-l2">
           <div class="content-box">
-            <img
+            <!-- <img
               src="../assets/image/blog/how-color-prediction-work.webp"
               alt="How Colour Prediction Games Work"
               width="1200"
               height="628"
               loading="lazy"
-            >
+            > -->
 
             <p class="para-txt">
-              In a colour prediction game, you pick a colour (and sometimes a number) before the round ends, then you wait for the result.
-              If your choice matches the result, the app shows a win for that round based on its rules.
+              Online gamers often seek simple and easy games to enjoy during their free time. One such gaming options that has become widely popular these days are the colour prediction games. In this kind of game, you only need to pick a colour or number before the round ends and then wait for the results.
             </p>
 
             <p class="para-txt">
-              In this guide, we explain how these games usually work inside the app, what you should check before you play, and how you can play carefully.
-              If you want a simple beginner walkthrough, you can also read our
-              <a href="<?php echo $BASE_URL; ?>/jalwa-game-teacher/">Jalwa Game Teacher</a> page.
+              The game timer will appear on your screen, and if your guesses match, you will win the round. Many people enjoy playing colour prediction games on platforms like Jalwa Game, as the games are easy to understand, can be played on a mobile device, and offer real rewards.
+            </p>
+
+            <p class="para-txt">
+              This beginner-friendly guide will help you understand how colour prediction games in Jalwa Game work. This step-by-step guide will provide you with practical tips to help you enjoy the gameplay responsibly.
             </p>
           </div>
         </div>
@@ -218,17 +219,15 @@
           <details class="toc-container">
             <summary class="toc-title">Table of Contents</summary>
             <ul>
-              <li><a href="#what-are">What are colour prediction games?</a></li>
-              <li><a href="#why-enjoy">Why do people enjoy playing these games?</a></li>
-              <li><a href="#popular">What makes colour prediction games popular?</a></li>
-              <li><a href="#rules">What are the basic rules you should understand?</a></li>
-              <li><a href="#start">How can you start playing step by step?</a></li>
-              <li><a href="#results">How are game results decided?</a></li>
-              <li><a href="#variations">What variations of colour prediction games can you find?</a></li>
-              <li><a href="#example">What does an example round look like?</a></li>
-              <li><a href="#tips">What tips should new players follow?</a></li>
-              <li><a href="#mistakes">What mistakes should you avoid while playing?</a></li>
-              <li><a href="#responsible">How can you play responsibly?</a></li>
+              <li><a href="#what-are">What Are the Colour Prediction Games?</a></li>
+              <li><a href="#popular">What Makes the Colour Prediction Games So Popular?</a></li>
+              <li><a href="#rules">Understanding the Basic Rules</a></li>
+              <li><a href="#start">Step-by-Step Guide to Start Your Gaming Journey With Colour Prediction Games</a></li>
+              <li><a href="#results">How Game Results Are Decided</a></li>
+              <li><a href="#variations">Game Variations in the Colour Prediction Game</a></li>
+              <li><a href="#example">Example Round of the Game</a></li>
+              <li><a href="#tips">Tips for New Players</a></li>
+              <li><a href="#mistakes">Mistakes Players Should Avoid</a></li>
               <li><a href="#conclusion">Conclusion</a></li>
               <li><a href="#faqs">Frequently Asked Questions</a></li>
             </ul>
@@ -244,43 +243,31 @@
       <div class="row">
         <div class="col-12">
           <div class="all-h2-head">
-            <h2>What are colour prediction games?</h2>
+            <h2>What Are the Colour Prediction Games?</h2>
           </div>
 
           <p class="para-txt">
-            A colour prediction game is a type of online game where you select a colour or a number before the timer ends.
-            After the round ends, the app shows the final result on your screen.
-            If your selected option matches the result, you receive the outcome as per that round’s rules.
+            A Colour Prediction Game is a type of online game where you need to select a specific colour or number before the timer ends. Once the game round is over, you can see the winning results on your game screen. If your choice matches, you can win the multiplier of your stake. A <a href="<?php echo $BASE_URL; ?>/teacher/">Jalwa Game Teacher</a> can help you learn tips and strategies to play better.
           </p>
-
-          <p class="para-txt">
-            If you are new and you want to understand the screen options and round timing clearly, our
-            <a href="<?php echo $BASE_URL; ?>/jalwa-game-teacher/">Jalwa Game Teacher</a>
-            guide can help you.
-          </p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- Why enjoy -->
-  <section class="jalwa-section" id="why-enjoy">
-    <div class="container content-border">
-      <div class="row">
-        <div class="col-12">
           <div class="all-h2-head">
-            <h2>Why do people enjoy playing these games?</h2>
+            <h3>Why do People Enjoy Playing it?</h2>
           </div>
 
           <ul>
-            <li><strong>Easy to understand:</strong> You only need to pick a colour or number and wait for the result.</li>
-            <li><strong>Fast rounds:</strong> Many rounds finish in a short time, so you do not need long hours.</li>
-            <li><strong>Simple on mobile:</strong> You can play using your phone, so it feels convenient.</li>
+            <li>Easy to learn for everyone.</li>
+            <li>Generates fast results within a few seconds or minutes.</li>
+            <li>It can be played anytime as the game rounds start every minute.</li>
+            <li>There are many platforms, such as Jalwa Game, which offer minimum stakes as low as ₹10.</li>
           </ul>
+
+          <p class="para-txt">
+            You can start your colour prediction journey with platforms like Jalwa Game and more. These apps offer a wide range of colour-predicting gaming varieties such as Wingo, TRX Wingo, K3, 5D and Moto Racing.
+          </p>
         </div>
       </div>
     </div>
   </section>
+
 
   <!-- Popular -->
   <section class="jalwa-section" id="popular">
@@ -288,18 +275,14 @@
       <div class="row">
         <div class="col-12">
           <div class="all-h2-head">
-            <h2>What makes colour prediction games popular?</h2>
+            <h2>What Makes the Colour Prediction Games So Popular?</h2>
           </div>
 
-          <p class="para-txt">
-            These games feel popular mainly because the steps are simple and results come quickly. Many apps also show previous results,
-            which makes people curious. Still, past results do not guarantee the next result.
-          </p>
-
           <ul>
-            <li><strong>Quick gameplay:</strong> The timer, selection, and result happen fast.</li>
-            <li><strong>Simple choices:</strong> Usually you choose between a few colours, and sometimes numbers.</li>
-            <li><strong>History view:</strong> You can check your round history inside the app.</li>
+            <li><strong>Fun and Quick Game Styles:</strong> Game rounds end every 30 seconds to a few minutes.</li>
+            <li><strong>Easy to Learn:</strong> Anyone can start playing these games by simply picking colours (Red, Green and Violet) or numbers (0-9).</li>
+            <li><strong>Chance of rewards:</strong> The presence of multipliers makes the rounds more exciting.</li>
+            <li><strong>Entertainment:</strong> The colour prediction games are fun and a good way to spend your free time.</li>
           </ul>
         </div>
       </div>
@@ -312,19 +295,18 @@
       <div class="row">
         <div class="col-12">
           <div class="all-h2-head">
-            <h2>What are the basic rules you should understand?</h2>
+            <h2>Understanding the Basic Rules</h2>
           </div>
 
           <ul>
-            <li>You must choose your colour or number before the timer ends.</li>
-            <li>After the round closes, you cannot change your selection.</li>
-            <li>The result is shown after the timer finishes.</li>
-            <li>Win or loss is based on whether your choice matches the result, as per the app rules.</li>
+            <li>Choose a specific colour or number depending on the game type.</li>
+            <li>Start with a small amount of stake to understand the gameplay.</li>
+            <li>Choose your multiplier (1x, 5x, 10x, etc.).</li>
+            <li>Place your bet before the timer ends.</li>
+            <li>If your choice matches, you will win.</li>
+            <li>Some platforms charge a minimum amount of service fee (ranging from as low as ₹2) for winning.</li>
           </ul>
 
-          <p class="para-txt">
-            Before you start, we suggest reading the in-app help section, so you understand the exact rules for the mode you open.
-          </p>
         </div>
       </div>
     </div>
@@ -336,45 +318,36 @@
       <div class="row">
         <div class="col-12">
           <div class="all-h2-head">
-            <h2>How can you start playing step by step?</h2>
+            <h2>Step-by-Step Guide to Start Your Gaming Journey With Colour Prediction Games</h2>
           </div>
 
           <p class="para-txt">
-            Here is a simple step-by-step flow that most new users follow.
+            Here are the steps you can follow to start your gaming journey.
           </p>
 
-          <div class="all-h3-head"><h3>Step 1: How do you create an account?</h3></div>
+          <div class="all-h3-head"><h3>Step 1: Create an Account</h3></div>
           <p class="para-txt">
-            First, you need to sign up and create your profile inside the app. You can follow our
-            <a href="<?php echo $BASE_URL; ?>">Jalwa Game Register</a>
-            guide if you want a clear walkthrough.
+            Sign up on the <a href="<?php echo $BASE_URL; ?>/">Jalwa Game Register</a> with your phone number and basic details.
           </p>
 
-          <div class="all-h3-head"><h3>Step 2: How do you apply an invite code if you have one?</h3></div>
+          <div class="all-h3-head"><h3>Step 2: Check Game Options</h3></div>
           <p class="para-txt">
-            Some users receive a referral or promo code during sign up. If you want to know where to enter it, read
-            <a href="<?php echo $BASE_URL; ?>/jalwa-game-invite-code/">Jalwa Game Invite Code</a>.
+            Look at available games such as Wingo, K3, Moto Racing, TRX Wingo, 5D and more.
           </p>
 
-          <div class="all-h3-head"><h3>Step 3: How do you choose a game round?</h3></div>
+          <div class="all-h3-head"><h3>Step 3: Select Your Prediction</h3></div>
           <p class="para-txt">
-            Open the colour prediction section and select a round type. Different rounds can have different timers and options.
+            Pick a colour or number before the timer ends.
           </p>
 
-          <div class="all-h3-head"><h3>Step 4: How do you select your colour or number?</h3></div>
+          <div class="all-h3-head"><h3>Step 4: Wait for Results</h3></div>
           <p class="para-txt">
-            Pick your option before the countdown ends. Confirm your selection, then wait for the round to finish.
+            The system will provide an RNG-based outcome after the timer ends.
           </p>
 
-          <div class="all-h3-head"><h3>Step 5: How do you check results and history?</h3></div>
+          <div class="all-h3-head"><h3>Step 5: Track Your Result</h3></div>
           <p class="para-txt">
-            After the timer ends, the app shows the result. You can also open the history section to see previous rounds and your outcomes.
-          </p>
-
-          <p class="para-txt">
-            If you see VIP or level benefits inside the app, our
-            <a href="<?php echo $BASE_URL; ?>/vip-levels/">Jalwa Game VIP Levels</a>
-            page can help you understand what those levels usually mean.
+            Use the “My History” option on the app to see your total wins and losses.
           </p>
         </div>
       </div>
@@ -387,18 +360,17 @@
       <div class="row">
         <div class="col-12">
           <div class="all-h2-head">
-            <h2>How are game results decided?</h2>
+            <h2>How Game Results Are Decided</h2>
           </div>
 
           <p class="para-txt">
-            Most colour prediction platforms use a random system or algorithm to generate results. This is why no player can control the outcome.
-            Sometimes people check patterns from history, but it still does not guarantee the next result.
+            In colour prediction games, there is no proven strategy to ensure assured winning, as all the results are random. Here's how it works:
           </p>
 
           <ul>
-            <li><strong>Randomised outcome:</strong> Results are generated by a system, not by player choice.</li>
-            <li><strong>No full control:</strong> Players cannot force a colour to appear.</li>
-            <li><strong>History is only reference:</strong> It shows the past, not the future.</li>
+            <li>The results of these games are decided by a “Random Number Generator” system.</li>
+            <li>This ensures fairness as no one can manipulate the results.</li>
+            <li>“Chart” shows statistics of the past round; however, they can not assure future results.</li>
           </ul>
         </div>
       </div>
@@ -411,18 +383,51 @@
       <div class="row">
         <div class="col-12">
           <div class="all-h2-head">
-            <h2>What variations of colour prediction games can you find?</h2>
+            <h2>Game Variations in the Colour Prediction Game</h2>
           </div>
 
           <p class="para-txt">
-            Different apps can show different modes. Some are only colour-based, while others include numbers or more options.
+            There are many colour prediction games available on this platform. We have mentioned them below:
           </p>
 
+          <div class="all-h3-head"><h3>WinGo</h3></div>
           <ul>
-            <li><strong>Single colour rounds:</strong> You pick one colour from a small list.</li>
-            <li><strong>Colour plus number:</strong> You pick a colour and also a number option.</li>
-            <li><strong>Different reward ratios:</strong> The result rules can change based on the mode you select.</li>
+            <li>Time rounds range from 30 sec, 1 min, 3 min and 5min.</li>
+            <li>Colours include- Red, Green, Violet.</li>
+            <li>Multipliers range from: 1x, 5x, 10x, 20x, 30x, 50x, and 100x.</li>
+            <li>You can also pick from Big (5-9) or small (0-4) numbers.</li>
+            <li>Game history and charts will help you track results.</li>
           </ul>
+
+          <div class="all-h3-head"><h3>TRX Wingo</h3></div>
+          <ul>
+            <li>This is similar to the Wingo, but here the rules are a little more advanced than WinGo, as you also have to guess the hash value here.</li>
+            <li>Round time ranges from 1 to 3, 5 and 10 minutes.</li>
+            <li>In this game, if you win, you can earn “TRX,” which is the cryptocurrency of the “Tron Blockchain.”</li>
+            <li>You can also find alphabet combinations in these games, including A, B, C, and D.</li>
+          </ul>
+
+          <div class="all-h3-head"><h3>Moto Racing</h3></div>
+          <ul>
+            <li>This is a new gaming variety in Colour Prediction Games, where the game round timers are usually fixed (37 seconds).</li>
+            <li>Here you need to predict which number of motorbikes will appear as 1st, 2nd and 3rd.</li>
+          </ul>
+
+          <div class="all-h3-head"><h3>K3 Game</h3></div>
+          <ul>
+            <li>This is a dice game where the results depend on the number on the dice.</li>
+            <li>Options: Big/Small and Odd/Even options are available in prediction.</li>
+            <li>Here you can bet on the sum values or the three individual numbers.</li>
+            <li>You can predict if the result will contain two dice the same, 3 dice the same or different dice.</li>
+          </ul>
+
+          <div class="all-h3-head"><h3>5D Lottery</h3></div>
+          <ul>
+            <li>Here, you need to guess five numbers in the result.</li>
+            <li>This game is quite similar to a traditional lottery draw.</li>
+            <li>Here, you need to predict the individual five numbers and their total sum.</li>
+          </ul>
+
         </div>
       </div>
     </div>
@@ -434,18 +439,20 @@
       <div class="row">
         <div class="col-12">
           <div class="all-h2-head">
-            <h2>What does an example round look like?</h2>
+            <h2>Example Round of the Game</h2>
           </div>
 
           <p class="para-txt">
-            Let us take a simple example. Ramesh opens a 1-minute round and selects Green before the timer ends.
-            He confirms the selection and waits. After the countdown finishes, the app shows the final result.
-            If Green appears as the result, the app shows a win for that round as per its rules. If another colour appears, the round is marked as not matched.
+            Ramesh, a new player exploring one of the most trusted Jalwa Game colour prediction platforms, decided to start his journey with the Wingo (1-minute) round to test his luck and understanding of the game. He used a <a href="<?php echo $BASE_URL; ?>/invite-code/">Jalwa Game Invite Code</a> during registration to unlock extra benefits before playing.
           </p>
+          <ul>
+            <li>He selects the Green colour option with a ₹50 stake.</li>
+            <li>Then he selected the number 8 (Big) to place the stake.</li>
+            <li>If the results appear as “Green 8 (Big)”, then Ramesh will win the round with the payout multiplier.</li>
+            <li>IHe could have lost the game if the result were Red.</li>
+          </ul>
 
-          <p class="para-txt">
-            This example helps you understand the main flow: choose, wait, and check the result.
-          </p>
+          
         </div>
       </div>
     </div>
@@ -457,21 +464,19 @@
       <div class="row">
         <div class="col-12">
           <div class="all-h2-head">
-            <h2>What tips should new players follow?</h2>
+            <h2>Tips for New Players</h2>
           </div>
+          <p class="para-txt">
+            If you are a new player who wants to start your journey with colour prediction games, here are some tips to follow. Also, understanding <a href="<?php echo $BASE_URL; ?>/vip-levels/">Jalwa Game VIP Levels</a> can help you unlock extra rewards and benefits while playing.
+          </p>
 
           <ul>
-            <li><strong>Start slowly:</strong> Use small rounds first so you understand the timer and screen options.</li>
-            <li><strong>Read rules for each mode:</strong> Different modes can work differently.</li>
-            <li><strong>Track your actions:</strong> Use the history section so you stay aware of what you did.</li>
+            <li><strong>Start Small:</strong> Always start with a small amount of stakes. This way, you can learn the gaming process without any big risks. Also, make sure to use your Jalwa Game Invite Code when registering to enjoy special rewards and bonuses.</li>
+            <li><strong>Use Game History and Guide If Needed:</strong> Check your game history and guide to understand the rules and result pattern of the game.</li>
+            <li><strong>Set a budget:</strong> fix your daily or weekly recharge limit before you start playing.</li>
+            <li><strong>Do Not Chase Losses:</strong> fIf you lose in one game round, do not try to cover it immediately. Take a short break before you start your next gaming session or stop of you reach your daily limit.</li>
+            <li><strong>Play for Fun:</strong> Remember, these games are for entertainment purposes; do not consider them as a stable income source.</li>
           </ul>
-
-          <p class="para-txt">
-            If you plan to use wallet features, make sure your account details are correct. For withdrawals, read
-            <a href="<?php echo $BASE_URL; ?>/withdraw-money/">withdraw money</a>
-            and for updating details, read
-            <a href="<?php echo $BASE_URL; ?>/change-bank-account/">change bank account</a>.
-          </p>
         </div>
       </div>
     </div>
@@ -483,52 +488,26 @@
       <div class="row">
         <div class="col-12">
           <div class="all-h2-head">
-            <h2>What mistakes should you avoid while playing?</h2>
+            <h2>Mistakes Players Should Avoid</h2>
           </div>
 
           <p class="para-txt">
-            Many problems happen when people play without limits or play too fast. We suggest avoiding these common mistakes:
+            While playing colour prediction games, new players should try to <a href="<?php echo $BASE_URL; ?>/mistakes-to-avoid/">avoid common mistakes in the Jalwa game</a>. Avoiding these can save both your money and time.
           </p>
 
           <ul>
-            <li>Playing continuously without breaks.</li>
-            <li>Spending more than you planned.</li>
-            <li>Playing when you feel stressed or tired.</li>
+            <li><strong>Playing Without A Plan:</strong> Jumping straight into game rounds without setting a budget often leads to overspending.</li>
+            <li><strong>Bidding Too High Too Soon:</strong> Many players risk a big amount at the start of the game, which can lead towards financial losses.</li>
+            <li><strong>Chasing Losses:</strong> Trying to recoup losses immediately can lead to even bigger losses. Play with the patient.</li>
+            <li><strong>Playing When Upset:</strong> Never play if you are angry, stressed or tired. It can affect your decisions.</li>
+            <li><strong>Thinking It's an Assured Income:</strong> Remember, since all results are generated through an RNG system, winning is not guaranteed here.</li>
           </ul>
 
-          <p class="para-txt">
-            For a full list, read our
-            <a href="<?php echo $BASE_URL; ?>/mistakes-to-avoid/">mistakes to avoid</a>
-            guide.
-          </p>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Responsible -->
-  <section class="jalwa-section" id="responsible">
-    <div class="container content-border">
-      <div class="row">
-        <div class="col-12">
-          <div class="all-h2-head">
-            <h2>How can you play responsibly?</h2>
-          </div>
-
-          <ul>
-            <li>Set a fixed limit before you start.</li>
-            <li>Take breaks and do not play for long hours.</li>
-            <li>Stop when you reach your limit.</li>
-          </ul>
-
-          <p class="para-txt">
-            If you want a simple checklist we use, read our
-            <a href="<?php echo $BASE_URL; ?>/play-responsibly-guide/">play responsibly guide</a>.
-          </p>
-        </div>
-      </div>
-    </div>
-  </section>
 
   <!-- Conclusion -->
   <section class="jalwa-section" id="conclusion">
@@ -540,13 +519,11 @@
           </div>
 
           <p class="para-txt">
-            Colour prediction games are designed for quick entertainment. You choose an option, wait for the result, and check whether it matched.
-            Since results are typically random, consistent wins are not guaranteed. The best way is to play carefully, keep limits, and treat it as fun time only.
+            The colour prediction platforms offer a wide range of gaming varieties such as WinGo, TRX Wingo, Moto Racing, K3 and 5D. These games are simple, easy and engaging. You just need to predict a colour or a number and wait for the results. However, always remember that results are random, and no one can guarantee consistent wins.
           </p>
 
           <p class="para-txt">
-            If you ever face login issues, you can follow
-            <a href="<?php echo $BASE_URL; ?>/reset-account-password/">reset account password</a>.
+            The best way to enjoy colour prediction games is by starting with small stakes, playing safely and treating these games only as a fun option.
           </p>
         </div>
       </div>
@@ -566,44 +543,52 @@
             <div class="faq-item" onclick="toggleFAQ(this)">
               <div class="faq-question">
                 <span class="arrow"></span>
-                <h3>Are colour prediction games based on luck or skill?</h3>
+                <h3>Are colour prediction games based on skill or luck?</h3>
               </div>
               <div class="faq-answer">
-                <p>In most cases, results are generated by a random system, so luck plays a major role.</p>
+                <p>It is based on luck as the results are decided by a random system.</p>
               </div>
             </div>
 
             <div class="faq-item" onclick="toggleFAQ(this)">
               <div class="faq-question">
                 <span class="arrow"></span>
-                <h3>Can anyone guarantee a win in every round?</h3>
+                <h3>Can I assure winning in colour prediction games?</h3>
               </div>
               <div class="faq-answer">
-                <p>No. Because outcomes are random, nobody can guarantee winning every round.</p>
+                <p>No, there is no assured strategy to win. However, you can increase your chances with awareness.</p>
               </div>
             </div>
 
             <div class="faq-item" onclick="toggleFAQ(this)">
               <div class="faq-question">
                 <span class="arrow"></span>
-                <h3>Where can I check my previous round history?</h3>
+                <h3>Are colour prediction games legal in India?</h3>
               </div>
               <div class="faq-answer">
-                <p>Most apps provide a “History” or “My History” section where you can see previous rounds and outcomes.</p>
+                <p>Rules can differ by state. Check the local laws before playing.</p>
               </div>
             </div>
 
             <div class="faq-item" onclick="toggleFAQ(this)">
               <div class="faq-question">
                 <span class="arrow"></span>
-                <h3>How do withdrawals usually work in these apps?</h3>
+                <h3>How do I start playing colour prediction games for the first time?</h3>
               </div>
               <div class="faq-answer">
                 <p>
-                  You can usually withdraw from the wallet section. For step-by-step help, read
-                  <a href="<?php echo $BASE_URL; ?>/withdraw-money/">withdraw money</a>.
-                  If you need to update bank details, read
-                  <a href="<?php echo $BASE_URL; ?>/change-bank-account/">change bank account</a>.
+                  Download the colour prediction app, create an account, complete your KYC, and join the game with a small amount.
+              </div>
+            </div>
+
+            <div class="faq-item" onclick="toggleFAQ(this)">
+              <div class="faq-question">
+                <span class="arrow"></span>
+                <h3>Can I play the colour prediction games for free?</h3>
+              </div>
+              <div class="faq-answer">
+                <p>
+                  Yes, some platforms like “Daman Games” offer demo rounds.
                 </p>
               </div>
             </div>
@@ -611,12 +596,47 @@
             <div class="faq-item" onclick="toggleFAQ(this)">
               <div class="faq-question">
                 <span class="arrow"></span>
-                <h3>What should I do if I cannot log in?</h3>
+                <h3>What is the minimum stake amount in colour prediction games?</h3>
               </div>
               <div class="faq-answer">
                 <p>
-                  Use the password recovery steps on
-                  <a href="<?php echo $BASE_URL; ?>/reset-account-password/">reset account password</a>.
+                  You can start with a small bet as low as ₹10 or ₹20.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item" onclick="toggleFAQ(this)">
+              <div class="faq-question">
+                <span class="arrow"></span>
+                <h3>Are there any strategies to win consistently in colour prediction games?</h3>
+              </div>
+              <div class="faq-answer">
+                <p>
+                  No, strategies can only help in managing money, not changing the outcomes.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item" onclick="toggleFAQ(this)">
+              <div class="faq-question">
+                <span class="arrow"></span>
+                <h3>How does the withdrawal process work in colour prediction games?</h3>
+              </div>
+              <div class="faq-answer">
+                <p>
+                  You can easily withdraw your winnings through Bank Transfer, UPI-QR, ARPay, USTD and more.
+                </p>
+              </div>
+            </div>
+
+            <div class="faq-item" onclick="toggleFAQ(this)">
+              <div class="faq-question">
+                <span class="arrow"></span>
+                <h3>What should I do if I lose money in colour prediction games?</h3>
+              </div>
+              <div class="faq-answer">
+                <p>
+                  Take a short break and avoid trying to recover your money immediately.
                 </p>
               </div>
             </div>

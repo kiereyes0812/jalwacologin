@@ -215,14 +215,14 @@
         <div class="col-l2">
           <div class="content-box">
 
-            <img
+            <!-- <img
               src="../assets/image/blog/error-codes-explained.webp"
               alt="Jalwa Game Error Codes Explained"
               width="1200"
               height="628"
               class="img-fluid mb-3"
               loading="lazy"
-            />
+            /> -->
 
             <p class="tpara">
               If you’ve ever been on <a href="<?php echo $BASE_URL; ?>/">Jalwa Game</a>, you might have seen some messages popping up on your screen like “Login Failed,” “Server Timeout,” and more. These pop-ups are called error codes. They act like small signals that tell you something has gone wrong on the other side, inside the game.

@@ -210,14 +210,14 @@
                 </div>
                 <div class="col-l2">
                     <div class="content-box">
-                        <img
+                        <!-- <img
                         src="../assets/image/blog/winning-tricks.webp"
                         alt=" Top 10 Mistakes to Avoid in Jalwa Game"
                         width="1200"
                         height="628"
                         class="img-fluid mb-3"
                         loading="lazy"
-                    />
+                    /> -->
                         <p class="tpara">Let’s be honest. Everyone plays Jalwa Game, but not everyone wins. Some people hit wins back-to-back, while others keep losing and can’t understand why.
                         </p>
                         <p>The truth? It is not all about being lucky to win, but also about playing smart. You should know the game rules. when to play, and when to take a break exactly. These are the simplest things that make the most difference.</p>
@@ -251,7 +251,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="all-h2-head">
-                        <h2>What Should You Know About the Game Before You Play?</h2>
+                        <h2>1. Know Your Game Before You Play</h2>
                     </div>
                     <p class="para-txt">Before you think of winning a big amount, understand what you’re actually playing first. Most players don’t. They jump into playing and end up losing. Be smart, take a few minutes to learn how it actually works.
                     </p>
@@ -319,7 +319,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="all-h2-head">
-                        <h2>Strategies to Improve Your Winning Odds</h2>
+                        <h2>2. Strategies to Improve Your Winning Odds</h2>
                     </div>
                     <p class="para-txt">There’s no magic formula to win every round in Jalwa Game. But there are ways to make the odds tilt slightly in your favour. These small, smart moves separate casual players from consistent winners. Here’s how you can start playing with strategy instead of luck. Players are advised to stay cautious and <a href="<?php echo $BASE_URL; ?>/mistakes-to-avoid/">avoid common mistakes in Jalwa Game</a> to ensure a smoother and more rewarding gameplay experience.
                     </p>
@@ -334,6 +334,27 @@
                         <li>Fishing games or sports bets depend on strategy and timing. It is ideal for you if you like slow, thoughtful gameplay.</li>
                         <li>PVC games (like V8 Poker) test your skill and patience. Perfect if you enjoy reading patterns and bluffing.</li>
                     </ul>
+                    <div class="all-h3-head">
+                        <h3>Manage Your Bets Wisely</h3>
+                    </div>
+                    <p class="para-txt">Even the best strategy fails if you don’t handle your balance properly. Most players lose not because they play badly, but because they play too fast or too big.</p>
+                    <p class="para-txt">Here’s what smart players do differently:</p>
+                    <ul style="list-style: disc; padding-left: 20px;">
+                        <li>Set a budget per day, and once you hit your limit, stop playing.</li>
+                        <li>Split your wallet, like use 60% for normal play, 30% for risky bets, and keep 10% aside for emergencies.</li>
+                        <li>Avoid chasing losses. For example, if you lose three rounds in a row, take a break. Jalwa always offers another chance.</li>
+                    </ul>
+                    <div class="all-h3-head">
+                        <h3>Recognise Patterns and Trends</h3>
+                    </div>
+                    <p class="para-txt">While Jalwa games are primarily based on chance, experienced players notice something others miss, i.e., patterns. These patterns don’t guarantee wins, but they help make better guesses over time.</p>
+                    <p class="para-txt">Here’s what to look out for:</p>
+                    <ul style="list-style: disc; padding-left: 20px;">
+                        <li>In colour-based games (like WIN GO), note the colour sequence. Sometimes a colour repeats more than expected.</li>
+                        <li>In Aviator or time-based games, study when multipliers rise or drop. Small patterns appear after a few rounds.</li>
+                        <li>In slots, don’t assume “it’s due for a win.” Instead, look for consistency and bonus triggers.</li>
+                    </ul>
+                    <p class="para-txt">Keep notes of your gameplay for a week, as the patterns often show up when you review your results, not while playing.</p>
                 </div>
             </div>
         </div>
@@ -346,7 +367,7 @@
                 <div class="col-12">
                     <div class="main3heading">
                         <div class="all-h2-head">
-                            <h2>How to Use Bonuses and Promotions Smartly</h2>
+                            <h2>3. How to Use Bonuses and Promotions Smartly</h2>
                         </div>
                     </div>
                     <p class="para-txt">Bonuses in the Jalwa Game aren’t just extra coins. They’re your chance to play longer without spending more. The trick is to use them wisely instead of wasting them in one go. With the right approach, even a small bonus can give you big value over time. <a href="<?php echo $BASE_URL; ?>/available-bonuses/">Jalwa Game offers various types of bonuses</a> that players can easily access and choose from based on their preferences and gameplay style.</p>
@@ -382,7 +403,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="all-h2-head">
-                        <h2>Common Mistakes to Avoid</h2>
+                        <h2>4. Common Mistakes to Avoid</h2>
                     </div>
                     <p class="para-txt">Every player makes mistakes in the beginning, but in Jalwa Game, small errors can quickly drain your balance. Knowing what not to do is just as important as learning how to win. 
                     </p>
@@ -427,22 +448,23 @@
                 <div class="col-12">
                     <div class="main3heading">
                         <div class="all-h2-head">
-                            <h2>How Can You Play Jalwa Game Responsibly?</h2>
+                            <h2>5. Responsible Gaming Tips.</h2>
                         </div>
                     </div>
                     <p class="para-txt">Playing the Jalwa Game should always stay fun and not stressful. The key is to enjoy the thrill without letting it take over your time or budget. Responsible gaming isn’t about restricting yourself; it’s about staying in control so that every session stays enjoyable.</p>
                     <div class="all-h3-head">
-                        <h3>How Can You Manage Your Time While Playing?</h3>
+                        <h3>Time Management</h3>
                     </div>
                     <p class="para-txt">Set a fixed time before you start playing. Don’t let excitement make you lose track. Short sessions keep your focus sharp and prevent tired mistakes. Take breaks often because a fresh mind makes smarter choices and helps you enjoy the game without stress.</p>
                     <div class="all-h3-head">
-                        <h3>How Should You Plan Your Deposits Safely?</h3>
+                        <h3>Budgeting Your Deposits</h3>
                     </div>
                     <p class="para-txt">Decide your spending limit before you deposit. Never play with money meant for bills or savings. Small, planned deposits keep you safe and relaxed while playing. If you lose, stop and don’t chase it. Remember, Jalwa Game is for fun, not financial pressure.</p>
                 </div>
             </div>
         </div>
     </section>
+    
     <section class="faq-section jalwa-section" id="faqs">
         <div class="container content-border">
             <div class="row">

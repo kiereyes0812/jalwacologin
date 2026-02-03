@@ -210,17 +210,21 @@
         <div class="col-l2">
           <div class="content-box">
 
-            <img
+            <!-- <img
               src="../assets/image/blog/guide-to-unlock-game-account.webp"
               alt="Step-by-Step Guide to Unlock Your Jalwa Game Account"
               width="1200"
               height="628"
               class="img-fluid mb-3"
               loading="lazy"
-            />
+            /> -->
 
             <p class="tpara">
-              Account lock is annoying, especially when you are all set to play games or redeem rewards. This is one of the common issues many users face for reasons like wrong password entry, suspicious login, or being unable to maintain activity for a long time.
+              Account lock is annoying, especially when you are all set to play games or redeem rewards.
+            </p>
+
+            <p class="para-txt">
+              This is one of the common issues many users face for reasons like wrong password entry, suspicious login, or being unable to maintain activity for a long time.
             </p>
 
             <p class="para-txt">
@@ -270,30 +274,25 @@
           </div>
 
           <p class="para-txt">
-            There are several reasons why <a href="<?php echo $BASE_URL; ?>">Jalwa Win Game</a> can lock your account. Being familiar with the frequent causes will assist you in avoiding the problems in the future. To unlock your account, you’ll need your <a href="<?php echo $BASE_URL; ?>/find-game-id/">Jalwa Game ID</a>.
+            There are several reasons why Jalwa Win Game can lock your account. Being familiar with the frequent causes will assist you in avoiding the problems in the future. To unlock your account, you’ll need your <a href="<?php echo $BASE_URL; ?>/find-game-id/">Jalwa Game ID</a>.
           </p>
 
-          <div class="all-h3-head"><h3>How Can Wrong Password Attempts Lock Your Account?</h3></div>
+          <div class="all-h3-head"><h3>Wrong Password Attempt:</h3></div>
           <p class="para-txt">
-            In case you have entered the wrong password several times, you can face a temporary lock. This happens due to security considerations as the app attempts to protect your account against unauthorised access.
+            In case you have entered the wrong password several times, you can face a temporary lock. This happens due to security considerations as the app attempts to rescue your account against unauthorised access.
           </p>
 
-          <div class="all-h3-head"><h3>Why Can Suspicious Login Activity Lock Your Account?</h3></div>
+          <div class="all-h3-head"><h3>Suspicious Activities on the Login:</h3></div>
           <p class="para-txt">
-            The system can lock your account in case of any suspicious login.
+            The system can lock your account in case of any suspicious login. Breach of Terms and Fraud: Suspicious accounts, including those that have multiple logins by a single name, referral misuse, or bonus misuse, can be restricted.
           </p>
 
-          <div class="all-h3-head"><h3>How Can a Terms Breach or Fraud Trigger a Lock?</h3></div>
+          <div class="all-h3-head"><h3>Wrong Account Information:</h3></div>
           <p class="para-txt">
-            Suspicious accounts, including those that have multiple logins by a single name, referral misuse, or bonus misuse, can be restricted.
+            In some cases, when your phone number or payment information has not been verified. The Jalwa game can lock your account until the verification is done.
           </p>
 
-          <div class="all-h3-head"><h3>How Can Wrong Account Information Cause a Lock?</h3></div>
-          <p class="para-txt">
-            In some cases, when your phone number or payment information has not been verified, the Jalwa game can lock your account until the verification is done.
-          </p>
-
-          <div class="all-h3-head"><h3>Why Can an Inactive Account Get Locked?</h3></div>
+          <div class="all-h3-head"><h3>Inactive Account:</h3></div>
           <p class="para-txt">
             The app can temporarily lock your account for security reasons if your account is inactive for a long time.
           </p>
@@ -310,21 +309,20 @@
         <div class="col-12">
 
           <div class="all-h2-head">
-            <h2>What Is the Difference Between a Temporary and Permanent Lock?</h2>
+            <h2>Temporary vs Permanent Lock</h2>
           </div>
+          <p class="para-txt">
+            Here is the difference:
+          </p>
 
-          <div class="all-h3-head"><h3>What Is a Temporary Lock?</h3></div>
+          <div class="all-h3-head"><h3>Temporary Lock</h3></div>
           <p class="para-txt">
             This lock happens as a result of multiple failed attempts at entry. You can attempt to change your password with the “Forget Password” option to get back to your account.
           </p>
 
-          <div class="all-h3-head"><h3>What Is a Permanent Lock?</h3></div>
+          <div class="all-h3-head"><h3>Permanent Lock</h3></div>
           <p class="para-txt">
-            The Jalwa Game App can permanently lock your account in case of severe breaches of your account (fraud, misuse, cheating, etc.). In this case, you should contact customer care and find out about the possible opportunity to appeal.
-          </p>
-
-          <p class="para-txt">
-            You will not be able to unlock your Jalwa Game account without completing the required steps. Ensure your account is correctly registered using a valid <a href="<?php echo $BASE_URL; ?>/invite-code/">Jalwa Game Invite Code</a> to avoid verification issues during recovery.
+            The Jalwa Game App can permanently lock your account in case of severe breaches of your account (fraud, misuse, cheating, etc.). In this case, you should contact customer care and find out about the possible opportunity to appeal. You will not be able to unlock your Jalwa Game account without completing the required steps. Ensure your account is correctly registered using a valid <a href="<?php echo $BASE_URL; ?>/invite-code/">Jalwa Game Invite Code</a> to avoid verification issues during recovery.
           </p>
 
         </div>
@@ -339,16 +337,16 @@
         <div class="col-12">
 
           <div class="all-h2-head">
-            <h2>How Can You Unlock Your Jalwa Game Account Step by Step?</h2>
+            <h2>How to Unlock Your Jalwa Game Account?</h2>
           </div>
 
           <p class="para-txt">
             It is easy to unlock your Jalwa Game account with the steps that are described below.
           </p>
 
-          <div class="all-h3-head"><h3>Step 1: How Can You Verify Your Identity?</h3></div>
+          <div class="all-h3-head"><h3>Step 1: Verify Your Identity</h3></div>
           <p class="para-txt">
-            Visit the Jalwa Game official website or app. On the <a href="<?php echo $BASE_URL; ?>">Jalwa Login</a> page, you can locate text like “Account Locked” or “Too Many Failed Attempts.”
+            Visit the Jalwa Game official website or app. On the <a href="<?php echo $BASE_URL; ?>">Jalwa Login</a> page, you can locate the text like “Account Locked” or “Too Many Failed Attempts.”
           </p>
           <ul class="para-txt">
             <li>Click on “Verify Identity,” after which you may need to provide the details below:</li>
@@ -357,7 +355,7 @@
             <li>Enter the OTP to confirm your account’s ownership.</li>
           </ul>
 
-          <div class="all-h3-head"><h3>Step 2: How Can You Reset Your Password?</h3></div>
+          <div class="all-h3-head"><h3>Step 2: Reset Your Password</h3></div>
           <ul class="para-txt">
             <li>Tap on the “Forget Password” option on your login screen.</li>
             <li>Enter your Jalwa Game-registered phone number.</li>
@@ -366,15 +364,12 @@
           </ul>
 
           <p class="para-txt">
-            Once you have reset your password, try to log in again, as most users gain their access after this stage. If you want a full walkthrough, follow this guide:
-            <a href="<?php echo $BASE_URL; ?>/reset-account-password/">reset your Jalwa Game account password.</a>
+            Once you have reset your password, try to log in again, as most users gain their access after this stage.
           </p>
 
-          <div class="all-h3-head"><h3>Step 3: When Should You Contact Customer Support?</h3></div>
+          <div class="all-h3-head"><h3>Step 3: Contact Customer Support</h3></div>
           <p class="para-txt">
-            If you are not able to unlock your account after completing the steps described above, contact
-            <a href="<?php echo $BASE_URL; ?>/contact-us/">Jalwa Game Customer Service</a>
-            from your login page.
+            If you are not able to unlock your account after completing the steps which are described above, contact Jalwa Game Customer Service from your login page.
           </p>
 
         </div>
@@ -389,25 +384,29 @@
         <div class="col-12">
 
           <div class="all-h2-head">
-            <h2>How Can You Prevent Your Jalwa Account From Getting Locked Again?</h2>
+            <h2>How to Prevent Your Jalwa Account from Getting Locked Again?</h2>
           </div>
 
-          <div class="all-h3-head"><h3>How Can a Strong Password Help?</h3></div>
+          <p>
+            Once your account is unlocked, you can follow the tips which are discussed below to avoid any future occurrences:
+          </p>
+
+          <div class="all-h3-head"><h3>Use a Strong Password</h3></div>
           <p class="para-txt">
             Having a strong login password can prevent the risk of hacking.
           </p>
 
-          <div class="all-h3-head"><h3>Why Should You Avoid Multiple Login Attempts?</h3></div>
+          <div class="all-h3-head"><h3>Use a single attempt at login</h3></div>
           <p class="para-txt">
-            When you forget your password, avoid multiple attempts at logging in; instead, use the “Forget Password” option.
+            When you forget your password, avoid multiple attempts at logging in; instead, use the “Forget Password” option. You can <a href="<?php echo $BASE_URL; ?>/reset-account-password/">reset your Jalwa Game account password</a> anytime if you forget it.
           </p>
 
-          <div class="all-h3-head"><h3>How Can Updated Account Details Make Recovery Easier?</h3></div>
+          <div class="all-h3-head"><h3>Update your Account Information</h3></div>
           <p class="para-txt">
-            Use your valid mobile number and payment information. Updated information enables you to access your account quickly when required.
+            Use your valid mobile number and payment information. The updated information enables you to access your account quickly when required.
           </p>
 
-          <div class="all-h3-head"><h3>Why Should You Avoid Shared Devices and Public WiFi?</h3></div>
+          <div class="all-h3-head"><h3>Avoid Using Shared Devices and WiFi</h3></div>
           <p class="para-txt">
             There are open networks that can steal your information. Do not use public WiFi when making transactions or logging in.
           </p>
@@ -424,26 +423,26 @@
         <div class="col-12">
 
           <div class="all-h2-head">
-            <h2>What Can You Do If You Still Cannot Unlock Your Account?</h2>
+            <h2>Steps to Take If You Are Unable to Unlock Your Account</h2>
           </div>
 
           <p class="para-txt">
             If you are still not able to unlock your account with the above-mentioned steps, here's what you can do next:
           </p>
 
-          <div class="all-h3-head"><h3>How Can You Reach Customer Support Through the App?</h3></div>
+          <div class="all-h3-head"><h3>Reaching Customer Support through the App</h3></div>
           <p class="para-txt">
             The Customer Service option will be available on the Login page. Select “Retrieve login ID Account” to process the query.
           </p>
 
-          <div class="all-h3-head"><h3>What Information Should You Provide for Verification?</h3></div>
+          <div class="all-h3-head"><h3>Provide Required Information</h3></div>
           <p class="para-txt">
-            Enter details like your <a href="<?php echo $BASE_URL; ?>/find-game-id/">Jalwa Game ID</a>, email address, IFSC Code, bank account number, and latest deposit receipt. Click on the “Confirm” button to process your query.
+            Enter details like your Jalwa Game ID, email address, IFSC Code, bank account number, and latest deposit receipt. Click on the “Confirm” button to process your query.
           </p>
 
-          <div class="all-h3-head"><h3>How Long Should You Wait for Verification?</h3></div>
+          <div class="all-h3-head"><h3>Wait For Verification</h3></div>
           <p class="para-txt">
-            The <a href="<?php echo $BASE_URL; ?>/contact-us/">Jalwa Game Customer Support</a> is available 24/7, and therefore, you can reach out to them whenever required. The standard time of reply or processing the query is 24 to 48 hours. In this period of time, avoid sending repeated queries.
+            The <a href="<?php echo $BASE_URL; ?>/support/">Jalwa Game Customer Support</a> is available 24/7, and therefore, you can reach out to them whenever required. The standard time of reply or processing the query is 24-48 hours. In this period of time, avoid sending repeated queries.
           </p>
 
         </div>
